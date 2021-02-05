@@ -1,0 +1,2271 @@
+UID,ID,Tipster,Date,Track,Horse,Bet Type,Odds,Result,TipsterActive
+1,1,Tipster A,24/07/2015,Ascot,Fredricka,Win,8,Lose,TRUE
+2,2,Tipster A,24/07/2015,Thirsk,Spend A Penny,Win,4.5,Lose,TRUE
+3,3,Tipster A,24/07/2015,York,Straightothepoint,Win,7,Lose,TRUE
+4,4,Tipster A,24/07/2015,Newmarket,Miss Inga Sock,Win,5,Lose,TRUE
+5,5,Tipster A,25/07/2015,Ascot,Peril,Win,4.33,Win,TRUE
+6,6,Tipster A,25/07/2015,York,Aldreth,Win,6,Lose,TRUE
+7,7,Tipster A,25/07/2015,Newcastle,Niceonemyson,Win,6,Lose,TRUE
+8,8,Tipster A,25/07/2015,Lingfield,Brandon Castle,Win,6,Lose,TRUE
+9,9,Tipster A,26/07/2015,Carlisle,Sands Time,Win,5.5,Lose,TRUE
+10,10,Tipster A,26/07/2015,Pontefract,Ad Dabaran,Win,2,Lose,TRUE
+11,11,Tipster A,26/07/2015,Uttoxeter,Milgen Bay,Each Way,10,Lose,TRUE
+12,12,Tipster A,01/08/2015,Thirsk,Gleese The Devil,Win,8,Lose,TRUE
+13,13,Tipster A,01/08/2015,Hamilton,Especial,Win,6,Lose,TRUE
+14,14,Tipster A,02/08/2015,Chepstow,Indian Affair,Win,6,Lose,TRUE
+15,15,Tipster A,04/08/2015,Salisbury,Wild Desert,Win,3.25,Win,TRUE
+16,16,Tipster A,04/08/2015,Catterick,Lets Twist,Win,2.75,Lose,TRUE
+17,17,Tipster A,04/08/2015,Chelmsford,Berti Blue Boy,Win,3.5,Lose,TRUE
+18,18,Tipster A,05/08/2015,Brighton,Shes Invincible,Win,3.25,Lose,TRUE
+19,19,Tipster A,05/08/2015,Newcastle,Pacngo,Win,3.25,Lose,TRUE
+20,20,Tipster A,06/08/2015,Wolverhampton,Honiton Lace,Each Way,11,Lose,TRUE
+21,21,Tipster A,14/08/2015,Newmarket,Cultrail,Win,1.8,Lose,TRUE
+22,22,Tipster A,15/08/2015,Newbury,Withernsea,Win,4,Lose,TRUE
+23,23,Tipster A,15/08/2015,Newbury,Cable Bay,Each Way,7.5,Lose,TRUE
+24,24,Tipster A,15/08/2015,Newbury,Albert Bridge,Win,4.5,Win,TRUE
+25,25,Tipster A,15/08/2015,Market Rasen,Towering,Win,3.25,Lose,TRUE
+26,26,Tipster A,16/08/2015,Tramore,Patsio,Each Way,8,Lose,TRUE
+27,27,Tipster A,16/08/2015,Tramore,Illtakeitfromhere,Win,2.5,Lose,TRUE
+28,28,Tipster A,18/08/2015,Leicester,El Astrounote,Win,11,Win,TRUE
+29,29,Tipster A,18/08/2015,Chelmsford,Golden Ambers,Each Way,11,Win,TRUE
+30,30,Tipster A,18/08/2015,Chelmsford,Trimoulet,Win,3.25,Lose,TRUE
+31,31,Tipster A,19/08/2015,York,Bondi Beach,Win,5,Lose,TRUE
+32,32,Tipster A,19/08/2015,Ffos Las,Sir Billy Wright,Win,4.33,Win,TRUE
+33,33,Tipster A,19/08/2015,York,Quick N Quirky,Each Way,21.1,Lose,TRUE
+34,34,Tipster A,19/08/2015,Worcester,At First Light,Each Way,9,Win,TRUE
+35,35,Tipster A,20/08/2015,York,Mussadas,Each Way,8,Lose,TRUE
+36,36,Tipster A,20/08/2015,York,Covert Love,Win,4,Lose,TRUE
+37,37,Tipster A,20/08/2015,York,Koora,Each Way,11,Win,TRUE
+38,38,Tipster A,20/08/2015,York,Mistrusting,Win,4.5,Win,TRUE
+39,39,Tipster A,21/08/2015,Sandown,Royal Toast,Each Way,9,Win,TRUE
+40,40,Tipster A,22/08/2015,York,Top Notch Tonto,Each Way,8,Lose,TRUE
+41,41,Tipster A,22/08/2015,York,Al,Each Way,9,Lose,TRUE
+42,42,Tipster A,22/08/2015,York,Quick Jack,Each Way,8,Lose,TRUE
+43,43,Tipster A,22/08/2015,York,Ornate,Win,2.25,Lose,TRUE
+44,44,Tipster A,22/08/2015,York,Imtiyaaz,Each Way,6,Win,TRUE
+45,45,Tipster A,23/08/2015,Deauville,Ribbons,Win,4,Lose,TRUE
+46,46,Tipster A,23/08/2015,Curragh,Macnicholson,Each Way,11,Lose,TRUE
+47,47,Tipster A,24/08/2015,Brighton,Rockie Road,Win,3.25,Win,TRUE
+48,48,Tipster A,24/08/2015,Leicester,Steventon Star,Win,3.5,Lose,TRUE
+49,49,Tipster A,27/08/2015,Stratford,The Kvilleken,Win,3,Lose,TRUE
+50,50,Tipster A,27/08/2015,Wolverhampton,Reginauld Claude,Each Way,7,Lose,TRUE
+51,51,Tipster A,27/08/2015,Wolverhampton,Aqua Libre,Each Way,9,Win,TRUE
+52,52,Tipster A,28/08/2015,Newmarket,Mister Brightside,Win,4,Win,TRUE
+53,53,Tipster A,28/08/2015,Goodwood,Brittleton,Win,3,Win,TRUE
+54,54,Tipster A,28/08/2015,Goodwood,Volunteer Point,Win,5,Lose,TRUE
+55,55,Tipster A,28/08/2015,Newcastle,Punk Rocker,Win,3.75,Lose,TRUE
+56,56,Tipster A,30/08/2015,Curragh,Three Colours Red,Each Way,7,Lose,TRUE
+57,57,Tipster A,30/08/2015,Beverley,Rosina,Win,3.75,Win,TRUE
+58,58,Tipster A,01/09/2015,Goodwood,Bobby Wheeler,Win,2.5,Lose,TRUE
+59,59,Tipster A,01/09/2015,Goodwood,Gale Force,Win,2.1,Win,TRUE
+60,60,Tipster A,01/09/2015,Hamilton,Candelisa,Each Way,6,Lose,TRUE
+61,61,Tipster A,11/09/2015,Doncaster,Royal Signaler,Each Way,20,Lose,TRUE
+62,62,Tipster A,11/09/2015,Chester,Fours Company,Win,5.5,Lose,TRUE
+63,63,Tipster A,11/09/2015,Doncaster,Shore Step,Win,5.5,Lose,TRUE
+64,64,Tipster A,11/09/2015,Doncaster,Tashweeq,Win,3.25,Win,TRUE
+65,65,Tipster A,11/09/2015,Salisbury,Potternello,Win,4,Lose,TRUE
+66,66,Tipster A,12/09/2015,Doncaster,Breton Rock,Each Way,15.1,Win,TRUE
+67,67,Tipster A,12/09/2015,Leopardstown,Gielded Reflection,Each Way,15,Lose,TRUE
+68,68,Tipster A,12/09/2015,Bath,Goathland,Win,3.25,Win,TRUE
+69,69,Tipster A,12/09/2015,Leicester,Man Of Harleich,Each Way,8,Win,TRUE
+70,70,Tipster A,12/09/2015,Leopardstown,Found,Each Way,10,Win,TRUE
+71,71,Tipster A,14/09/2015,Wolverhampton,Symposium,Win,2.5,Win,TRUE
+72,72,Tipster A,14/09/2015,Wolverhampton,Waabel,Each Way,13,Lose,TRUE
+73,73,Tipster A,14/09/2015,Wolverhampton,Full Of Speed,Win,3.5,Lose,TRUE
+74,74,Tipster A,15/09/2015,Catterick,Geno,Win,2,Lose,TRUE
+75,75,Tipster A,15/09/2015,Catterick,Zain Emperor,Win,2.1,Lose,TRUE
+76,76,Tipster A,15/09/2015,Chepstow,Willsy,Each Way,13,Win,TRUE
+77,77,Tipster A,15/09/2015,Yarmouth,Star Storm,Win,3.5,Win,TRUE
+78,78,Tipster A,16/09/2015,Beverley,Gold Trade,Win,4,Lose,TRUE
+79,79,Tipster A,16/09/2015,Beverley,Poets Prize,Win,3.25,Win,TRUE
+80,80,Tipster A,17/09/2015,Pontefract,Cornborough,Each Way,9,Lose,TRUE
+81,81,Tipster A,17/09/2015,Ayr,Royal Duchess,Each Way,7,Lose,TRUE
+82,82,Tipster A,17/09/2015,Ayr,El Beau,Each Way,10,Win,TRUE
+83,83,Tipster A,18/09/2015,Newbury,Satellite,Win,2.75,Lose,TRUE
+84,84,Tipster A,18/09/2015,Newbury,Stormy Antarctic,Win,6,Win,TRUE
+85,85,Tipster A,18/09/2015,Newbury,Kastini,Win,3.75,Win,TRUE
+86,86,Tipster A,19/09/2015,Ayr,Priceless,Win,3.75,Lose,TRUE
+87,87,Tipster A,19/09/2015,Ayr,George Bowen,Each Way,8,Win,TRUE
+88,88,Tipster A,19/09/2015,Newbury,Cymro,Each Way,10,Win,TRUE
+89,89,Tipster A,19/09/2015,Newmarket,Distain,Win,4,Lose,TRUE
+90,90,Tipster A,19/09/2015,Ayr,Intense Tango,Win,6,Lose,TRUE
+91,91,Tipster A,23/09/2015,Goodwood,Silver Quay,Win,5.5,Lose,TRUE
+92,92,Tipster A,23/09/2015,Goodwood,Scrutinise,Win,3.25,Win,TRUE
+93,93,Tipster A,23/09/2015,Kempton,Royal Toast,Win,6.5,Lose,TRUE
+94,94,Tipster A,24/09/2015,Newmarket,Zonderland,Win,6,Lose,TRUE
+95,95,Tipster A,24/09/2015,Newmarket,Gale Force,Each Way,11,Win,TRUE
+96,96,Tipster A,24/09/2015,Pontefract,El Beau,Win,3.5,Lose,TRUE
+97,97,Tipster A,24/09/2015,Newmarket,Peterhof,Win,5,Lose,TRUE
+98,98,Tipster A,25/09/2015,Newmarket,Light And Shade,Each Way,13,Lose,TRUE
+99,99,Tipster A,25/09/2015,Haydock,Gracious John,Win,3.5,Win,TRUE
+100,100,Tipster A,25/09/2015,Newmarket,Wadi Al Hattaw,Win,3.25,Lose,TRUE
+101,101,Tipster A,25/09/2015,Wolverhampton,My Mo,Win,3.5,Win,TRUE
+102,102,Tipster A,26/09/2015,Newmarket,Musaddas,Each Way,21,Lose,TRUE
+103,103,Tipster A,26/09/2015,Haydock,Doc Charm,Each Way,8,Lose,TRUE
+104,104,Tipster A,26/09/2015,Chelmsford,Western Reserve,Each Way,7,Win,TRUE
+105,105,Tipster A,02/10/2015,Ascot,The Cashel Man,Win,2.5,Lose,TRUE
+106,106,Tipster A,03/10/2015,Ascot,Star Storm,Win,5.5,Win,TRUE
+107,107,Tipster A,03/10/2015,Newmarket,Gifted Master,Win,5.5,Win,TRUE
+108,108,Tipster A,03/10/2015,Ascot,Buckstay,Each Way,7.5,Win,TRUE
+109,109,Tipster A,03/10/2015,Wolverhampton,Cooperess,Win,4,Lose,TRUE
+110,110,Tipster A,05/10/2015,Pontefract,Iconic,Each Way,8,Lose,TRUE
+111,111,Tipster A,05/10/2015,Market Rasen,Ready Token,Win,3.25,Win,TRUE
+112,112,Tipster A,06/10/2015,Leicester,Light Music,Win,1.8,Win,TRUE
+113,113,Tipster A,06/10/2015,Catterick,Saturn Lace,Win,12,Win,TRUE
+114,114,Tipster A,06/10/2015,Leicester,Melvin The Grate,Win,3.75,Lose,TRUE
+115,115,Tipster A,07/10/2015,Nottingham,Mr Pickwick,Each Way,4,Lose,TRUE
+116,116,Tipster A,07/10/2015,Nottingham,Green Light,Each Way,5,Lose,TRUE
+117,117,Tipster A,07/10/2015,Chester,Chester Street,Win,2.88,Win,TRUE
+118,118,Tipster A,08/10/2015,Worcester,Mighty Leader,Each Way,5,Lose,TRUE
+119,119,Tipster A,08/10/2015,Worcester,Ballybane,Each Way,4.5,Lose,TRUE
+120,120,Tipster A,09/10/2015,Newmarket,Hawksmoor,Each Way,26,Win,TRUE
+121,121,Tipster A,09/10/2015,Newmarket,Promising Run,Win,7,Lose,TRUE
+122,122,Tipster A,09/10/2015,Newmarket,Keep In Line,Each Way,12,Lose,TRUE
+123,123,Tipster A,09/10/2015,York,Order Of Service,Each Way,17,Lose,TRUE
+124,124,Tipster A,09/10/2015,Dundalk,Glass House,Win,6,Lose,TRUE
+125,125,Tipster A,10/10/2015,York,Arabian Illusion,Win,6,Lose,TRUE
+126,126,Tipster A,10/10/2015,Newmarket,Beacon Rock,Win,4.33,Lose,TRUE
+127,127,Tipster A,10/10/2015,Newmarket,Bayan,Each Way,15,Lose,TRUE
+128,128,Tipster A,10/10/2015,Newmarket,Heartbreak City,Each Way,10,Lose,TRUE
+129,129,Tipster A,10/10/2015,Chepstow,Dexcite,Each Way,9,Win,TRUE
+130,130,Tipster A,10/10/2015,Chepstow,Sausalito Sunrise,Win,4.5,Lose,TRUE
+131,131,Tipster A,11/10/2015,Curragh,Fort Del Oro,Each Way,5.5,Win,TRUE
+132,132,Tipster A,12/10/2015,Sedgefield,Mias Anthem,Win,3.5,Win,TRUE
+133,133,Tipster A,12/10/2015,Salisbury,Mobsta,Win,5.5,Lose,TRUE
+134,134,Tipster A,13/10/2015,Huntingdon,Verano,Win,2.88,Lose,TRUE
+135,135,Tipster A,13/10/2015,Wolverhampton,Seychelloise,Win,3,Lose,TRUE
+136,136,Tipster A,14/10/2015,Wetherby,Our Thomas,Win,2.38,Win,TRUE
+137,137,Tipster A,14/10/2015,Nottingham,Lahayeb,Each Way,9,Win,TRUE
+138,138,Tipster A,14/10/2015,Nottingham,Frederika,Each Way,9,Win,TRUE
+139,139,Tipster A,14/10/2015,Wetherby,Beatabout The Bush,Each Way,11,Lose,TRUE
+140,140,Tipster A,15/10/2015,Uttoxeter,Tennessee Bird,Win,4,Lose,TRUE
+141,141,Tipster A,15/10/2015,Chelmsford,Force,Win,2.88,Lose,TRUE
+142,142,Tipster A,15/10/2015,Chelmsford,Kingscroft,Each Way,11,Lose,TRUE
+143,143,Tipster A,16/10/2015,Wincanton,Dry Ol Party,Each Way,7.5,Win,TRUE
+144,144,Tipster A,16/10/2015,Haydock,Mitchum Swagger,Win,2.5,Lose,TRUE
+145,145,Tipster A,16/10/2015,Fakenham,Knock House,Win,2.38,Lose,TRUE
+146,146,Tipster A,17/10/2015,Ascot,Flying Officer,Each Way,8,Win,TRUE
+147,147,Tipster A,17/10/2015,Ascot,Fort Del Oro,Each Way,26,Lose,TRUE
+148,148,Tipster A,17/10/2015,Ascot,The Tin Man,Each Way,9,Lose,TRUE
+149,149,Tipster A,17/10/2015,Cork,In Salutem,Win,5,Lose,TRUE
+150,150,Tipster A,17/10/2015,Ascot,Bocca Bacciata,Each Way,21,Lose,TRUE
+151,151,Tipster A,17/10/2015,Ascot,Territories,Each Way,11,Lose,TRUE
+152,152,Tipster A,17/10/2015,Ascot,The Corsican,Each Way,11,Lose,TRUE
+153,153,Tipster A,17/10/2015,Market Rasen,Pain Au Chocolat,Win,4,Lose,TRUE
+154,154,Tipster A,17/10/2015,Cork,Ibergman,Win,4,Lose,TRUE
+155,155,Tipster A,17/10/2015,Wolverhampton,Debt Free Dame,Each Way,7,Lose,TRUE
+156,156,Tipster A,18/10/2015,Cork,Crown Theatre,Each Way,9,Win,TRUE
+157,157,Tipster A,18/10/2015,Naas,Avenante,Each Way,15,Lose,TRUE
+158,158,Tipster A,19/10/2015,Windsor,Quatrieme Ami,Win,2.1,Win,TRUE
+159,159,Tipster A,20/10/2015,Exeter,Bulletproof,Win,4,Lose,TRUE
+160,160,Tipster A,20/10/2015,Windsor,Duchy,Each Way,6,Lose,TRUE
+161,161,Tipster A,21/10/2015,Worcester,Doctor Phoenix,Win,13,Lose,TRUE
+162,162,Tipster A,21/10/2015,Galway,Fergal Mael Duin,Win,2.38,Win,TRUE
+163,163,Tipster A,21/10/2015,Navan,Bunk Off Early,Win,3,Lose,TRUE
+164,164,Tipster A,21/10/2015,Kempton,Mr Bossy Boots,Each Way,7,Win,TRUE
+165,165,Tipster A,22/10/2015,Ludlow,Breaking Bits,Each Way,5,Lose,TRUE
+166,166,Tipster A,22/10/2015,Chelmsford,Best Example,Win,2.88,Win,TRUE
+167,167,Tipster A,23/10/2015,Doncaster,Dolphin Vista,Win,4.5,Lose,TRUE
+168,168,Tipster A,23/10/2015,Cheltenham,Rock The World,Win,3.5,Win,TRUE
+169,169,Tipster A,23/10/2015,Cheltenham,Vintage Vinnie,Win,4,Lose,TRUE
+170,170,Tipster A,23/10/2015,Doncaster,Maraakib,Win,3,Win,TRUE
+171,171,Tipster A,23/10/2015,Cheltenham,Top Cat Henry,Each Way,6,Win,TRUE
+172,172,Tipster A,23/10/2015,Wolverhampton,Cottesloe,Each Way,13,Lose,TRUE
+173,173,Tipster A,24/10/2015,Cheltenham,Workbench,Each Way,10,Win,TRUE
+174,174,Tipster A,24/10/2015,Newbury,Moderah,Each Way,7,Win,TRUE
+175,175,Tipster A,24/10/2015,Newbury,Kastini,Each Way,8,Lose,TRUE
+176,176,Tipster A,24/10/2015,Leopardstown,Blue De Vega,Win,3,Win,TRUE
+177,177,Tipster A,24/10/2015,Newbury,Light Music,Win,2.38,Win,TRUE
+178,178,Tipster A,24/10/2015,Newbury,Acclio,Each Way,17,Lose,TRUE
+179,179,Tipster A,25/10/2015,Aintree,Duke Of Navan,Each Way,9,Lose,TRUE
+180,180,Tipster A,25/10/2015,Aintree,La Bague Au Roi,Each Way,5,Win,TRUE
+181,181,Tipster A,25/10/2015,Wincanton,Impulsive American,Win,4,Lose,TRUE
+182,182,Tipster A,26/10/2015,Hamilton,Champagne Bob,Each Way,8,Win,TRUE
+183,183,Tipster A,26/10/2015,Galway,Powersbomb,Each Way,7.5,Lose,TRUE
+184,184,Tipster A,27/10/2015,Lingfield,Athenian Garden,Win,4,Lose,TRUE
+185,185,Tipster A,27/10/2015,Listowel,Blacklister,Each Way,8,Lose,TRUE
+186,186,Tipster A,27/10/2015,Wolverhampton,Berlusca,Win,3.5,Lose,TRUE
+187,187,Tipster A,28/10/2015,Nottingham,Al,Win,2.38,Lose,TRUE
+188,188,Tipster A,28/10/2015,Kempton,Arsty,Win,2.5,Lose,TRUE
+189,189,Tipster A,28/10/2015,Kempton,Ladurelli,Each Way,5.5,Lose,TRUE
+190,190,Tipster A,29/10/2015,Stratford,Faustina Pius,Each Way,11,Win,TRUE
+191,191,Tipster A,29/10/2015,Lingfield,Mr Pickwick,Win,3,Lose,TRUE
+192,192,Tipster A,29/10/2015,Lingfield,Desert Snow,Each Way,4.5,Lose,TRUE
+193,193,Tipster A,29/10/2015,Lingfield,Crazy Chic,Each Way,10,Win,TRUE
+194,194,Tipster A,29/10/2015,Chelmsford,Satchville Flyer,Each Way,8,Lose,TRUE
+195,195,Tipster A,30/10/2015,Newmarket,Weetles,Each Way,8.5,Win,TRUE
+196,196,Tipster A,30/10/2015,Wetherby,Kapstadt,Win,4,Lose,TRUE
+197,197,Tipster A,30/10/2015,Newmarket,Mobsta,Win,3.25,Win,TRUE
+198,198,Tipster A,30/10/2015,Newmarket,Paddys Runner,Each Way,7,Lose,TRUE
+199,199,Tipster A,30/10/2015,Wolverhampton,Exit Europe,Each Way,5,Lose,TRUE
+200,200,Tipster A,31/10/2015,Newmarket,Bumptious,Each Way,11,Win,TRUE
+201,201,Tipster A,31/10/2015,Ascot,Chtibello,Each Way,15,Win,TRUE
+202,202,Tipster A,31/10/2015,Limerick,Aqalim,Each Way,6,Win,TRUE
+203,203,Tipster A,31/10/2015,Ascot,What A Warrior,Each Way,9,Lose,TRUE
+204,204,Tipster A,31/10/2015,Wetherby,Medicine Hat,Each Way,8,Lose,TRUE
+205,205,Tipster A,01/11/2015,Carlisle,Out Sam,Win,3.5,Lose,TRUE
+206,206,Tipster A,01/11/2015,Cork,Unoccupied,Each Way,9,Lose,TRUE
+207,207,Tipster A,02/11/2015,Plumpton,Girly Girl,Win,3.5,Win,TRUE
+208,208,Tipster A,02/11/2015,Ludlow,Helium,Each Way,6,Win,TRUE
+209,209,Tipster A,03/11/2015,Exeter,Walking The Air,Win,4,Lose,TRUE
+210,210,Tipster A,03/11/2015,Exeter,Vibrato Valtat,Win,4,Win,TRUE
+211,211,Tipster A,03/11/2015,Wolverhampton,Rouge Nuage,Each Way,13,Win,TRUE
+212,212,Tipster A,04/11/2015,Warwick,David John,Each Way,9,Win,TRUE
+213,213,Tipster A,04/11/2015,Nottingham,Flashy Queen,Each Way,13,Lose,TRUE
+214,214,Tipster A,04/11/2015,Chepstow,Moorlands Mist,Each Way,21,Lose,TRUE
+215,215,Tipster A,04/11/2015,Kempton,Bombilate,Each Way,8,Lose,TRUE
+216,216,Tipster A,04/11/2015,Kempton,Estidraak,Win,1.91,Win,TRUE
+217,217,Tipster A,05/11/2015,Thurles,Venitien De Mai,Win,3.75,Lose,TRUE
+218,218,Tipster A,05/11/2015,Towcester,Gee Hi,Win,1.83,Lose,TRUE
+219,219,Tipster A,05/11/2015,Chelmsford,Bancnuanaheireann,Each Way,10,Win,TRUE
+220,220,Tipster A,06/11/2015,Musselburgh,Serenity Now,Win,2.63,Lose,TRUE
+221,221,Tipster A,06/11/2015,Musselburgh,Aristo Du Plessis,Win,2.62,Win,TRUE
+222,222,Tipster A,06/11/2015,Hexham,Destiny Awaits,Each Way,6.5,Lose,TRUE
+223,223,Tipster A,07/11/2015,Wincanton,Wishfull Dreaming,Win,2.38,Lose,TRUE
+224,224,Tipster A,07/11/2015,Wincanton,Warrantor,Win,9,Lose,TRUE
+225,225,Tipster A,07/11/2015,Doncaster,Predominance,Win,5,Lose,TRUE
+226,226,Tipster A,07/11/2015,Aintree,Our Kaempfer,Win,3.75,Lose,TRUE
+227,227,Tipster A,07/11/2015,Doncaster,Iveagh Gardens,Each Way,6,Lose,TRUE
+228,228,Tipster A,08/11/2015,Limerick,Bold Bid,Each Way,8.5,Lose,TRUE
+229,229,Tipster A,08/11/2015,Ffos Las,Ma Du Fou,Win,2,Win,TRUE
+230,230,Tipster A,08/11/2015,Sandown,Chic Name,Win,3,Lose,TRUE
+231,231,Tipster A,09/11/2015,Kempton,Second Wave,Win,4,Win,TRUE
+232,232,Tipster A,09/11/2015,Kempton,Big Whiskey,Each Way,8,Win,TRUE
+233,233,Tipster A,09/11/2015,Kempton,Dutiful Son,Win,3.5,Win,TRUE
+234,234,Tipster A,09/11/2015,Kempton,Revision,Each Way,7.5,Win,TRUE
+235,235,Tipster A,09/11/2015,Kempton,Exit Europe,Each Way,6.5,Win,TRUE
+236,236,Tipster A,10/11/2015,Lingfield,Flementine,Win,5,Lose,TRUE
+237,237,Tipster A,10/11/2015,Sedgefield,Friendly Royal,Win,4.5,Lose,TRUE
+238,238,Tipster A,11/11/2015,Ayr,Glacial Rock,Each Way,6.5,Lose,TRUE
+239,239,Tipster A,11/11/2015,Ayr,Final Assault,Win,2.88,Win,TRUE
+240,240,Tipster A,11/11/2015,Dundalk,Credit The Giver,Each Way,6,Win,TRUE
+241,241,Tipster A,12/11/2015,Taunton,Lady Of Lamanver,Each Way,6,Lose,TRUE
+242,242,Tipster A,12/11/2015,Ludlow,Max Forte,Each Way,9,Win,TRUE
+243,243,Tipster A,13/11/2015,Lingfield,Port Paradise,Each Way,11,Lose,TRUE
+244,244,Tipster A,13/11/2015,Cheltenham,La Vaticane,Win,4.5,Lose,TRUE
+245,245,Tipster A,13/11/2015,Lingfield,Tuco,Win,3.25,Lose,TRUE
+246,246,Tipster A,13/11/2015,Cheltenham,A Hare Breath,Each Way,7,Win,TRUE
+247,247,Tipster A,13/11/2015,Wolverhampton,Quatrieme Ami,Win,3.25,Win,TRUE
+248,248,Tipster A,14/11/2015,Cheltenham,Knockanrawley,Each Way,15,Win,TRUE
+249,249,Tipster A,14/11/2015,Cheltenham,Irish Cavalier,Each Way,11,Win,TRUE
+250,250,Tipster A,14/11/2015,Lingfield,Grendisar,Each Way,11,Win,TRUE
+251,251,Tipster A,14/11/2015,Wetherby,Kayf Blanco,Each Way,8,Win,TRUE
+252,252,Tipster A,15/11/2015,Punchestown,Colla Pier,Each Way,11,Win,TRUE
+253,253,Tipster A,15/11/2015,Cheltenham,Altior,Win,3.75,Win,TRUE
+254,254,Tipster A,15/11/2015,Fontwell,Gorgehous Lliege,Each Way,6.5,Lose,TRUE
+255,255,Tipster A,15/11/2015,Cheltenham,Simply Ned,Win,3.75,Lose,TRUE
+256,256,Tipster A,16/11/2015,Wolverhampton,Epsom Day,Win,2.62,Lose,TRUE
+257,257,Tipster A,16/11/2015,Plumpton,Vinciaettis,Win,2.5,Win,TRUE
+258,258,Tipster A,17/11/2015,Lingfield,Justice Rock,Each Way,6,Lose,TRUE
+259,259,Tipster A,17/11/2015,SouthWell,Theredballoon,Win,3.75,Lose,TRUE
+260,260,Tipster A,17/11/2015,SouthWell,Pithivier,Win,3.75,Win,TRUE
+261,261,Tipster A,17/11/2015,SouthWell,Yes I Did,Each Way,5,Win,TRUE
+262,262,Tipster A,18/11/2015,Warwick,Varom,Win,4.5,Lose,TRUE
+263,263,Tipster A,18/11/2015,Chepstow,Boyfromnowhere,Win,3.75,Lose,TRUE
+264,264,Tipster A,19/11/2015,Lingfield,Rememberance Day,Each Way,12,Lose,TRUE
+265,265,Tipster A,19/11/2015,Chelmsford,Steal The Scene,Each Way,11,Win,TRUE
+266,266,Tipster A,19/11/2015,Chelmsford,Crazy Chic,Win,3.25,Lose,TRUE
+267,267,Tipster A,19/11/2015,Chelmsford,Big Whiskey,Each Way,7,Win,TRUE
+268,268,Tipster A,19/11/2015,Chelmsford,Kristijano,Win,3,Lose,TRUE
+269,269,Tipster A,20/11/2015,Haydock,Doctor Phoenix,Win,3,Win,TRUE
+270,270,Tipster A,20/11/2015,Haydock,Welsh Shadow,Win,2.62,Win,TRUE
+271,271,Tipster A,20/11/2015,Wolverhampton,Turn On The Tears,Each Way,5.5,Win,TRUE
+272,272,Tipster A,21/11/2015,Lingfield,Exit Europe,Win,3.25,Lose,TRUE
+273,273,Tipster A,21/11/2015,Ascot,Kitty Caul,Each Way,10,Lose,TRUE
+274,274,Tipster A,21/11/2015,Ascot,Crown Theatre,Each Way,6.5,Lose,TRUE
+275,275,Tipster A,21/11/2015,Haydock,Straidnahanna,Each Way,7,Lose,TRUE
+276,276,Tipster A,21/11/2015,Galway,Illegally Blonde,Win,3.5,Win,TRUE
+277,277,Tipster A,21/11/2015,Wolverhampton,Thataboy,Each Way,13,Lose,TRUE
+278,278,Tipster A,21/11/2015,Wolverhampton,Right Madam,Each Way,7,Lose,TRUE
+279,279,Tipster A,22/11/2015,Navan,Roll It Out,Each Way,5.5,Win,TRUE
+280,280,Tipster A,22/11/2015,Exeter,St Dominick,Win,5.5,Win,TRUE
+281,281,Tipster A,23/11/2015,Kempton,Lettheriverundry,Each Way,6,Lose,TRUE
+282,282,Tipster A,23/11/2015,Ludlow,Armchair Theatre,Win,3,Lose,TRUE
+283,283,Tipster A,23/11/2015,Chelmsford,Big Whiskey,Each Way,6.5,Win,TRUE
+284,284,Tipster A,23/11/2015,Kempton,Presence Felt,Each Way,7,Win,TRUE
+285,285,Tipster A,24/11/2015,SouthWell,What Could She Be,Each Way,4,Win,TRUE
+286,286,Tipster A,24/11/2015,Lingfield,Midnight Silver,Each Way,4.5,Lose,TRUE
+287,287,Tipster A,24/11/2015,SouthWell,Commissar,Each Way,8,Lose,TRUE
+288,288,Tipster A,25/11/2015,Dundalk,Hat Alnasar,Win,4,Lose,TRUE
+289,289,Tipster A,25/11/2015,Kempton,Lancelot Du Lac,Win,3.5,Win,TRUE
+290,290,Tipster A,26/11/2015,SouthWell,Rubis,Each Way,7.5,Win,TRUE
+291,291,Tipster A,26/11/2015,Newbury,Value At Risk,Win,3.75,Lose,TRUE
+292,292,Tipster A,26/11/2015,Newbury,Chtibello,Win,4,Lose,TRUE
+293,293,Tipster A,26/11/2015,SouthWell,Danish Duke,Each Way,10,Win,TRUE
+294,294,Tipster A,26/11/2015,Chelmsford,Make Music,Each Way,5,Lose,TRUE
+295,295,Tipster A,26/11/2015,Chelmsford,Epsom Day,Win,2.1,Lose,TRUE
+296,296,Tipster A,27/11/2015,Newbury,Maximiser,Each Way,5,Lose,TRUE
+297,297,Tipster A,27/11/2015,Newbury,West Approach,Each Way,17,Lose,TRUE
+298,298,Tipster A,27/11/2015,York,Air Of York,Win,2.75,Win,TRUE
+299,299,Tipster A,27/11/2015,Wolverhampton,Wink Oliver,Win,3.5,Lose,TRUE
+300,300,Tipster A,27/11/2015,Dundalk,Red Rannagh,Each Way,5.5,Win,TRUE
+301,301,Tipster A,28/11/2015,Fairyhouse,Dysios,Each Way,21,Lose,TRUE
+302,302,Tipster A,28/11/2015,Newcastle,Ballydine,Win,2.88,Win,TRUE
+303,303,Tipster A,28/11/2015,Newbury,Aloomomo,Each Way,8,Win,TRUE
+304,304,Tipster A,28/11/2015,Doncaster,Jack Steel,Win,3.75,Lose,TRUE
+305,305,Tipster A,28/11/2015,Newbury,Houblon Des Obeaux,Each Way,15,Lose,TRUE
+306,306,Tipster A,28/11/2015,Bangor,Final Nudge,Win,2.38,Win,TRUE
+307,307,Tipster A,28/11/2015,Newbury,Pearls Legend,Each Way,8.5,Win,TRUE
+308,308,Tipster A,29/11/2015,Carlisle,On Tour,Win,1.91,Win,TRUE
+309,309,Tipster A,30/11/2015,Wolverhampton,Edith Weston,Each Way,13,Lose,TRUE
+310,310,Tipster A,30/11/2015,Wolverhampton,Rock Of Monaco,Each Way,8,Win,TRUE
+311,311,Tipster A,30/11/2015,Wolverhampton,Russian Radiance,Win,3.5,Win,TRUE
+312,312,Tipster A,30/11/2015,Kempton,Sunbaked,Win,3.5,Lose,TRUE
+313,313,Tipster A,01/12/2015,SouthWell,Crosspark,Win,3,Lose,TRUE
+314,314,Tipster A,01/12/2015,Aintree,Saint Raph,Win,4,Lose,TRUE
+315,315,Tipster A,01/12/2015,Wolverhampton,The Gay Cavalier,Win,4,Lose,TRUE
+316,316,Tipster A,02/12/2015,Lingfield,Cottesloe,Each Way,11,Lose,TRUE
+317,317,Tipster A,02/12/2015,Ludlow,Tara Mist,Win,5,Lose,TRUE
+318,318,Tipster A,03/12/2015,Leicester,Moscow Me,Win,3,Lose,TRUE
+319,319,Tipster A,03/12/2015,Wincanton,Kings Apollo,Each Way,11,Lose,TRUE
+320,320,Tipster A,03/12/2015,Market Rasen,Nebula Storm,Win,4,Lose,TRUE
+321,321,Tipster A,03/12/2015,Kempton,Aldeburgh,Each Way,9,Lose,TRUE
+322,322,Tipster A,04/12/2015,Exeter,St Dominick,Each Way,6.5,Lose,TRUE
+323,323,Tipster A,04/12/2015,Sandown,Label Des Obeaux,Each Way,4.5,Win,TRUE
+324,324,Tipster A,04/12/2015,Exeter,Never Says Never,Win,2,Lose,TRUE
+325,325,Tipster A,04/12/2015,Wolverhampton,Ejayteekay,Each Way,5.5,Lose,TRUE
+326,326,Tipster A,04/12/2015,Dundalk,Little Sweetheart,Each Way,4,Win,TRUE
+327,327,Tipster A,05/12/2015,Wetherby,Bobs Lady Tamure,Each Way,17,Lose,TRUE
+328,328,Tipster A,05/12/2015,Sandown,Vibrato Valtat,Win,3,Lose,TRUE
+329,329,Tipster A,05/12/2015,Wolverhampton,Quatrieme Ami,Each Way,5,Win,TRUE
+330,330,Tipster A,06/12/2015,Punchestown,Empire Of Dirt,Win,4.5,Lose,TRUE
+331,331,Tipster A,06/12/2015,Huntingdon,La Bague Au Roi,Win,1.91,Win,TRUE
+332,332,Tipster A,07/12/2015,Lingfield,Enaad,Win,2.25,Win,TRUE
+333,333,Tipster A,07/12/2015,Chelmsford,Mighty Zip,Each Way,6,Win,TRUE
+334,334,Tipster A,07/12/2015,Chelmsford,Supersta,Win,2.1,Win,TRUE
+335,335,Tipster A,08/12/2015,SouthWell,Grey Destiny,Each Way,5,Lose,TRUE
+336,336,Tipster A,08/12/2015,Uttoxeter,Baywing,Win,2.75,Win,TRUE
+337,337,Tipster A,08/12/2015,SouthWell,Tigers Home,Win,3,Lose,TRUE
+338,338,Tipster A,08/12/2015,Uttoxeter,April Dusk,Win,3,Win,TRUE
+339,339,Tipster A,09/12/2015,Lingfield,Silver Quay,Win,2.25,Lose,TRUE
+340,340,Tipster A,09/12/2015,Lingfield,Big Time,Win,3,Lose,TRUE
+341,341,Tipster A,09/12/2015,Lingfield,Outer Space,Win,5,Lose,TRUE
+342,342,Tipster A,10/12/2015,Warwick,Capilla,Win,2.2,Lose,TRUE
+343,343,Tipster A,10/12/2015,Taunton,Sidbury Hill,Win,3.5,Lose,TRUE
+344,344,Tipster A,10/12/2015,Warwick,Cyclop,Win,3,Win,TRUE
+345,345,Tipster A,11/12/2015,Cheltenham,A Hare Breath,Win,3.25,Lose,TRUE
+346,346,Tipster A,11/12/2015,Cheltenham,One Track Mind,Each Way,4.33,Lose,TRUE
+347,347,Tipster A,12/12/2015,Doncaster,Holly Bush Henry,Win,3.5,Win,TRUE
+348,348,Tipster A,12/12/2015,Cheltenham,Sceau Royal,Win,3.5,Win,TRUE
+349,349,Tipster A,12/12/2015,Cheltenham,Tenor Nivernais,Each Way,13,Win,TRUE
+350,350,Tipster A,12/12/2015,Cheltenham,Final Nudge,Win,7.5,Lose,TRUE
+351,351,Tipster A,12/12/2015,SouthWell,Grey Destiny,Win,5.5,Win,TRUE
+352,352,Tipster A,13/12/2015,SouthWell,Penn Lane,Win,3,Lose,TRUE
+353,353,Tipster A,13/12/2015,Navan,All You Need,Each Way,5,Lose,TRUE
+354,354,Tipster A,13/12/2015,SouthWell,Ruby Rambler,Win,3.75,Win,TRUE
+355,355,Tipster A,14/12/2015,Ffos Las,Never Equalled,Each Way,6,Win,TRUE
+356,356,Tipster A,14/12/2015,Wolverhampton,Quality Song,Win,2.62,Lose,TRUE
+357,357,Tipster A,15/12/2015,Kempton,Wharane,Each Way,12,Lose,TRUE
+358,358,Tipster A,16/12/2015,Lingfield,Sacred Trust,Win,3.5,Lose,TRUE
+359,359,Tipster A,16/12/2015,Ludlow,Double Shuffle,Win,5,Win,TRUE
+360,360,Tipster A,16/12/2015,Lingfield,Sirens Cove,Win,5.5,Lose,TRUE
+361,361,Tipster A,16/12/2015,Newbury,Big Chief Benny,Win,3.25,Lose,TRUE
+362,362,Tipster A,16/12/2015,Kempton,Severini,Win,1.73,Win,TRUE
+363,363,Tipster A,17/12/2015,Exeter,Kylemore Lough,Win,3,Win,TRUE
+364,364,Tipster A,17/12/2015,Exeter,Our Cat,Win,5.5,Lose,TRUE
+365,365,Tipster A,17/12/2015,SouthWell,Serenity Now,Each Way,4.33,Lose,TRUE
+366,366,Tipster A,18/12/2015,Hamilton,Duke Des Champs,Each Way,7,Win,TRUE
+367,367,Tipster A,18/12/2015,Wolverhampton,Take The Helm,Each Way,6,Win,TRUE
+368,368,Tipster A,18/12/2015,Dundalk,Oscar Dominguez,Win,3.5,Win,TRUE
+369,369,Tipster A,19/12/2015,Lingfield,Barye,Each Way,8,Win,TRUE
+370,370,Tipster A,19/12/2015,Lingfield,Grendisar,Win,3.75,Lose,TRUE
+371,371,Tipster A,19/12/2015,Ascot,Winner Massagot,Each Way,7,Lose,TRUE
+372,372,Tipster A,20/12/2015,Fakenham,Wings Attract,Win,3.75,Lose,TRUE
+373,373,Tipster A,20/12/2015,Lingfield,Koreen,Each Way,5,Lose,TRUE
+374,374,Tipster A,21/12/2015,Lingfield,Warrantor,Win,5,Win,TRUE
+375,375,Tipster A,21/12/2015,Chelmsford,Fast Sprite,Win,4,Lose,TRUE
+376,376,Tipster A,22/12/2015,SouthWell,Yul Finegold,Win,3.5,Lose,TRUE
+377,377,Tipster A,22/12/2015,Wolverhampton,Next Edition,Each Way,7,Lose,TRUE
+378,378,Tipster A,26/12/2015,Leopardstown,Coney Island,Win,3,Win,TRUE
+379,379,Tipster A,26/12/2015,Sedgefield,Bollin Ace,Each Way,5,Lose,TRUE
+380,380,Tipster A,26/12/2015,Leopardstown,Dont Touch It,Win,4.5,Lose,TRUE
+381,381,Tipster A,26/12/2015,Kempton,Open Eagle,Win,4.5,Lose,TRUE
+382,382,Tipster A,26/12/2015,Wolverhampton,Horsted Keynes,Each Way,7,Lose,TRUE
+383,383,Tipster A,26/12/2015,Leopardstown,Ttebbob,Win,5,Lose,TRUE
+384,384,Tipster A,26/12/2015,Kempton,Matorico,Each Way,9,Lose,TRUE
+385,385,Tipster A,27/12/2015,Kempton,Ar Mad,Win,4,Win,TRUE
+386,386,Tipster A,27/12/2015,Leopardstown,Petit Mouchoir,Each Way,13,Win,TRUE
+387,387,Tipster A,27/12/2015,Leopardstown,Woodland Opera,Each Way,8,Lose,TRUE
+388,388,Tipster A,27/12/2015,Leopardstown,Rossvoss,Each Way,15,Lose,TRUE
+389,389,Tipster A,27/12/2015,Kempton,Desert Queen,Win,2.75,Lose,TRUE
+390,390,Tipster A,28/12/2015,Tipperary,Tippmanboy,Each Way,4.5,Lose,TRUE
+391,391,Tipster A,28/12/2015,Leopardstown,Jimmy Two Times,Each Way,17,Lose,TRUE
+392,392,Tipster A,28/12/2015,Lingfield,Gabrial The Hero,Each Way,8,Win,TRUE
+393,393,Tipster A,28/12/2015,Lingfield,Spiritual Star,Each Way,10,Lose,TRUE
+394,394,Tipster A,29/12/2015,SouthWell,Northside Prince,Each Way,10,Win,TRUE
+395,395,Tipster A,29/12/2015,Longchamp,Go Long,Win,2.5,Lose,TRUE
+396,396,Tipster A,29/12/2015,Doncaster,Kalane,Win,3.25,Lose,TRUE
+397,397,Tipster A,30/12/2015,Lingfield,Archaic,Win,2.5,Lose,TRUE
+398,398,Tipster A,30/12/2015,Haydock,Friendly Royal,Win,3.25,Lose,TRUE
+399,399,Tipster A,30/12/2015,Haydock,Nansaroy,Win,2.38,Lose,TRUE
+400,400,Tipster A,30/12/2015,Wolverhampton,Seraphima,Each Way,17,Lose,TRUE
+401,401,Tipster A,31/12/2015,Lingfield,Ghost Train,Each Way,7,Win,TRUE
+402,402,Tipster A,31/12/2015,Lingfield,Cambodia,Win,3.25,Lose,TRUE
+403,403,Tipster A,31/12/2015,Punchestown,Ice Cool,Win,2.62,Win,TRUE
+404,404,Tipster A,01/01/2016,Cheltenham,Preseli Rock,Each Way,13,Win,TRUE
+405,405,Tipster A,01/01/2016,Cheltenham,Singlefarmpayment,Each Way,9,Win,TRUE
+406,406,Tipster A,01/01/2016,Exeter,Winning Spark,Each Way,5,Lose,TRUE
+407,407,Tipster A,02/01/2016,SouthWell,Crosse Fire,Each Way,4.5,Win,TRUE
+408,408,Tipster A,02/01/2016,SouthWell,Two Moons,Each Way,5.5,Lose,TRUE
+409,409,Tipster A,02/01/2016,Sandown,Arthurs Oak,Win,5,Lose,TRUE
+410,410,Tipster A,02/01/2016,SouthWell,Shootingsta,Win,3.5,Lose,TRUE
+411,411,Tipster A,02/01/2016,SouthWell,Grey Destiny,Win,3.25,Lose,TRUE
+412,412,Tipster A,03/01/2016,Chelmsford,Money Team,Win,2.88,Win,TRUE
+413,413,Tipster A,04/01/2016,Wolverhampton,Coreczka,Each Way,6.5,Lose,TRUE
+414,414,Tipster A,05/01/2016,SouthWell,Patriotic,Win,2,Win,TRUE
+415,415,Tipster A,05/01/2016,SouthWell,Westwood Hoe,Win,3.5,Lose,TRUE
+416,416,Tipster A,05/01/2016,SouthWell,Swift Cedar,Win,3,Lose,TRUE
+417,417,Tipster A,06/01/2016,Wolverhampton,Miss Understood,Each Way,4.5,Lose,TRUE
+418,418,Tipster A,06/01/2016,Huntingdon,Qasser,Each Way,11,Lose,TRUE
+419,419,Tipster A,06/01/2016,Wolverhampton,Lawyer,Each Way,5.5,Lose,TRUE
+420,420,Tipster A,07/01/2016,Towcester,Happy Diva,Win,2.5,Lose,TRUE
+421,421,Tipster A,07/01/2016,Meydan,Le Bernardin,Win,7,Win,TRUE
+422,422,Tipster A,07/01/2016,Meydan,Surfer,Win,6,Lose,TRUE
+423,423,Tipster A,07/01/2016,Meydan,One Man Band,Win,2.75,Win,TRUE
+424,424,Tipster A,08/01/2016,Lingfield,Go Charlie,Each Way,8,Lose,TRUE
+425,425,Tipster A,08/01/2016,Lingfield,Barye,Win,2.25,Win,TRUE
+426,426,Tipster A,08/01/2016,Dundalk,Geological,Each Way,7,Win,TRUE
+427,427,Tipster A,09/01/2016,Punchestown,Arctic Skipper,Win,3.25,Lose,TRUE
+428,428,Tipster A,09/01/2016,Chepstow,Never Equalled,Each Way,7,Win,TRUE
+429,429,Tipster A,09/01/2016,Chepstow,Mountainous,Win,10,Win,TRUE
+430,430,Tipster A,09/01/2016,Chepstow,Cogry,Win,8,Lose,TRUE
+431,431,Tipster A,09/01/2016,Punchestown,Diamoned King,Win,2.62,Win,TRUE
+432,432,Tipster A,09/01/2016,Chepstow,Matchaway,Win,3,Lose,TRUE
+433,433,Tipster A,10/01/2016,Fairyhouse,Tocororo,Win,2.62,Win,TRUE
+434,434,Tipster A,10/01/2016,SouthWell,Philba,Win,4.5,Lose,TRUE
+435,435,Tipster A,11/01/2016,Wolverhampton,Effusive,Win,2.1,Lose,TRUE
+436,436,Tipster A,11/01/2016,Wolverhampton,Roman De Brut,Win,3.75,Lose,TRUE
+437,437,Tipster A,11/01/2016,Kempton,Royal Normandy,Win,3.75,Lose,TRUE
+438,438,Tipster A,12/01/2016,Lingfield,Red Rannagh,Win,7,Lose,TRUE
+439,439,Tipster A,13/01/2016,Chelmsford,Money Team,Win,2.38,Lose,TRUE
+440,440,Tipster A,13/01/2016,Taunton,Winning Spark,Each Way,6,Win,TRUE
+441,441,Tipster A,13/01/2016,Kempton,Chookie Royale,Win,2.38,Win,TRUE
+442,442,Tipster A,14/01/2016,Meydan,Muhtaram,Each Way,6.5,Lose,TRUE
+443,443,Tipster A,14/01/2016,Chelmsford,San Quentin,Win,3.75,Win,TRUE
+444,444,Tipster A,14/01/2016,Chelmsford,Steal The Scene,Each Way,4.33,Lose,TRUE
+445,445,Tipster A,15/01/2016,Wolverhampton,Rich Again,Each Way,7.5,Lose,TRUE
+446,446,Tipster A,15/01/2016,Wolverhampton,Believe It,Win,3.25,Lose,TRUE
+447,447,Tipster A,16/01/2016,Warwick,Tullow Tonic,Each Way,6,Lose,TRUE
+448,448,Tipster A,16/01/2016,Warwick,Kingscourt Native,Each Way,13,Lose,TRUE
+449,449,Tipster A,16/01/2016,Warwick,Thomas Hobson,Win,6.5,Win,TRUE
+450,450,Tipster A,16/01/2016,Naas,Joshua Lane,Each Way,12,Lose,TRUE
+451,451,Tipster A,17/01/2016,Leopardstown,Our Duke,Win,3.5,Win,TRUE
+452,452,Tipster A,17/01/2016,Leopardstown,Colla Pier,Each Way,21,Lose,TRUE
+453,453,Tipster A,17/01/2016,Leopardstown,After Rain,Each Way,7,Lose,TRUE
+454,454,Tipster A,17/01/2016,Kempton,Royal Normandy,Win,2.62,Lose,TRUE
+455,455,Tipster A,18/01/2016,Wolverhampton,Go Charlie,Each Way,8.5,Lose,TRUE
+456,456,Tipster A,19/01/2016,SouthWell,Boolass,Win,3.75,Lose,TRUE
+457,457,Tipster A,19/01/2016,Ayr,Infrontofthejudge,Each Way,4,Lose,TRUE
+458,458,Tipster A,19/01/2016,SouthWell,Kemsing,Win,2.88,Lose,TRUE
+459,459,Tipster A,20/01/2016,Lingfield,Fearbuster,Win,2.25,Lose,TRUE
+460,460,Tipster A,20/01/2016,Musselburgh,Teo Vivo,Win,10,Lose,TRUE
+461,461,Tipster A,20/01/2016,Musselburgh,Zaidiyn,Win,4.5,Lose,TRUE
+462,462,Tipster A,20/01/2016,Fairyhouse,Shannak,Win,2.75,Win,TRUE
+463,463,Tipster A,21/01/2016,SouthWell,Greyfriarschorista,Win,3.5,Lose,TRUE
+464,464,Tipster A,21/01/2016,Gowran Park,Mala Beach,Win,9,Lose,TRUE
+465,465,Tipster A,21/01/2016,Galway,Gala Ball,Each Way,6,Win,TRUE
+466,466,Tipster A,21/01/2016,Meydan,Keep In Line,Each Way,13,Lose,TRUE
+467,467,Tipster A,22/01/2016,Market Rasen,Away For Slates,Each Way,5.5,Lose,TRUE
+468,468,Tipster A,22/01/2016,Dundalk,Shinyhappyjohn,Each Way,7,Lose,TRUE
+469,469,Tipster A,22/01/2016,Dundalk,Rose Angel,Win,3.25,Lose,TRUE
+470,470,Tipster A,23/01/2016,Lingfield,Bromyard,Win,2.5,Win,TRUE
+471,471,Tipster A,23/01/2016,Haydock,Itsafreebee,Win,6,Win,TRUE
+472,472,Tipster A,23/01/2016,Haydock,Virak,Each Way,6.5,Win,TRUE
+473,473,Tipster A,24/01/2016,Chelmsford,Kyllach Me,Win,2.5,Lose,TRUE
+474,474,Tipster A,24/01/2016,Leopardstown,Eiri Na Casca,Each Way,8,Lose,TRUE
+475,475,Tipster A,25/01/2016,Kempton,Opening Batsman,Each Way,5.5,Lose,TRUE
+476,476,Tipster A,26/01/2016,SouthWell,Royal Marskell,Each Way,7.5,Lose,TRUE
+477,477,Tipster A,26/01/2016,SouthWell,Mappin Time,Win,3.5,Lose,TRUE
+478,478,Tipster A,26/01/2016,Wetherby,Ballybolley,Each Way,7.5,Win,TRUE
+479,479,Tipster A,27/01/2016,Thurles,Exit Seven,Win,3.75,Lose,TRUE
+480,480,Tipster A,27/01/2016,Cartmel,Cartographic,Win,2.38,Lose,TRUE
+481,481,Tipster A,28/01/2016,SouthWell,Jaarih,Each Way,4.5,Win,TRUE
+482,482,Tipster A,28/01/2016,Thurles,Driscough Boy,Win,5,Lose,TRUE
+483,483,Tipster A,28/01/2016,Meydan,Divine,Each Way,5,Lose,TRUE
+484,484,Tipster A,28/01/2016,Meydan,Bossy Guest,Each Way,13,Lose,TRUE
+485,485,Tipster A,28/01/2016,Meydan,Emirates Skycargo,Each Way,7,Lose,TRUE
+486,486,Tipster A,29/01/2016,Doncaster,Gonalston Cloud,Each Way,7.5,Win,TRUE
+487,487,Tipster A,29/01/2016,Lingfield,Shirataki,Win,3.75,Lose,TRUE
+488,488,Tipster A,29/01/2016,Huntingdon,At The Top,Win,2.5,Lose,TRUE
+489,489,Tipster A,29/01/2016,Dundalk,Primo Uomo,Each Way,3.5,Lose,TRUE
+490,490,Tipster A,30/01/2016,Doncaster,Mccabe Creek,Each Way,12,Win,TRUE
+491,491,Tipster A,30/01/2016,Doncaster,Shaneshill,Win,2.88,Lose,TRUE
+492,492,Tipster A,30/01/2016,Doncaster,Morning Run,Win,2.25,Lose,TRUE
+493,493,Tipster A,30/01/2016,Hamilton,Champagne At Tara,Each Way,7,Lose,TRUE
+494,494,Tipster A,31/01/2016,Sedgefield,Libby Mae,Win,3.5,Lose,TRUE
+495,495,Tipster A,31/01/2016,Punchestown,Mall Dini,Each Way,7,Win,TRUE
+496,496,Tipster A,31/01/2016,Punchestown,Riverside City,Win,5.5,Lose,TRUE
+497,497,Tipster A,01/02/2016,Wolverhampton,Lady Fandango,Each Way,4.5,Lose,TRUE
+498,498,Tipster A,01/02/2016,Plumpton,Get Ready Freddy,Each Way,10,Lose,TRUE
+499,499,Tipster A,01/02/2016,Kempton,Head Space,Win,4.5,Lose,TRUE
+500,500,Tipster A,02/02/2016,SouthWell,Northside Prince,Each Way,8,Win,TRUE
+501,501,Tipster A,02/02/2016,SouthWell,Razin Hell,Each Way,5,Win,TRUE
+502,502,Tipster A,03/02/2016,Down Royal,Mount Gunnery,Win,4,Lose,TRUE
+503,503,Tipster A,03/02/2016,Down Royal,Peter From Paris,Win,11,Lose,TRUE
+504,504,Tipster A,03/02/2016,Leicester,Brave Helios,Each Way,8,Lose,TRUE
+505,505,Tipster A,03/02/2016,Ludlow,Hill Fort,Each Way,11,Lose,TRUE
+506,506,Tipster A,04/02/2016,SouthWell,Major Muscari,Each Way,8.5,Lose,TRUE
+507,507,Tipster A,04/02/2016,Meydan,Ertijaal,Win,2.38,Win,TRUE
+508,508,Tipster A,04/02/2016,Meydan,Prayer For Relief,Each Way,7,Lose,TRUE
+509,509,Tipster A,04/02/2016,Meydan,Le Bernadin,Win,5,Lose,TRUE
+510,510,Tipster A,05/02/2016,Chepstow,Robin Of Locksley,Win,2.75,Lose,TRUE
+511,511,Tipster A,05/02/2016,Lingfield,Project Bluebook,Win,3.25,Lose,TRUE
+512,512,Tipster A,05/02/2016,Dundalk,Captain Midnight,Each Way,3.75,Lose,TRUE
+513,513,Tipster A,05/02/2016,Wolverhampton,Qasser,Each Way,12,Lose,TRUE
+514,514,Tipster A,06/02/2016,Goodwood,Good As Gold,Each Way,6.5,Lose,TRUE
+515,515,Tipster A,06/02/2016,Sandown,Bristol De Mai,Win,2.62,Win,TRUE
+516,516,Tipster A,06/02/2016,Lingfield,Grendisar,Each Way,5,Win,TRUE
+517,517,Tipster A,06/02/2016,Sandown,Pinnacle Panda,Each Way,8,Win,TRUE
+518,518,Tipster A,07/02/2016,Musselburgh,Full Shift,Each Way,4,Lose,TRUE
+519,519,Tipster A,07/02/2016,Musselburgh,Shrewd,Each Way,7,Win,TRUE
+520,520,Tipster A,08/02/2016,Wolverhampton,Binky Blue,Win,2.63,Lose,TRUE
+521,521,Tipster A,09/02/2016,Market Rasen,Milly Baloo,Win,4,Lose,TRUE
+522,522,Tipster A,09/02/2016,SouthWell,Clubland,Each Way,7,Win,TRUE
+523,523,Tipster A,10/02/2016,SouthWell,Razin Hell,Win,2.75,Lose,TRUE
+524,524,Tipster A,10/02/2016,Carlisle,Berkshire Downs,Win,3.25,Lose,TRUE
+525,525,Tipster A,11/02/2016,Huntingdon,Baoulet Delaroque,Win,3,Win,TRUE
+526,526,Tipster A,11/02/2016,Doncaster,Hollywoodien,Win,9,Lose,TRUE
+527,527,Tipster A,11/02/2016,Meydan,Mujaarib,Each Way,7,Lose,TRUE
+528,528,Tipster A,11/02/2016,Chelmsford,Welliesinthewater,Win,3,Lose,TRUE
+529,529,Tipster A,12/02/2016,Wetherby,Lake View Lad,Win,3.5,Win,TRUE
+530,530,Tipster A,12/02/2016,Kempton,Silvergrove,Win,4,Win,TRUE
+531,531,Tipster A,12/02/2016,Dundalk,Enzani,Each Way,5,Lose,TRUE
+532,532,Tipster A,13/02/2016,Newbury,Emerging Talent,Win,1.83,Lose,TRUE
+533,533,Tipster A,13/02/2016,Newbury,Millanisi Boy,Each Way,6,Lose,TRUE
+534,534,Tipster A,13/02/2016,Listowel,Blacklister,Win,2.62,Win,TRUE
+535,535,Tipster A,13/02/2016,Newbury,Top Gamble,Win,4,Win,TRUE
+536,536,Tipster A,13/02/2016,Warwick,Back By Midnight,Each Way,15,Lose,TRUE
+537,537,Tipster A,14/02/2016,Exeter,West Approach,Each Way,9,Win,TRUE
+538,538,Tipster A,14/02/2016,SouthWell,Moon River,Each Way,8,Win,TRUE
+539,539,Tipster A,15/02/2016,Catterick,Gonalston Cloud,Win,3,Win,TRUE
+540,540,Tipster A,15/02/2016,Catterick,Warrantor,Each Way,7,Lose,TRUE
+541,541,Tipster A,15/02/2016,Wolverhampton,Elysian Prince,Each Way,6.5,Lose,TRUE
+542,542,Tipster A,16/02/2016,SouthWell,Kemsing,Win,2.2,Win,TRUE
+543,543,Tipster A,16/02/2016,Ayr,Yes Tom,Win,3.5,Lose,TRUE
+544,544,Tipster A,17/02/2016,Towcester,Que Sera,Win,2.62,Lose,TRUE
+545,545,Tipster A,17/02/2016,Towcester,Lakeshore Lady,Each Way,8,Lose,TRUE
+546,546,Tipster A,17/02/2016,Lingfield,Arch Villain,Win,3,Win,TRUE
+547,547,Tipster A,18/02/2016,Kelso,Road To Gold,Each Way,5,Win,TRUE
+548,548,Tipster A,18/02/2016,Galway,Gallic Warrior,Win,2.1,Lose,TRUE
+549,549,Tipster A,18/02/2016,Meydan,Fils Anges,Each Way,6.5,Win,TRUE
+550,550,Tipster A,18/02/2016,Meydan,Roi De Vitesse,Each Way,15,Win,TRUE
+551,551,Tipster A,18/02/2016,Meydan,Sir Maximillian,Each Way,11,Win,TRUE
+552,552,Tipster A,18/02/2016,Meydan,Udododontu,Win,3.75,Lose,TRUE
+553,553,Tipster A,19/02/2016,Sandown,Tara Flow,Win,5,Lose,TRUE
+554,554,Tipster A,19/02/2016,Fakenham,Rock N Rhythm,Win,7.5,Lose,TRUE
+555,555,Tipster A,19/02/2016,Dundalk,Coto,Each Way,8,Lose,TRUE
+556,556,Tipster A,19/02/2016,Wolverhampton,Ikerrin Road,Each Way,5.5,Win,TRUE
+557,557,Tipster A,20/02/2016,Haydock,Gas Line Boy,Win,6.5,Lose,TRUE
+558,558,Tipster A,20/02/2016,Ascot,Royal Regatta,Each Way,10,Win,TRUE
+559,559,Tipster A,20/02/2016,Ascot,Gran Turina,Each Way,9,Lose,TRUE
+560,560,Tipster A,20/02/2016,Galway,Gala Ball,Win,2.1,Win,TRUE
+561,561,Tipster A,21/02/2016,Aintree,Uaintseenothingyet,Win,3,Lose,TRUE
+562,562,Tipster A,21/02/2016,Market Rasen,Secret Door,Win,2.75,Lose,TRUE
+563,563,Tipster A,22/02/2016,Lingfield,Queen Aggie,Each Way,5.5,Lose,TRUE
+564,564,Tipster A,22/02/2016,Wolverhampton,Royal Birth,Each Way,5.5,Lose,TRUE
+565,565,Tipster A,23/02/2016,Taunton,Sonny The One,Win,3.25,Lose,TRUE
+566,566,Tipster A,23/02/2016,Wolverhampton,Wolowitz,Win,3.5,Win,TRUE
+567,567,Tipster A,24/02/2016,Lingfield,Believe It,Win,2.25,Win,TRUE
+568,568,Tipster A,24/02/2016,Lingfield,Ruler Of The Nile,Win,2.38,Lose,TRUE
+569,569,Tipster A,24/02/2016,Kempton,Mezmaar,Each Way,5.5,Lose,TRUE
+570,570,Tipster A,25/02/2016,Meydan,Active Spirit,Win,3,Lose,TRUE
+571,571,Tipster A,25/02/2016,Huntingdon,Hollow Blue Sky,Win,3.25,Lose,TRUE
+572,572,Tipster A,25/02/2016,Sedgefield,Almost Gemini,Each Way,5,Win,TRUE
+573,573,Tipster A,25/02/2016,Hamilton,Championship,Each Way,17,Lose,TRUE
+574,574,Tipster A,25/02/2016,Meydan,Safety Check,Win,2.38,Win,TRUE
+575,575,Tipster A,25/02/2016,Meydan,Naadir,Win,3.5,Lose,TRUE
+576,576,Tipster A,26/02/2016,Warwick,Deep Trouble,Win,5,Lose,TRUE
+577,577,Tipster A,26/02/2016,Dundalk,Brokopondo,Each Way,5.5,Lose,TRUE
+578,578,Tipster A,26/02/2016,Dundalk,Ruby Gates,Win,3.25,Lose,TRUE
+579,579,Tipster A,26/02/2016,Dundalk,Lex Talionis,Each Way,11,Win,TRUE
+580,580,Tipster A,27/02/2016,Lingfield,Grendisar,Each Way,3.75,Win,TRUE
+581,581,Tipster A,27/02/2016,Kempton,Viva Steve,Each Way,19,Lose,TRUE
+582,582,Tipster A,27/02/2016,Navan,Eric Na Casa,Each Way,5,Lose,TRUE
+583,583,Tipster A,27/02/2016,Kempton,Mccabe Creek,Each Way,10,Win,TRUE
+584,584,Tipster A,27/02/2016,Chepstow,Oscar Sunset,Win,3.5,Lose,TRUE
+585,585,Tipster A,28/02/2016,Fontwell,San Benedeto,Each Way,11,Win,TRUE
+586,586,Tipster A,29/02/2016,Plumpton,Baratineur,Win,3.25,Win,TRUE
+587,587,Tipster A,29/02/2016,Ayr,Takingrisks,Win,3.5,Lose,TRUE
+588,588,Tipster A,01/03/2016,Catterick,General Mahler,Win,3.5,Lose,TRUE
+589,589,Tipster A,01/03/2016,Lingfield,Blue Bounty,Each Way,4,Lose,TRUE
+590,590,Tipster A,02/03/2016,Bangor,Not For You,Win,2.62,Lose,TRUE
+591,591,Tipster A,02/03/2016,Wincanton,Somerset Jem,Each Way,7.5,Win,TRUE
+592,592,Tipster A,02/03/2016,Wolverhampton,Foylesideview,Each Way,3.75,Lose,TRUE
+593,593,Tipster A,02/03/2016,Wolverhampton,Project Bluebook,Win,2.37,Win,TRUE
+594,594,Tipster A,02/03/2016,Kempton,Mystical Sapphire,Win,4.5,Lose,TRUE
+595,595,Tipster A,03/03/2016,Ludlow,Hollywoodien,Win,4,Lose,TRUE
+596,596,Tipster A,03/03/2016,Meydan,Pure Diamond,Each Way,6.5,Win,TRUE
+597,597,Tipster A,03/03/2016,Meydan,Elleval,Each Way,7.5,Lose,TRUE
+598,598,Tipster A,03/03/2016,Galway,Fingals Cave,Win,3.5,Lose,TRUE
+599,599,Tipster A,04/03/2016,Newbury,Walking In The Air,Win,2.25,Lose,TRUE
+600,600,Tipster A,04/03/2016,Lingfield,Clement,Each Way,5.5,Lose,TRUE
+601,601,Tipster A,04/03/2016,Lingfield,The Magic Pencil,Each Way,4.5,Lose,TRUE
+602,602,Tipster A,04/03/2016,Dundalk,Alnahar,Each Way,6.5,Win,TRUE
+603,603,Tipster A,05/03/2016,Newbury,Rock Gone,Win,5,Lose,TRUE
+604,604,Tipster A,05/03/2016,Galway,Gala Ball,Each Way,8.5,Win,TRUE
+605,605,Tipster A,05/03/2016,Meydan,Faulkner,Each Way,9,Win,TRUE
+606,606,Tipster A,05/03/2016,Lingfield,Jaadu,Each Way,41,Win,TRUE
+607,607,Tipster A,06/03/2016,Naas,Attribution,Win,4.5,Lose,TRUE
+608,608,Tipster A,06/03/2016,Naas,Katnap,Each Way,4.5,Lose,TRUE
+609,609,Tipster A,07/03/2016,Wolverhampton,Mallymkun,Win,3.5,Lose,TRUE
+610,610,Tipster A,07/03/2016,Wolverhampton,First Mohican,Each Way,5,Lose,TRUE
+611,611,Tipster A,08/03/2016,SouthWell,Weald Of Kent,Win,2.88,Lose,TRUE
+612,612,Tipster A,08/03/2016,Exeter,Sonny The One,Win,2.88,Lose,TRUE
+613,613,Tipster A,08/03/2016,SouthWell,Tatting,Win,3.25,Win,TRUE
+614,614,Tipster A,09/03/2016,Lingfield,Pink Martini,Win,4.5,Lose,TRUE
+615,615,Tipster A,09/03/2016,Lingfield,Hot Stuff,Win,4,Lose,TRUE
+616,616,Tipster A,10/03/2016,SouthWell,Swift Cedar,Each Way,8,Win,TRUE
+617,617,Tipster A,10/03/2016,SouthWell,Sir Billy Wright,Each Way,4.5,Lose,TRUE
+618,618,Tipster A,10/03/2016,Chelmsford,Mange All,Each Way,5.5,Lose,TRUE
+619,619,Tipster A,10/03/2016,Chelmsford,Coillte Cailin,Win,4.33,Lose,TRUE
+620,620,Tipster A,11/03/2016,Sandown,Doctor Look Here,Each Way,11,Lose,TRUE
+621,621,Tipster A,11/03/2016,Sandown,The Brock Again,Win,2,Lose,TRUE
+622,622,Tipster A,11/03/2016,Chelmsford,Saved My Bacon,Win,2.62,Lose,TRUE
+623,623,Tipster A,11/03/2016,Dundalk,Wither Hills,Each Way,11,Lose,TRUE
+624,624,Tipster A,12/03/2016,Sandown,Will OThe West,Each Way,17,Lose,TRUE
+625,625,Tipster A,12/03/2016,Sandown,Flashjack,Each Way,13,Lose,TRUE
+626,626,Tipster A,12/03/2016,Sandown,Sirop De Menthe,Each Way,26,Lose,TRUE
+627,627,Tipster A,12/03/2016,Sandown,Avellino,Each Way,9,Lose,TRUE
+628,628,Tipster A,12/03/2016,Wolverhampton,Ikerrin Road,Each Way,6,Win,TRUE
+629,629,Tipster A,13/03/2016,Kelso,The Dutchman,Win,17,Lose,TRUE
+630,630,Tipster A,13/03/2016,Kelso,Lake View Lad,Win,6,Lose,TRUE
+631,631,Tipster A,13/03/2016,Warwick,Streets Of Promise,Win,5,Lose,TRUE
+632,632,Tipster A,13/03/2016,Navan,Kilford,Each Way,5,Win,TRUE
+633,633,Tipster A,14/03/2016,Taunton,Bonne Question,Win,2.75,Lose,TRUE
+634,634,Tipster A,14/03/2016,Taunton,Masters Hill,Win,3.5,Lose,TRUE
+635,635,Tipster A,15/03/2016,Cheltenham,Min,Win,3.25,Lose,TRUE
+636,636,Tipster A,15/03/2016,Cheltenham,Douvan,Win,1.4,Win,TRUE
+637,637,Tipster A,15/03/2016,Cheltenham,Morning Assembly,Each Way,15,Win,TRUE
+638,638,Tipster A,15/03/2016,Cheltenham,Identity Thief,Each Way,8.5,Lose,TRUE
+639,639,Tipster A,15/03/2016,SouthWell,Greyfriarschorista,Each Way,5.5,Lose,TRUE
+640,640,Tipster A,15/03/2016,Cheltenham,Vroum Vroum Mag,Win,2.1,Win,TRUE
+641,641,Tipster A,15/03/2016,Cheltenham,The Govaness,Each Way,17,Lose,TRUE
+642,642,Tipster A,15/03/2016,Cheltenham,Ballychorus,Each Way,13,Lose,TRUE
+643,643,Tipster A,15/03/2016,Cheltenham,Mckinley,Each Way,17,Lose,TRUE
+644,644,Tipster A,16/03/2016,Cheltenham,Yorkhill,Win,4,Win,TRUE
+645,645,Tipster A,16/03/2016,Cheltenham,No More Heroes,Win,3.75,Lose,TRUE
+646,646,Tipster A,16/03/2016,Cheltenham,Arbre De Vie,Each Way,15,Lose,TRUE
+647,647,Tipster A,16/03/2016,Cheltenham,Un De Sceaux,Win,1.83,Lose,TRUE
+648,648,Tipster A,16/03/2016,Cheltenham,Gods Own,Each Way,34,Lose,TRUE
+649,649,Tipster A,16/03/2016,Cheltenham,Felix Yonger,Each Way,17,Lose,TRUE
+650,650,Tipster A,16/03/2016,Cheltenham,Josies Orders,Win,3.75,Lose,TRUE
+651,651,Tipster A,16/03/2016,Cheltenham,Campeador,Win,10,Lose,TRUE
+652,652,Tipster A,16/03/2016,Cheltenham,Lucky Pass,Each Way,17,Lose,TRUE
+653,653,Tipster A,16/03/2016,Cheltenham,First Figaro,Win,17,Lose,TRUE
+654,654,Tipster A,17/03/2016,Cheltenham,Outlander,Win,6,Lose,TRUE
+655,655,Tipster A,17/03/2016,Cheltenham,Bristol De Mai,Each Way,17,Win,TRUE
+656,656,Tipster A,17/03/2016,Cheltenham,Leave At Dawn,Win,8,Lose,TRUE
+657,657,Tipster A,17/03/2016,Cheltenham,Vautour,Win,2,Win,TRUE
+658,658,Tipster A,17/03/2016,Cheltenham,Josses Hill,Each Way,13,Lose,TRUE
+659,659,Tipster A,17/03/2016,Cheltenham,Village Vic,Each Way,15,Lose,TRUE
+660,660,Tipster A,17/03/2016,Down Royal,Colms Dream,Win,1.9,Win,TRUE
+661,661,Tipster A,17/03/2016,Cheltenham,Alpha Des Obeaux,Each Way,9,Win,TRUE
+662,662,Tipster A,17/03/2016,Cheltenham,Alpha Des Obeaux,Win,9,Lose,TRUE
+663,663,Tipster A,17/03/2016,Cheltenham,Stilletto,Each Way,11,Lose,TRUE
+664,664,Tipster A,17/03/2016,Cheltenham,Empire Of Dirt,Win,21,Win,TRUE
+665,665,Tipster A,17/03/2016,Cheltenham,Limini,Win,1.73,Win,TRUE
+666,666,Tipster A,17/03/2016,Cheltenham,Upswing,Each Way,9,Lose,TRUE
+667,667,Tipster A,17/03/2016,Cheltenham,Cause Of Causes,Win,7.5,Win,TRUE
+668,668,Tipster A,17/03/2016,Chelmsford,Saved My Bacon,Win,3,Lose,TRUE
+669,669,Tipster A,18/03/2016,Cheltenham,Apples Jade,Each Way,17,Win,TRUE
+670,670,Tipster A,18/03/2016,Cheltenham,Lets Dance,Each Way,15,Win,TRUE
+671,671,Tipster A,18/03/2016,Cheltenham,Fethard Player,Each Way,41,Win,TRUE
+672,672,Tipster A,18/03/2016,Cheltenham,Blue Hell,Each Way,11,Lose,TRUE
+673,673,Tipster A,18/03/2016,Cheltenham,Gangster,Win,8.5,Lose,TRUE
+674,674,Tipster A,18/03/2016,Cheltenham,Djakadam,Win,4.33,Lose,TRUE
+675,675,Tipster A,18/03/2016,Cheltenham,On The Fringe,Win,4,Win,TRUE
+676,676,Tipster A,18/03/2016,Cheltenham,Jetstream Jack,Win,15,Lose,TRUE
+677,677,Tipster A,18/03/2016,Cheltenham,Squouateur,Win,5.5,Lose,TRUE
+678,678,Tipster A,18/03/2016,Cheltenham,Rock The World,Each Way,12,Win,TRUE
+679,679,Tipster A,18/03/2016,Dundalk,Tom Dooley,Win,3.25,Lose,TRUE
+680,680,Tipster A,19/03/2016,Uttoxeter,April Dusk,Each Way,7.5,Lose,TRUE
+681,681,Tipster A,19/03/2016,Fontwell,Sunshine Corner,Win,5,Win,TRUE
+682,682,Tipster A,19/03/2016,Kempton,Simply A Legend,Each Way,23,Win,TRUE
+683,683,Tipster A,19/03/2016,Fontwell,Bigmartre,Win,3,Lose,TRUE
+684,684,Tipster A,20/03/2016,Ffos Las,Preseli Rock,Win,3.75,Lose,TRUE
+685,685,Tipster A,20/03/2016,Downpatrick,De Plotting Shed,Win,3.25,Lose,TRUE
+686,686,Tipster A,20/03/2016,Curragh,Master Speaker,Each Way,13,Lose,TRUE
+687,687,Tipster A,20/03/2016,Curragh,Bubbly Bellini,Each Way,11,Win,TRUE
+688,688,Tipster A,20/03/2016,Curragh,Aussie Valentine,Each Way,13,Win,TRUE
+689,689,Tipster A,21/03/2016,SouthWell,Thoonavolla,Each Way,4.5,Win,TRUE
+690,690,Tipster A,21/03/2016,SouthWell,Monkhouse,Win,2.75,Lose,TRUE
+691,691,Tipster A,22/03/2016,Exeter,Henryville,Win,2.3,Win,TRUE
+692,692,Tipster A,22/03/2016,Wetherby,Top Cat Henry,Each Way,9.5,Win,TRUE
+693,693,Tipster A,22/03/2016,SouthWell,Palpitation,Win,2.75,Win,TRUE
+694,694,Tipster A,23/03/2016,SouthWell,Fine N Dandy,Win,4,Lose,TRUE
+695,695,Tipster A,23/03/2016,Haydock,Sharpasaknife,Win,2.88,Win,TRUE
+696,696,Tipster A,23/03/2016,Dundalk,Carried,Each Way,4.5,Win,TRUE
+697,697,Tipster A,24/03/2016,Ludlow,Beallandendall,Win,2.75,Lose,TRUE
+698,698,Tipster A,24/03/2016,Ludlow,Presenting Arms,Win,4,Lose,TRUE
+699,699,Tipster A,24/03/2016,Ludlow,Grandioso,Each Way,7,Lose,TRUE
+700,700,Tipster A,25/03/2016,Lingfield,Goken,Each Way,4.33,Win,TRUE
+701,701,Tipster A,25/03/2016,Lingfield,Moonrise Landing,Win,3,Win,TRUE
+702,702,Tipster A,25/03/2016,Wolverhampton,Gang Warfare,Each Way,4.5,Win,TRUE
+703,703,Tipster A,25/03/2016,Lingfield,Sovereign Debt,Each Way,4,Win,TRUE
+704,704,Tipster A,26/03/2016,Meydan,One Man Band,Each Way,11,Win,TRUE
+705,705,Tipster A,26/03/2016,Meydan,Marking,Win,2.62,Lose,TRUE
+706,706,Tipster A,26/03/2016,Haydock,Hannahs Princess,Each Way,7,Lose,TRUE
+707,707,Tipster A,26/03/2016,Meydan,Naadir,Each Way,41,Lose,TRUE
+708,708,Tipster A,26/03/2016,Haydock,Octagon,Each Way,17,Lose,TRUE
+709,709,Tipster A,26/03/2016,Haydock,Caledonia,Each Way,15,Win,TRUE
+710,710,Tipster A,26/03/2016,Meydan,Rich Tapestry,Each Way,13,Lose,TRUE
+711,711,Tipster A,26/03/2016,Meydan,Tryster,Win,3.25,Lose,TRUE
+712,712,Tipster A,26/03/2016,Meydan,Forries Waltz,Each Way,15,Lose,TRUE
+713,713,Tipster A,26/03/2016,Meydan,Frosted,Win,3.5,Lose,TRUE
+714,714,Tipster A,27/03/2016,Fairyhouse,Cashelard Lady,Each Way,11,Lose,TRUE
+715,715,Tipster A,27/03/2016,Fairyhouse,Lift The Latch,Win,4,Lose,TRUE
+716,716,Tipster A,27/03/2016,Cork,Nine Stitches,Each Way,17,Win,TRUE
+717,717,Tipster A,27/03/2016,Sedgefield,General Mahler,Each Way,6.5,Win,TRUE
+718,718,Tipster A,28/03/2016,Cork,Penny Pepper,Each Way,5,Win,TRUE
+719,719,Tipster A,28/03/2016,Chepstow,Grey Gold,Each Way,5.5,Win,TRUE
+720,720,Tipster A,28/03/2016,Fairyhouse,Value At Risk,Each Way,6,Win,TRUE
+721,721,Tipster A,28/03/2016,Fairyhouse,Mala Beach,Each Way,13,Lose,TRUE
+722,722,Tipster A,29/03/2016,Wolverhampton,Knights Table,Win,2.88,Lose,TRUE
+723,723,Tipster A,29/03/2016,Fairyhouse,Top Gamble,Win,2.25,Win,TRUE
+724,724,Tipster A,29/03/2016,Fairyhouse,Robin Thyme,Each Way,8.5,Lose,TRUE
+725,725,Tipster A,29/03/2016,Fairyhouse,Desoto County,Win,3.5,Lose,TRUE
+726,726,Tipster A,30/03/2016,Lingfield,Quality Song,Each Way,6,Win,TRUE
+727,727,Tipster A,30/03/2016,SouthWell,Silver Bid,Each Way,8.5,Win,TRUE
+728,728,Tipster A,30/03/2016,SouthWell,Daisy Bere,Each Way,4.5,Lose,TRUE
+729,729,Tipster A,30/03/2016,Kempton,Isis Blue,Win,4,Lose,TRUE
+730,730,Tipster A,31/03/2016,Aintree,Saint John Henry,Win,2.38,Lose,TRUE
+731,731,Tipster A,31/03/2016,Ffos Las,Alfie Spinner,Win,3,Lose,TRUE
+732,732,Tipster A,31/03/2016,Chelmsford,Eljaddaaf,Win,2.25,Lose,TRUE
+733,733,Tipster A,01/04/2016,Fontwell,Bramble Brook,Each Way,6.5,Lose,TRUE
+734,734,Tipster A,01/04/2016,Lingfield,Burning Thread,Win,5,Lose,TRUE
+735,735,Tipster A,01/04/2016,Dundalk,Jamesie,Each Way,5,Win,TRUE
+736,736,Tipster A,01/04/2016,Wolverhampton,Manjaam,Win,3.5,Win,TRUE
+737,737,Tipster A,01/04/2016,Dundalk,Sea Of Blue,Each Way,6.5,Win,TRUE
+738,738,Tipster A,02/04/2016,Doncaster,Secret Brief,Each Way,19,Win,TRUE
+739,739,Tipster A,02/04/2016,Doncaster,Udododontu,Each Way,11,Lose,TRUE
+740,740,Tipster A,02/04/2016,Kempton,Plucky Dip,Each Way,7,Lose,TRUE
+741,741,Tipster A,02/04/2016,Doncaster,Mobsta,Each Way,15,Win,TRUE
+742,742,Tipster A,02/04/2016,Newbury,Lady Of Lamanver,Each Way,7.5,Win,TRUE
+743,743,Tipster A,02/04/2016,Newbury,Duke Street,Each Way,5,Win,TRUE
+744,744,Tipster A,03/04/2016,Curragh,Callender,Win,1.91,Lose,TRUE
+745,745,Tipster A,03/04/2016,Ascot,Consortium,Each Way,26,Lose,TRUE
+746,746,Tipster A,03/04/2016,Ascot,Max Forte,Each Way,21,Win,TRUE
+747,747,Tipster A,04/04/2016,Lingfield,Stormy Clouds,Win,2.2,Win,TRUE
+748,748,Tipster A,04/04/2016,Warwick,Robin Of Locksley,Each Way,8,Lose,TRUE
+749,749,Tipster A,05/04/2016,Pontefract,Surprise Vendor,Each Way,4,Lose,TRUE
+750,750,Tipster A,05/04/2016,Fairyhouse,Glenwood For Ever,Each Way,9,Lose,TRUE
+751,751,Tipster A,06/04/2016,Catterick,Sunraider,Each Way,11,Lose,TRUE
+752,752,Tipster A,06/04/2016,Leopardstown,Claudio Monteverdi,Win,2,Win,TRUE
+753,753,Tipster A,06/04/2016,Hamilton,Shamreen,Win,2.1,Lose,TRUE
+754,754,Tipster A,06/04/2016,Leopardstown,Newberry New,Each Way,8,Lose,TRUE
+755,755,Tipster A,07/04/2016,Aintree,Diego Du Charmil,Each Way,12,Lose,TRUE
+756,756,Tipster A,07/04/2016,Aintree,Pacha Du Polder,Each Way,4.5,Lose,TRUE
+757,757,Tipster A,07/04/2016,Aintree,Minella Present,Each Way,7.5,Lose,TRUE
+758,758,Tipster A,07/04/2016,Limerick,Oiche Mhaith Boy,Each Way,4.5,Win,TRUE
+759,759,Tipster A,08/04/2016,Aintree,Tycoon Prince,Each Way,9,Lose,TRUE
+760,760,Tipster A,08/04/2016,Aintree,Ma Du Fou,Each Way,9,Lose,TRUE
+761,761,Tipster A,08/04/2016,Aintree,Henri Parry Morgan,Each Way,17,Win,TRUE
+762,762,Tipster A,08/04/2016,Aintree,Turban,Each Way,26,Lose,TRUE
+763,763,Tipster A,08/04/2016,Aintree,Ballydine,Win,6,Lose,TRUE
+764,764,Tipster A,08/04/2016,Aintree,Ballyoptic,Each Way,11,Win,TRUE
+765,765,Tipster A,08/04/2016,Dundalk,Go Kart,Win,3.5,Lose,TRUE
+766,766,Tipster A,09/04/2016,Aintree,Murrayana,Each Way,26,Win,TRUE
+767,767,Tipster A,09/04/2016,Aintree,Ubak,Each Way,21,Win,TRUE
+768,768,Tipster A,09/04/2016,Gowran Park,Ardmore,Each Way,10,Lose,TRUE
+769,769,Tipster A,09/04/2016,Gowran Park,Newsman,Win,2.5,Lose,TRUE
+770,770,Tipster A,09/04/2016,Chepstow,Grove Silver,Win,4,Lose,TRUE
+771,771,Tipster A,09/04/2016,Aintree,Gallant Oscar,Each Way,34,Lose,TRUE
+772,772,Tipster A,09/04/2016,Aintree,Rule The World,Each Way,51,Win,TRUE
+773,773,Tipster A,09/04/2016,Aintree,Madfuninthewest,Each Way,17,Lose,TRUE
+774,774,Tipster A,10/04/2016,Market Rasen,Colla Pier,Each Way,3.5,Win,TRUE
+775,775,Tipster A,10/04/2016,Leopardstown,Jet Setting,Each Way,11,Win,TRUE
+776,776,Tipster A,11/04/2016,Kelso,Road To Gold,Win,3.25,Lose,TRUE
+777,777,Tipster A,11/04/2016,Kelso,Nakadam,Each Way,4.33,Win,TRUE
+778,778,Tipster A,11/04/2016,Kelso,Veinard,Each Way,8,Lose,TRUE
+779,779,Tipster A,12/04/2016,Exeter,Aurillac,Win,3,Lose,TRUE
+780,780,Tipster A,12/04/2016,SouthWell,Star Ascending,Each Way,6.5,Win,TRUE
+781,781,Tipster A,12/04/2016,Newmarket,Yeeoow,Each Way,17,Win,TRUE
+782,782,Tipster A,13/04/2016,Beverley,Jollydee,Each Way,5.5,Lose,TRUE
+783,783,Tipster A,13/04/2016,Cheltenham,Double Ws,Each Way,10,Lose,TRUE
+784,784,Tipster A,13/04/2016,Cheltenham,Beallandendall,Each Way,11,Lose,TRUE
+785,785,Tipster A,14/04/2016,Cheltenham,Yes I Did,Each Way,15,Lose,TRUE
+786,786,Tipster A,14/04/2016,Cheltenham,Bon Chic,Win,4,Lose,TRUE
+787,787,Tipster A,14/04/2016,Cheltenham,Goodbye Dancer,Each Way,15,Lose,TRUE
+788,788,Tipster A,14/04/2016,Cheltenham,Long House Hall,Win,3.75,Lose,TRUE
+789,789,Tipster A,14/04/2016,Ripon,Dominate,Each Way,7,Win,TRUE
+790,790,Tipster A,15/04/2016,Ayr,Craiganboy,Each Way,7.5,Lose,TRUE
+791,791,Tipster A,15/04/2016,Ayr,Gullys Edge,Win,6.5,Win,TRUE
+792,792,Tipster A,15/04/2016,Ayr,Caledonia,Win,5,Lose,TRUE
+793,793,Tipster A,15/04/2016,Dundalk,Roconga,Win,2.62,Win,TRUE
+794,794,Tipster A,16/04/2016,Ayr,Smooth Stepper,Each Way,7.5,Lose,TRUE
+795,795,Tipster A,16/04/2016,Ayr,Bristol De Mai,Win,2,Lose,TRUE
+796,796,Tipster A,16/04/2016,Ayr,Clondaw Warrior,Win,5.5,Lose,TRUE
+797,797,Tipster A,16/04/2016,Ayr,Chtibello,Win,9,Win,TRUE
+798,798,Tipster A,16/04/2016,Ayr,Arbre De Vie,Each Way,5,Win,TRUE
+799,799,Tipster A,17/04/2016,Navan,Deeds Not Words,Win,5.5,Lose,TRUE
+800,800,Tipster A,17/04/2016,Navan,Battleroftheboyne,Win,8,Lose,TRUE
+801,801,Tipster A,17/04/2016,Wincanton,Sonny The One,Each Way,6.5,Lose,TRUE
+802,802,Tipster A,17/04/2016,Navan,The Gurkha,Win,3,Win,TRUE
+803,803,Tipster A,18/04/2016,Huntingdon,Vinciaettis,Win,2.38,Lose,TRUE
+804,804,Tipster A,18/04/2016,Windsor,Dominate,Win,3.75,Lose,TRUE
+805,805,Tipster A,18/04/2016,Dundalk,Kasbah,Win,4,Lose,TRUE
+806,806,Tipster A,18/04/2016,Windsor,Navigate,Win,4,Lose,TRUE
+807,807,Tipster A,19/04/2016,Kempton,Mountain Eagle,Each Way,7.5,Lose,TRUE
+808,808,Tipster A,19/04/2016,Wolverhampton,Inexes,Win,3.75,Lose,TRUE
+809,809,Tipster A,19/04/2016,Ludlow,Tugboat,Win,2,Lose,TRUE
+810,810,Tipster A,20/04/2016,Epsom,Claudio Monteverdi,Win,2.38,Lose,TRUE
+811,811,Tipster A,20/04/2016,Perth,Barney Dwan,Win,5.5,Lose,TRUE
+812,812,Tipster A,20/04/2016,Epsom,Clayton,Each Way,5.5,Lose,TRUE
+813,813,Tipster A,20/04/2016,Perth,Top Of The Glas,Each Way,6,Win,TRUE
+814,814,Tipster A,21/04/2016,Perth,Tomorrows Legend,Each Way,8,Win,TRUE
+815,815,Tipster A,21/04/2016,Warwick,Conas Taoi,Win,3.75,Win,TRUE
+816,816,Tipster A,21/04/2016,Tipperary,Doc Sportello,Each Way,5.5,Win,TRUE
+817,817,Tipster A,21/04/2016,Tipperary,Bluesbreaker,Each Way,9,Win,TRUE
+818,818,Tipster A,22/04/2016,Perth,Monbeg River,Win,4,Lose,TRUE
+819,819,Tipster A,22/04/2016,Carlisle,Curious Carlos,Each Way,5.5,Win,TRUE
+820,820,Tipster A,22/04/2016,Sandown,Rainbow Dreamer,Each Way,12,Lose,TRUE
+821,821,Tipster A,23/04/2016,Leicester,Mitchum Swagger,Each Way,7.5,Lose,TRUE
+822,822,Tipster A,23/04/2016,Sandown,Theatre Guide,Each Way,17,Lose,TRUE
+823,823,Tipster A,23/04/2016,Leicester,Wowcha,Win,3,Lose,TRUE
+824,824,Tipster A,23/04/2016,Doncaster,Burano,Each Way,3.5,Lose,TRUE
+825,825,Tipster A,24/04/2016,Gowran Park,Penny Pepper,Each Way,8,Win,TRUE
+826,826,Tipster A,24/04/2016,Gowran Park,Bocca Baciata,Win,3,Win,TRUE
+827,827,Tipster A,24/04/2016,Gowran Park,Beechmount Whisper,Each Way,5,Win,TRUE
+828,828,Tipster A,25/04/2016,Naas,In Salutem,Each Way,11,Lose,TRUE
+829,829,Tipster A,25/04/2016,Naas,Mr Right,Each Way,6.5,Lose,TRUE
+830,830,Tipster A,25/04/2016,Naas,Fort Del Oro,Each Way,4,Win,TRUE
+831,831,Tipster A,25/04/2016,Windsor,All My Love,Win,3.25,Lose,TRUE
+832,832,Tipster A,26/04/2016,Punchestown,Ancient Sands,Each Way,17,Win,TRUE
+833,833,Tipster A,26/04/2016,Punchestown,Copy That,Win,6,Lose,TRUE
+834,834,Tipster A,26/04/2016,Punchestown,Jenkins,Win,1.91,Lose,TRUE
+835,835,Tipster A,26/04/2016,Punchestown,Henryville,Each Way,5.5,Lose,TRUE
+836,836,Tipster A,27/04/2016,Hamilton,Shamiran,Win,21,Win,TRUE
+837,837,Tipster A,27/04/2016,Punchestown,Pivot Bridge,Win,17,Lose,TRUE
+838,838,Tipster A,27/04/2016,Ascot,Gifted Master,Win,4,Win,TRUE
+839,839,Tipster A,27/04/2016,Punchestown,Moon Over Germany,Win,7.5,Lose,TRUE
+840,840,Tipster A,27/04/2016,Punchestown,Coney Island,Win,8,Lose,TRUE
+841,841,Tipster A,27/04/2016,Punchestown,Acapella Bourgeois,Win,6,Lose,TRUE
+842,842,Tipster A,28/04/2016,Lingfield,Suqoor,Win,5.5,Win,TRUE
+843,843,Tipster A,28/04/2016,Punchestown,Roconga,Win,9,Lose,TRUE
+844,844,Tipster A,28/04/2016,Punchestown,Admiral Brian,Each Way,17,Lose,TRUE
+845,845,Tipster A,28/04/2016,Punchestown,Alpha Des Obeaux,Win,2.5,Lose,TRUE
+846,846,Tipster A,28/04/2016,Punchestown,Sonny B,Each Way,17,Lose,TRUE
+847,847,Tipster A,28/04/2016,Punchestown,Haymount,Each Way,12,Lose,TRUE
+848,848,Tipster A,29/04/2016,Chepstow,Medburn Dream,Win,4.33,Win,TRUE
+849,849,Tipster A,29/04/2016,Punchestown,Mr Diablo,Each Way,17,Win,TRUE
+850,850,Tipster A,29/04/2016,Fontwell,Ebadani,Each Way,4.5,Win,TRUE
+851,851,Tipster A,29/04/2016,Punchestown,Jers Girl,Win,3,Win,TRUE
+852,852,Tipster A,29/04/2016,Punchestown,Marito,Each Way,6,Win,TRUE
+853,853,Tipster A,30/04/2016,Goodwood,Rayvin Black,Win,3.5,Win,TRUE
+854,854,Tipster A,30/04/2016,Goodwood,More Mischief,Each Way,21,Lose,TRUE
+855,855,Tipster A,30/04/2016,Newmarket,Lancelot Du Lac,Each Way,21,Lose,TRUE
+856,856,Tipster A,30/04/2016,Goodwood,Sinfonietta,Each Way,10,Win,TRUE
+857,857,Tipster A,30/04/2016,Newmarket,Massaat,Each Way,15,Win,TRUE
+858,858,Tipster A,30/04/2016,Punchestown,Slowmotion,Each Way,4,Lose,TRUE
+859,859,Tipster A,30/04/2016,Punchestown,Archie Meade,Each Way,17,Lose,TRUE
+860,860,Tipster A,01/05/2016,Newmarket,Terentum Star,Win,7,Lose,TRUE
+861,861,Tipster A,01/05/2016,Newmarket,Dougan,Win,7.5,Lose,TRUE
+862,862,Tipster A,01/05/2016,Sligo,Ducky Mallon,Each Way,9,Lose,TRUE
+863,863,Tipster A,01/05/2016,Newmarket,Jet Setting,Win,26,Lose,TRUE
+864,864,Tipster A,01/05/2016,Newmarket,Taqdeer,Win,2.88,Win,TRUE
+865,865,Tipster A,02/05/2016,Warwick,Herons Heir,Win,5,Win,TRUE
+866,866,Tipster A,02/05/2016,Curragh,Blue De Vega,Win,2.75,Lose,TRUE
+867,867,Tipster A,02/05/2016,Bath,Hound Music,Win,5,Lose,TRUE
+868,868,Tipster A,03/05/2016,Exeter,Morning Herald,Win,2.1,Win,TRUE
+869,869,Tipster A,03/05/2016,Exeter,Easily Pleased,Each Way,8.5,Lose,TRUE
+870,870,Tipster A,03/05/2016,Ballinrobe,Westerner Point,Each Way,6,Lose,TRUE
+871,871,Tipster A,04/05/2016,Chester,Fiery Character,Win,2.25,Lose,TRUE
+872,872,Tipster A,04/05/2016,Chester,Steve Rogers,Win,4.5,Lose,TRUE
+873,873,Tipster A,04/05/2016,Chester,John Reel,Each Way,17,Lose,TRUE
+874,874,Tipster A,04/05/2016,Chester,Roudee,Each Way,6.5,Win,TRUE
+875,875,Tipster A,05/05/2016,Uttoxeter,Wotzizname,Win,2.38,Win,TRUE
+876,876,Tipster A,05/05/2016,Chester,Above And Beyond,Each Way,5.5,Win,TRUE
+877,877,Tipster A,05/05/2016,Clonmel,Double Fast,Each Way,7,Lose,TRUE
+878,878,Tipster A,06/05/2016,Chester,Housesofparliament,Win,5.5,Lose,TRUE
+879,879,Tipster A,06/05/2016,Auteuil,El Astronaute,Win,3.75,Lose,TRUE
+880,880,Tipster A,06/05/2016,Cork,Rosie Alice,Each Way,6.5,Lose,TRUE
+881,881,Tipster A,06/05/2016,Ascot,Cartmell Cleave,Each Way,4.5,Lose,TRUE
+882,882,Tipster A,07/05/2016,Haydock,Chtibello,Each Way,5.5,Win,TRUE
+883,883,Tipster A,07/05/2016,Lingfield,Seventh Heaven,Win,4.5,Win,TRUE
+884,884,Tipster A,07/05/2016,Nottingham,Alqubbah,Each Way,6.5,Win,TRUE
+885,885,Tipster A,07/05/2016,Ascot,The Warrior,Each Way,29,Lose,TRUE
+886,886,Tipster A,07/05/2016,Ascot,Grand Inquisitor,Each Way,11,Lose,TRUE
+887,887,Tipster A,07/05/2016,Nottingham,Rock Song,Win,4,Lose,TRUE
+888,888,Tipster A,08/05/2016,Ludlow,Altesse De Guye,Each Way,4.5,Win,TRUE
+889,889,Tipster A,08/05/2016,Limerick,Deans Road,Win,3.25,Win,TRUE
+890,890,Tipster A,18/05/2016,Warwick,The Tourard Man,Win,3.5,Win,TRUE
+891,891,Tipster A,18/05/2016,Warwick,Fort Carson,Each Way,7,Win,TRUE
+892,892,Tipster A,18/05/2016,SouthWell,Vinegar Hill,Win,2.75,Win,TRUE
+893,893,Tipster A,19/05/2016,Goodwood,The Warrior,Each Way,5.5,Lose,TRUE
+894,894,Tipster A,19/05/2016,Worcester,Fountains Blossom,Each Way,4.5,Win,TRUE
+895,895,Tipster A,19/05/2016,Worcester,Perspicace,Each Way,3.75,Win,TRUE
+896,896,Tipster A,20/05/2016,Goodwood,Prize Money,Win,2.1,Lose,TRUE
+897,897,Tipster A,20/05/2016,Downpatrick,Rise Of An Empire,Win,2.1,Win,TRUE
+898,898,Tipster A,20/05/2016,Cork,Cappadocia,Each Way,5,Lose,TRUE
+899,899,Tipster A,21/05/2016,Haydock,Red Vernon,Win,2.5,Win,TRUE
+900,900,Tipster A,21/05/2016,Haydock,Matorico,Win,3.5,Lose,TRUE
+901,901,Tipster A,21/05/2016,York,Appeared,Win,3,Lose,TRUE
+902,902,Tipster A,21/05/2016,Curragh,In Salutem,Each Way,6.5,Win,TRUE
+903,903,Tipster A,21/05/2016,Curragh,Roly Poly,Each Way,5,Lose,TRUE
+904,904,Tipster A,21/05/2016,Curragh,Fort Del Oro,Each Way,4,Lose,TRUE
+905,905,Tipster A,21/05/2016,Curragh,Blue De Vega,Each Way,11,Win,TRUE
+906,906,Tipster A,22/05/2016,Curragh,Jet Setting,Each Way,17,Win,TRUE
+907,907,Tipster A,22/05/2016,Curragh,Canary Row,Each Way,12,Win,TRUE
+908,908,Tipster A,23/05/2016,Sligo,Mystic Princess,Win,7,Lose,TRUE
+909,909,Tipster A,23/05/2016,Windsor,Flowers On Venus,Each Way,5.5,Lose,TRUE
+910,910,Tipster A,23/05/2016,Windsor,Zambeasy,Each Way,11,Win,TRUE
+911,911,Tipster A,24/05/2016,Hamilton,Maz Majecc,Each Way,4.5,Lose,TRUE
+912,912,Tipster A,24/05/2016,Wetherby,Just Be Lucky,Each Way,4,Win,TRUE
+913,913,Tipster A,24/05/2016,SouthWell,Carrigkerry,Win,4,Win,TRUE
+914,914,Tipster A,25/05/2016,Lingfield,George Cinq,Each Way,5,Win,TRUE
+915,915,Tipster A,25/05/2016,Gowran Park,Mizaah,Each Way,4,Win,TRUE
+916,916,Tipster A,25/05/2016,Chester,Chestnut Fire,Each Way,10,Lose,TRUE
+917,917,Tipster A,26/05/2016,Sandown,Forge,Win,3,Lose,TRUE
+918,918,Tipster A,26/05/2016,Newcastle,Coto,Each Way,3.5,Win,TRUE
+919,919,Tipster A,27/05/2016,Bath,Against The Odds,Win,6,Lose,TRUE
+920,920,Tipster A,27/05/2016,Down Royal,Wakea,Win,1.8,Win,TRUE
+921,921,Tipster A,27/05/2016,Down Royal,Kig Blue,Each Way,5,Lose,TRUE
+922,922,Tipster A,28/05/2016,Haydock,Rousayan,Each Way,9,Win,TRUE
+923,923,Tipster A,28/05/2016,Haydock,Laganore,Each Way,6.5,Lose,TRUE
+924,924,Tipster A,28/05/2016,Navan,Sweetest Taboo,Each Way,6.5,Win,TRUE
+925,925,Tipster A,28/05/2016,Navan,Seeyouallincoppers,Win,3.5,Lose,TRUE
+926,926,Tipster A,28/05/2016,Ffos Las,Maxi Chop,Win,2.62,Lose,TRUE
+927,927,Tipster A,29/05/2016,Kelso,Martila,Each Way,13,Win,TRUE
+928,928,Tipster A,29/05/2016,Kelso,Move To The Groove,Win,4.5,Win,TRUE
+929,929,Tipster A,29/05/2016,Naas,Yulong Baobe,Each Way,8,Win,TRUE
+930,930,Tipster A,29/05/2016,Naas,Unyielding,Each Way,6,Lose,TRUE
+931,931,Tipster A,30/05/2016,Cartmel,Chase The Wind,Win,8.5,Lose,TRUE
+932,932,Tipster A,30/05/2016,Windsor,Kinglami,Each Way,15,Lose,TRUE
+933,933,Tipster A,30/05/2016,Ballinrobe,Josephine Marcus,Win,7,Lose,TRUE
+934,934,Tipster A,30/05/2016,Ballinrobe,Isabellla Liberty,Win,5.5,Lose,TRUE
+935,935,Tipster A,30/05/2016,Ballinrobe,Libertys Gift,Win,6,Lose,TRUE
+936,936,Tipster A,30/05/2016,Ballinrobe,Rebel Cry,Win,4.5,Lose,TRUE
+937,937,Tipster A,31/05/2016,Towcester,Kayla,Win,3,Win,TRUE
+938,938,Tipster A,31/05/2016,Wolverhampton,Pleaseletmewin,Win,4,Win,TRUE
+939,939,Tipster A,31/05/2016,Ballinrobe,Bright Tomorrow,Each Way,4.5,Win,TRUE
+940,940,Tipster A,01/06/2016,Punchestown,Mr Fiftyone,Win,4.5,Win,TRUE
+941,941,Tipster A,01/06/2016,Punchestown,Ancient Sands,Each Way,8,Win,TRUE
+942,942,Tipster A,02/06/2016,Fairyhouse,Power Grid,Win,8.5,Lose,TRUE
+943,943,Tipster A,02/06/2016,Kempton,Munthahaa,Win,2,Win,TRUE
+944,944,Tipster A,02/06/2016,Ffos Las,Carrigkerry,Win,2.25,Lose,TRUE
+945,945,Tipster A,03/06/2016,Epsom,Felix De Vega,Each Way,10,Lose,TRUE
+946,946,Tipster A,03/06/2016,Epsom,Skiffle,Each Way,7,Lose,TRUE
+947,947,Tipster A,03/06/2016,Market Rasen,Moss On The Mill,Each Way,4,Win,TRUE
+948,948,Tipster A,03/06/2016,Epsom,Scrutineer,Each Way,5.5,Lose,TRUE
+949,949,Tipster A,03/06/2016,Leopardstown,Knights Templar,Each Way,12,Lose,TRUE
+950,950,Tipster A,03/06/2016,Leopardstown,Duchessofflorence,Win,5.5,Lose,TRUE
+951,951,Tipster A,03/06/2016,Leopardstown,Maronella,Each Way,13,Lose,TRUE
+952,952,Tipster A,03/06/2016,Leopardstown,Secret Splendour,Win,5,Lose,TRUE
+953,953,Tipster A,04/06/2016,Epsom,Poets Word,Win,4,Lose,TRUE
+954,954,Tipster A,04/06/2016,Worcester,Gioia De Vita,Each Way,5.5,Lose,TRUE
+955,955,Tipster A,04/06/2016,Epsom,Red Verdon,Each Way,21,Lose,TRUE
+956,956,Tipster A,04/06/2016,Epsom,Barwick,Each Way,13,Lose,TRUE
+957,957,Tipster A,04/06/2016,Curragh,Dark Alliance,Each Way,9,Lose,TRUE
+958,958,Tipster A,04/06/2016,Curragh,Ducky Mallon,Each Way,8,Lose,TRUE
+959,959,Tipster A,04/06/2016,Curragh,Dodgybingo,Each Way,11,Lose,TRUE
+960,960,Tipster A,04/06/2016,Curragh,Newsman,Each Way,5,Win,TRUE
+961,961,Tipster A,05/06/2016,Kilbeggan,Supreme Vinnie,Win,2.1,Win,TRUE
+962,962,Tipster A,05/06/2016,Goodwood,Pettochside,Win,3.75,Lose,TRUE
+963,963,Tipster A,05/06/2016,Listowel,Approcaillis,Each Way,6,Lose,TRUE
+964,964,Tipster A,06/06/2016,Listowel,Ah Littleluck,Win,5,Win,TRUE
+965,965,Tipster A,06/06/2016,Gowran Park,Phebes Dream,Each Way,6,Win,TRUE
+966,966,Tipster A,06/06/2016,Windsor,Wiley Post,Win,4.5,Lose,TRUE
+967,967,Tipster A,07/06/2016,Salisbury,White Poppy,Win,4,Win,TRUE
+968,968,Tipster A,07/06/2016,Fontwell,Newton Geronimo,Each Way,10,Win,TRUE
+969,969,Tipster A,07/06/2016,SouthWell,Bon Chic,Win,4,Win,TRUE
+970,970,Tipster A,08/06/2016,Yarmouth,Shahaama,Each Way,7.5,Lose,TRUE
+971,971,Tipster A,08/06/2016,Fairyhouse,Mostawfee,Each Way,12,Lose,TRUE
+972,972,Tipster A,08/06/2016,Hamilton,Giant Spark,Win,2.25,Lose,TRUE
+973,973,Tipster A,09/06/2016,Newbury,Abingdon,Win,3.75,Win,TRUE
+974,974,Tipster A,09/06/2016,Leopardstown,Tennessee Wildcat,Each Way,5,Win,TRUE
+975,975,Tipster A,09/06/2016,Uttoxeter,Big Sound,Each Way,6,Win,TRUE
+976,976,Tipster A,09/06/2016,Uttoxeter,Mrs Burbridge,Win,2.62,Lose,TRUE
+977,977,Tipster A,10/06/2016,York,Kip,Each Way,4.5,Lose,TRUE
+978,978,Tipster A,10/06/2016,Newton Abbot,Peruvien Bleu,Each Way,9,Win,TRUE
+979,979,Tipster A,10/06/2016,Clonmel,Charlottes Chum,Win,5.5,Lose,TRUE
+980,980,Tipster A,11/06/2016,Sandown,Dolphin Vista,Each Way,5.5,Lose,TRUE
+981,981,Tipster A,11/06/2016,Chester,Reflektor,Win,3,Lose,TRUE
+982,982,Tipster A,11/06/2016,Navan,Ceol Na Nog,Win,2.75,Win,TRUE
+983,983,Tipster A,11/06/2016,Limerick,Flaviana,Win,7.5,Lose,TRUE
+984,984,Tipster A,11/06/2016,Limerick,Sweet Little Lies,Each Way,9,Lose,TRUE
+985,985,Tipster A,12/06/2016,Downpatrick,Josephine Marcus,Win,4.5,Lose,TRUE
+986,986,Tipster A,12/06/2016,Salisbury,A Moment Of Madness,Win,2.62,Win,TRUE
+987,987,Tipster A,12/06/2016,Cork,Alveena,Win,3.5,Win,TRUE
+988,988,Tipster A,12/06/2016,Cork,Mandamus,Each Way,34,Lose,TRUE
+989,989,Tipster A,13/06/2016,Windsor,Upstaging,Each Way,7,Win,TRUE
+990,990,Tipster A,14/06/2016,Ascot,Belardo,Each Way,5.5,Win,TRUE
+991,991,Tipster A,14/06/2016,Ascot,Endless Drama,Win,7.5,Lose,TRUE
+992,992,Tipster A,14/06/2016,Ascot,Carvaggio,Win,4.5,Win,TRUE
+993,993,Tipster A,14/06/2016,Ascot,Yalta,Win,8,Lose,TRUE
+994,994,Tipster A,14/06/2016,Ascot,Profitable,Each Way,9,Win,TRUE
+995,995,Tipster A,14/06/2016,Ascot,Sempre Medici,Each Way,10,Lose,TRUE
+996,996,Tipster A,14/06/2016,Ascot,Jennies Jewel,Each Way,8,Win,TRUE
+997,997,Tipster A,14/06/2016,Ascot,Mister Trader,Each Way,6,Lose,TRUE
+998,998,Tipster A,14/06/2016,Roscommon,Derulo,Win,4.5,Lose,TRUE
+999,999,Tipster A,15/06/2016,Ascot,Remarkable,Each Way,12,Lose,TRUE
+1000,1000,Tipster A,15/06/2016,Ascot,Ribchester,Each Way,10,Win,TRUE
+1001,1001,Tipster A,15/06/2016,Ascot,Roly Poly,Each Way,13,Lose,TRUE
+1002,1002,Tipster A,15/06/2016,Ascot,Earth Drummer,Each Way,17,Lose,TRUE
+1003,1003,Tipster A,15/06/2016,Ascot,Donncha,Each Way,15,Lose,TRUE
+1004,1004,Tipster A,15/06/2016,Ripon,My Amigo,Each Way,5,Win,TRUE
+1005,1005,Tipster A,16/06/2016,Ascot,Blue De Vega,Each Way,6,Lose,TRUE
+1006,1006,Tipster A,16/06/2016,Ascot,Clever Cookie,Each Way,13,Lose,TRUE
+1007,1007,Tipster A,16/06/2016,Ascot,Pacodali,Each Way,51,Lose,TRUE
+1008,1008,Tipster A,16/06/2016,Ascot,Defrocked,Each Way,11,Win,TRUE
+1009,1009,Tipster A,16/06/2016,Ascot,Shraaoh,Each Way,5.5,Lose,TRUE
+1010,1010,Tipster A,17/06/2016,Ascot,Quiet Reflection,Win,3,Win,TRUE
+1011,1011,Tipster A,17/06/2016,Ascot,Jet Setting,Win,4.33,Lose,TRUE
+1012,1012,Tipster A,17/06/2016,Ascot,Ivan Grozny,Each Way,13,Lose,TRUE
+1013,1013,Tipster A,17/06/2016,Down Royal,Shan Dun Na Ngall,Each Way,5.5,Lose,TRUE
+1014,1014,Tipster A,17/06/2016,Newmarket,Blackout,Each Way,5,Win,TRUE
+1015,1015,Tipster A,18/06/2016,Ascot,Mount Logan,Each Way,21,Lose,TRUE
+1016,1016,Tipster A,18/06/2016,Ascot,Astronerous,Each Way,26,Lose,TRUE
+1017,1017,Tipster A,18/06/2016,Ascot,The Tin Man,Each Way,5.5,Lose,TRUE
+1018,1018,Tipster A,18/06/2016,Ascot,The Happy Prince,Each Way,19,Lose,TRUE
+1019,1019,Tipster A,18/06/2016,Ascot,Burnt Sugar,Each Way,34,Lose,TRUE
+1020,1020,Tipster A,18/06/2016,Ascot,Oriental Fox,Each Way,6,Lose,TRUE
+1021,1021,Tipster A,18/06/2016,Newmarket,Gunmetal,Each Way,4.5,Win,TRUE
+1022,1022,Tipster A,19/06/2016,Gowran Park,Expreso Brasileiro,Each Way,4.5,Lose,TRUE
+1023,1023,Tipster A,19/06/2016,Worcester,Eddiemaurice,Each Way,4,Win,TRUE
+1024,1024,Tipster A,20/06/2016,Kilbeggan,Supreme Vinnie,Win,13,Win,TRUE
+1025,1025,Tipster A,20/06/2016,Kilbeggan,Do Try Dolly,Each Way,7,Lose,TRUE
+1026,1026,Tipster A,20/06/2016,Windsor,Indulged,Win,2.5,Lose,TRUE
+1027,1027,Tipster A,20/06/2016,Kilbeggan,Heron Heights,Win,13,Lose,TRUE
+1028,1028,Tipster A,21/06/2016,Beverley,Final,Win,3.25,Win,TRUE
+1029,1029,Tipster A,21/06/2016,Ballinrobe,Motherland,Win,2.5,Win,TRUE
+1030,1030,Tipster A,21/06/2016,Leicester,Ninepointsixthree,Each Way,9,Lose,TRUE
+1031,1031,Tipster A,21/06/2016,Ballinrobe,Petuna,Each Way,6.5,Win,TRUE
+1032,1032,Tipster A,22/06/2016,Carlisle,Masterpaver,Each Way,4,Win,TRUE
+1033,1033,Tipster A,22/06/2016,Kempton,Francos Secret,Each Way,7,Win,TRUE
+1034,1034,Tipster A,22/06/2016,Naas,Evie Be Kool,Each Way,8,Lose,TRUE
+1035,1035,Tipster A,23/06/2016,Newmarket,Pixeleen,Each Way,7,Lose,TRUE
+1036,1036,Tipster A,23/06/2016,Huntingdon,Gold Hunter,Each Way,7,Lose,TRUE
+1037,1037,Tipster A,23/06/2016,Leopardstown,Eagle Spirit,Win,2.38,Win,TRUE
+1038,1038,Tipster A,24/06/2016,Yarmouth,Red Cardinal,Win,2,Win,TRUE
+1039,1039,Tipster A,24/06/2016,Cartmel,Shady Glen,Win,4.33,Lose,TRUE
+1040,1040,Tipster A,24/06/2016,Cartmel,Wiffy Chatsby,Win,3,Lose,TRUE
+1041,1041,Tipster A,24/06/2016,Yarmouth,Knight Owl,Win,2.5,Lose,TRUE
+1042,1042,Tipster A,24/06/2016,Curragh,Avenante,Each Way,10,Win,TRUE
+1043,1043,Tipster A,25/06/2016,Chester,Arcanda,Each Way,3.75,Win,TRUE
+1044,1044,Tipster A,25/06/2016,Curragh,Hasanour,Win,6.5,Lose,TRUE
+1045,1045,Tipster A,25/06/2016,Curragh,Champagne Or Water,Win,6,Lose,TRUE
+1046,1046,Tipster A,25/06/2016,Newcastle,Gabrial The Hero,Each Way,11,Lose,TRUE
+1047,1047,Tipster A,25/06/2016,Newcastle,Arch Villain,Each Way,17,Lose,TRUE
+1048,1048,Tipster A,25/06/2016,Windsor,Red Tea,Each Way,3.75,Win,TRUE
+1049,1049,Tipster A,25/06/2016,Chester,Perspicace,Each Way,4,Lose,TRUE
+1050,1050,Tipster A,25/06/2016,Curragh,Midnitemudcrabs,Each Way,13,Lose,TRUE
+1051,1051,Tipster A,25/06/2016,Curragh,Flying Fairies,Each Way,8,Lose,TRUE
+1052,1052,Tipster A,26/06/2016,Curragh,Arcada,Each Way,5.5,Lose,TRUE
+1053,1053,Tipster A,26/06/2016,Uttoxeter,Nikki Steel,Win,2.1,Lose,TRUE
+1054,1054,Tipster A,26/06/2016,Cartmel,Morning Royalty,Win,4,Lose,TRUE
+1055,1055,Tipster A,26/06/2016,Uttoxeter,Sharp Rise,Win,5,Win,TRUE
+1056,1056,Tipster A,26/06/2016,Curragh,Ardhoomey,Each Way,7.5,Lose,TRUE
+1057,1057,Tipster A,26/06/2016,Curragh,Eddystone Rock,Each Way,4.5,Win,TRUE
+1058,1058,Tipster A,27/06/2016,Pontefract,Hanseatic,Each Way,7,Win,TRUE
+1059,1059,Tipster A,27/06/2016,Musselburgh,Tonto Spirit,Win,3.75,Lose,TRUE
+1060,1060,Tipster A,28/06/2016,Hamilton,Line Of Reason,Win,2.5,Lose,TRUE
+1061,1061,Tipster A,28/06/2016,Stratford,Annie Alainn,Win,6.5,Lose,TRUE
+1062,1062,Tipster A,29/06/2016,Worcester,Preseli Rock,Win,1.83,Lose,TRUE
+1063,1063,Tipster A,29/06/2016,Fairyhouse,Colla Pier,Each Way,4.5,Win,TRUE
+1064,1064,Tipster A,29/06/2016,Fairyhouse,Dodgybingo,Each Way,11,Lose,TRUE
+1065,1065,Tipster A,30/06/2016,Haydock,Sir Theodore,Win,4,Lose,TRUE
+1066,1066,Tipster A,30/06/2016,Yarmouth,Awesome Quality,Win,3.75,Lose,TRUE
+1067,1067,Tipster A,30/06/2016,Tipperary,Lilly The Lioness,Each Way,2.5,Win,TRUE
+1068,1068,Tipster A,01/07/2016,Newton Abbot,Peruvien Bleu,Each Way,10,Win,TRUE
+1069,1069,Tipster A,01/07/2016,Sandown,Spark Plug,Win,5.5,Lose,TRUE
+1070,1070,Tipster A,01/07/2016,Beverley,Viscount Barfield,Win,2.1,Lose,TRUE
+1071,1071,Tipster A,01/07/2016,Haydock,Ok By Me,Each Way,21,Lose,TRUE
+1072,1072,Tipster A,02/07/2016,Sandown,Willytheconqueror,Each Way,13,Lose,TRUE
+1073,1073,Tipster A,02/07/2016,Haydock,Loving Things,Each Way,7.5,Lose,TRUE
+1074,1074,Tipster A,02/07/2016,Haydock,Green Light,Each Way,10,Lose,TRUE
+1075,1075,Tipster A,02/07/2016,Sandown,Snow Moon,Each Way,5,Lose,TRUE
+1076,1076,Tipster A,02/07/2016,Nottingham,Indian Chief,Win,2.1,Win,TRUE
+1077,1077,Tipster A,03/07/2016,Market Rasen,Party Rock,Win,2.8,Lose,TRUE
+1078,1078,Tipster A,03/07/2016,Limerick,Isabella Liberty,Each Way,4.5,Lose,TRUE
+1079,1079,Tipster A,03/07/2016,Limerick,The Herds Garden,Each Way,6,Lose,TRUE
+1080,1080,Tipster A,04/07/2016,Worcester,Barman,Win,2.75,Win,TRUE
+1081,1081,Tipster A,04/07/2016,Roscommon,Ecoeye,Win,3.8,Win,TRUE
+1082,1082,Tipster A,04/07/2016,Roscommon,Midnitemudcrabs,Win,4,Lose,TRUE
+1083,1083,Tipster A,05/07/2016,Brighton,Majoris,Win,2.1,Win,TRUE
+1084,1084,Tipster A,05/07/2016,Roscommon,Delegate,Win,2.5,Win,TRUE
+1085,1085,Tipster A,05/07/2016,Roscommon,Icelip,Each Way,10,Win,TRUE
+1086,1086,Tipster A,06/07/2016,Lingfield,Sea Fox,Win,1.91,Win,TRUE
+1087,1087,Tipster A,06/07/2016,Kempton,Dolphin Village,Each Way,4,Win,TRUE
+1088,1088,Tipster A,07/07/2016,Newmarket,Barrington,Each Way,26,Lose,TRUE
+1089,1089,Tipster A,07/07/2016,Newmarket,Yalta,Each Way,15,Lose,TRUE
+1090,1090,Tipster A,07/07/2016,Newmarket,Dancing Star,Each Way,9,Win,TRUE
+1091,1091,Tipster A,07/07/2016,Doncaster,Pirouette,Win,6.5,Win,TRUE
+1092,1092,Tipster A,07/07/2016,Leopardstown,Total Demolition,Each Way,6,Lose,TRUE
+1093,1093,Tipster A,08/07/2016,Newmarket,Blair House,Win,4.5,Lose,TRUE
+1094,1094,Tipster A,08/07/2016,Ascot,Afandem,Win,4.3,Lose,TRUE
+1095,1095,Tipster A,08/07/2016,Ascot,Masterpaver,Each Way,5.5,Lose,TRUE
+1096,1096,Tipster A,08/07/2016,York,Mayfair Lady,Win,4.5,Lose,TRUE
+1097,1097,Tipster A,08/07/2016,Ascot,Rio Ronaldo,Each Way,13,Lose,TRUE
+1098,1098,Tipster A,08/07/2016,Newmarket,Fieldsman,Each Way,21,Lose,TRUE
+1099,1099,Tipster A,08/07/2016,Chepstow,Satchville Flyer,Win,3.5,Lose,TRUE
+1100,1100,Tipster A,09/07/2016,Ascot,Dougan,Each Way,13,Lose,TRUE
+1101,1101,Tipster A,09/07/2016,Ascot,Mutakayyef,Each Way,6.5,Win,TRUE
+1102,1102,Tipster A,09/07/2016,Newmarket,Magical Memory,Each Way,7,Lose,TRUE
+1103,1103,Tipster A,09/07/2016,York,Marsha,Each Way,8.5,Win,TRUE
+1104,1104,Tipster A,09/07/2016,Ascot,Wave Reviews,Each Way,8.5,Lose,TRUE
+1105,1105,Tipster A,10/07/2016,Fairyhouse,Delegating,Each Way,7.5,Lose,TRUE
+1106,1106,Tipster A,10/07/2016,Fairyhouse,Time To Reason,Each Way,6.5,Win,TRUE
+1107,1107,Tipster A,10/07/2016,Sligo,Yes Man,Each Way,6,Lose,TRUE
+1108,1108,Tipster A,11/07/2016,Windsor,Fabric,Win,3.3,Lose,TRUE
+1109,1109,Tipster A,11/07/2016,Dundee,Crocodile Dundee,Each Way,7.5,Win,TRUE
+1110,1110,Tipster A,12/07/2016,Bath,Dark Shot,Win,4.4,Lose,TRUE
+1111,1111,Tipster A,12/07/2016,Dundee,Yamato,Each Way,9,Win,TRUE
+1112,1112,Tipster A,12/07/2016,Beverley,St Michel,Win,1.9,Win,TRUE
+1113,1113,Tipster A,12/07/2016,Worcester,Samtu,Win,4,Lose,TRUE
+1114,1114,Tipster A,12/07/2016,Killarney,Tiger Roll,Win,3.3,Lose,TRUE
+1115,1115,Tipster A,13/07/2016,Lingfield,Gothic Empire,Win,8,Lose,TRUE
+1116,1116,Tipster A,13/07/2016,Downpatrick,Magnetic Force,Win,3.3,Lose,TRUE
+1117,1117,Tipster A,13/07/2016,Downpatrick,Emma Beag,Win,3.3,Lose,TRUE
+1118,1118,Tipster A,14/07/2016,Chepstow,Feed The Goater,Each Way,5.5,Win,TRUE
+1119,1119,Tipster A,14/07/2016,Killarney,Time For Mabel,Each Way,8,Win,TRUE
+1120,1120,Tipster A,14/07/2016,Leicester,Satchville Flyer,Each Way,5.5,Win,TRUE
+1121,1121,Tipster A,14/07/2016,Epsom,Zaria,Each Way,6,Lose,TRUE
+1122,1122,Tipster A,14/07/2016,Leopardstown,Tennessee Wildcat,Each Way,17,Lose,TRUE
+1123,1123,Tipster A,15/07/2016,Haydock,Bossipop,Each Way,5.5,Lose,TRUE
+1124,1124,Tipster A,15/07/2016,Nottingham,Marcano,Win,4.5,Lose,TRUE
+1125,1125,Tipster A,15/07/2016,Kilbeggan,William Du Berlais,Win,2.1,Lose,TRUE
+1126,1126,Tipster A,15/07/2016,Newmarket,Calvados Spirit,Win,9.5,Lose,TRUE
+1127,1127,Tipster A,15/07/2016,Kilbeggan,Supreme Vinnie,Each Way,5.5,Lose,TRUE
+1128,1128,Tipster A,15/07/2016,Kilbeggan,Duckweed,Each Way,13,Lose,TRUE
+1129,1129,Tipster A,15/07/2016,Kilbeggan,Carriganog,Win,5,Lose,TRUE
+1130,1130,Tipster A,16/07/2016,Market Rasen,Moabit,Each Way,7,Lose,TRUE
+1131,1131,Tipster A,16/07/2016,Market Rasen,Golden Doyen,Each Way,12,Win,TRUE
+1132,1132,Tipster A,16/07/2016,Curragh,Have A Nice Day,Each Way,11,Win,TRUE
+1133,1133,Tipster A,16/07/2016,Newbury,Spiritual Lady,Each Way,9,Lose,TRUE
+1134,1134,Tipster A,16/07/2016,Curragh,In Salutem,Each Way,13,Win,TRUE
+1135,1135,Tipster A,16/07/2016,Curragh,Captain Cullen,Each Way,15,Lose,TRUE
+1136,1136,Tipster A,16/07/2016,Curragh,Udogo,Each Way,9,Win,TRUE
+1137,1137,Tipster A,17/07/2016,Curragh,Little Prairie,Each Way,10,Lose,TRUE
+1138,1138,Tipster A,17/07/2016,Newton Abbot,Bulletproof,Each Way,9,Lose,TRUE
+1139,1139,Tipster A,17/07/2016,Curragh,Bocca Baciata,Each Way,7,Win,TRUE
+1140,1140,Tipster A,18/07/2016,Windsor,Pixeleen,Win,3.5,Lose,TRUE
+1141,1141,Tipster A,18/07/2016,Ballinrobe,Belarusian,Win,3,Lose,TRUE
+1142,1142,Tipster A,18/07/2016,Windsor,All My Love,Win,4.5,Lose,TRUE
+1143,1143,Tipster A,19/07/2016,Ffos Las,Agerzam,Each Way,15,Win,TRUE
+1144,1144,Tipster A,19/07/2016,Chelmsford,Certified,Win,2.8,Lose,TRUE
+1145,1145,Tipster A,20/07/2016,Lingfield,Lajatico,Each Way,4.5,Win,TRUE
+1146,1146,Tipster A,20/07/2016,Dundee,Dunnscotia,Each Way,5.5,Win,TRUE
+1147,1147,Tipster A,20/07/2016,Carlisle,Mr Scarlet,Each Way,9,Win,TRUE
+1148,1148,Tipster A,21/07/2016,Yarmouth,Grey Britain,Win,3.8,Lose,TRUE
+1149,1149,Tipster A,21/07/2016,Sandown,St Michel,Win,2.4,Lose,TRUE
+1150,1150,Tipster A,21/07/2016,Limerick,Heron Heights,Win,5,Win,TRUE
+1151,1151,Tipster A,22/07/2016,Uttoxeter,Yes Daddy,Each Way,7,Win,TRUE
+1152,1152,Tipster A,22/07/2016,Ascot,Continuum,Each Way,12,Lose,TRUE
+1153,1153,Tipster A,22/07/2016,Ascot,Noble Silk,Each Way,6.5,Lose,TRUE
+1154,1154,Tipster A,22/07/2016,Newmarket,Red Tea,Win,4.5,Win,TRUE
+1155,1155,Tipster A,22/07/2016,Down Royal,Full Court Press,Win,2.4,Lose,TRUE
+1156,1156,Tipster A,22/07/2016,Curragh,Curragh Golan,Each Way,4.5,Win,TRUE
+1157,1157,Tipster A,23/07/2016,Chester,The Nazca Lines,Win,4,Lose,TRUE
+1158,1158,Tipster A,23/07/2016,Ascot,Pirouette,Each Way,9,Win,TRUE
+1159,1159,Tipster A,23/07/2016,Ascot,Taurean Star,Each Way,10,Lose,TRUE
+1160,1160,Tipster A,23/07/2016,Chester,Viscount Barfield,Each Way,5.5,Win,TRUE
+1161,1161,Tipster A,23/07/2016,Newmarket,Mont Kiara,Each Way,6.5,Win,TRUE
+1162,1162,Tipster A,23/07/2016,Ascot,Dont Bother Me,Each Way,21,Lose,TRUE
+1163,1163,Tipster A,23/07/2016,Ascot,Librisa Breeze,Each Way,11,Win,TRUE
+1164,1164,Tipster A,23/07/2016,York,Kimberella,Each Way,7.5,Win,TRUE
+1165,1165,Tipster A,23/07/2016,Salisbury,Imperial State,Win,3.5,Win,TRUE
+1166,1166,Tipster A,23/07/2016,York,Equimou,Win,4.5,Lose,TRUE
+1167,1167,Tipster A,24/07/2016,Pontefract,Maureb,Each Way,7,Win,TRUE
+1168,1168,Tipster A,24/07/2016,Uttoxeter,Ablazing,Win,2.4,Win,TRUE
+1169,1169,Tipster A,25/07/2016,Galway,Camlann,Each Way,5,Win,TRUE
+1170,1170,Tipster A,25/07/2016,Galway,Flying Fairies,Each Way,11,Win,TRUE
+1171,1171,Tipster A,25/07/2016,Windsor,Shypen,Each Way,8,Lose,TRUE
+1172,1172,Tipster A,25/07/2016,Galway,Motherland,Each Way,4.5,Win,TRUE
+1173,1173,Tipster A,26/07/2016,Goodwood,Snoano,Each Way,17,Lose,TRUE
+1174,1174,Tipster A,26/07/2016,Goodwood,Oasis Fantasy,Each Way,17,Win,TRUE
+1175,1175,Tipster A,26/07/2016,Yarmouth,Takatul,Win,3.3,Win,TRUE
+1176,1176,Tipster A,26/07/2016,Galway,Tocororo,Each Way,5.5,Win,TRUE
+1177,1177,Tipster A,26/07/2016,Galway,Gussy Goose,Each Way,17,Lose,TRUE
+1178,1178,Tipster A,26/07/2016,Galway,Beau Satchel,Each Way,8,Win,TRUE
+1179,1179,Tipster A,27/07/2016,Goodwood,Qatari Hunter,Each Way,8,Lose,TRUE
+1180,1180,Tipster A,27/07/2016,Galway,Rathmuck Native,Each Way,9,Lose,TRUE
+1181,1181,Tipster A,27/07/2016,Goodwood,Kyllang Rock,Each Way,23,Lose,TRUE
+1182,1182,Tipster A,27/07/2016,Galway,Lord Scoundrel,Each Way,34,Win,TRUE
+1183,1183,Tipster A,27/07/2016,Galway,Shantou Flyer,Each Way,15,Lose,TRUE
+1184,1184,Tipster A,27/07/2016,Galway,Cairdiuil,Each Way,8,Win,TRUE
+1185,1185,Tipster A,28/07/2016,Goodwood,Quest For More,Each Way,9,Lose,TRUE
+1186,1186,Tipster A,28/07/2016,Galway,Gussy Goose,Each Way,11,Lose,TRUE
+1187,1187,Tipster A,28/07/2016,Galway,Camlann,Each Way,5,Win,TRUE
+1188,1188,Tipster A,28/07/2016,Epsom,Lorelina,Each Way,9,Win,TRUE
+1189,1189,Tipster A,29/07/2016,Goodwood,Thikriyaat,Win,4,Win,TRUE
+1190,1190,Tipster A,29/07/2016,Goodwood,Franklin D,Win,3.5,Win,TRUE
+1191,1191,Tipster A,29/07/2016,Galway,Mighty Concorde,Each Way,10,Win,TRUE
+1192,1192,Tipster A,29/07/2016,Goodwood,Indulged,Each Way,11,Lose,TRUE
+1193,1193,Tipster A,29/07/2016,Galway,On Fiddlers Green,Each Way,10,Win,TRUE
+1194,1194,Tipster A,29/07/2016,Galway,Ivan Grozny,Win,2.4,Win,TRUE
+1195,1195,Tipster A,29/07/2016,Bath,Red Tea,Win,2.8,Win,TRUE
+1196,1196,Tipster A,30/07/2016,Goodwood,Nuno Tristan,Each Way,21,Win,TRUE
+1197,1197,Tipster A,30/07/2016,Goodwood,Knights Table,Each Way,15,Lose,TRUE
+1198,1198,Tipster A,30/07/2016,Goodwood,Emperor Napoleon,Each Way,15,Lose,TRUE
+1199,1199,Tipster A,30/07/2016,Galway,Plain Talking,Each Way,9,Win,TRUE
+1200,1200,Tipster A,30/07/2016,Goodwood,Kimberella,Each Way,15,Lose,TRUE
+1201,1201,Tipster A,30/07/2016,Goodwood,Dancing Star,Each Way,8,Win,TRUE
+1202,1202,Tipster A,30/07/2016,Galway,Cairdiuil,Each Way,9,Win,TRUE
+1203,1203,Tipster A,30/07/2016,Galway,Beau Satchel,Win,3.8,Lose,TRUE
+1204,1204,Tipster A,31/07/2016,Galway,Black Label,Each Way,21,Lose,TRUE
+1205,1205,Tipster A,31/07/2016,Chester,Eastern Impact,Win,2.5,Lose,TRUE
+1206,1206,Tipster A,31/07/2016,Galway,Dream Walker,Each Way,9,Win,TRUE
+1207,1207,Tipster A,31/07/2016,Chepstow,Ring Eye,Win,4.5,Lose,TRUE
+1208,1208,Tipster A,01/08/2016,Naas,Intrepid Prince,Win,2.2,Win,TRUE
+1209,1209,Tipster A,01/08/2016,Windsor,September Stars,Win,2.5,Win,TRUE
+1210,1210,Tipster A,02/08/2016,Catterick,Project Bluebook,Each Way,4.5,Win,TRUE
+1211,1211,Tipster A,02/08/2016,Cork,Korbous,Each Way,5,Win,TRUE
+1212,1212,Tipster A,03/08/2016,Bath,Atalante,Win,3.5,Lose,TRUE
+1213,1213,Tipster A,03/08/2016,Bath,Moss Street,Each Way,13,Lose,TRUE
+1214,1214,Tipster A,03/08/2016,Sligo,Bainne,Each Way,9,Win,TRUE
+1215,1215,Tipster A,03/08/2016,Yarmouth,Shypen,Win,6,Lose,TRUE
+1216,1216,Tipster A,04/08/2016,Leopardstown,Blairmayne,Each Way,3.75,Lose,TRUE
+1217,1217,Tipster A,05/08/2016,Tipperary,Sors,Each Way,8.5,Lose,TRUE
+1218,1218,Tipster A,05/08/2016,Tipperary,Decisive Intent,Win,2,Lose,TRUE
+1219,1219,Tipster A,06/08/2016,Ascot,In Salutem,Each Way,8,Win,TRUE
+1220,1220,Tipster A,06/08/2016,Newmarket,Majoris,Win,2.1,Win,TRUE
+1221,1221,Tipster A,06/08/2016,Haydock,Wilamina,Each Way,5.5,Lose,TRUE
+1222,1222,Tipster A,06/08/2016,Kilbeggan,Heron Heights,Each Way,5,Lose,TRUE
+1223,1223,Tipster A,07/08/2016,Curragh,Slumming Angel,Each Way,4.5,Lose,TRUE
+1224,1224,Tipster A,07/08/2016,Downpatrick,Mr Antolini,Each Way,6,Win,TRUE
+1225,1225,Tipster A,07/08/2016,Curragh,Air Force Blue,Win,2.5,Lose,TRUE
+1226,1226,Tipster A,07/08/2016,Curragh,Total Demolition,Each Way,9,Lose,TRUE
+1227,1227,Tipster A,08/08/2016,Wolverhampton,Braztime,Each Way,7,Win,TRUE
+1228,1228,Tipster A,08/08/2016,Wolverhampton,Berlusca,Win,6,Lose,TRUE
+1229,1229,Tipster A,08/08/2016,Ballinrobe,Walkabout,Win,3,Win,TRUE
+1230,1230,Tipster A,08/08/2016,Ballinrobe,Black Label,Each Way,5,Lose,TRUE
+1231,1231,Tipster A,10/08/2016,Salisbury,Sharja Queen,Win,2.8,Lose,TRUE
+1232,1232,Tipster A,10/08/2016,Gowran Park,Assume,Win,4,Lose,TRUE
+1233,1233,Tipster A,10/08/2016,Kempton,Mezmaar,Each Way,4.5,Lose,TRUE
+1234,1234,Tipster A,11/08/2016,Worcester,Moss Street,Each Way,6,Lose,TRUE
+1235,1235,Tipster A,11/08/2016,Leopardstown,Miss Qatar,Each Way,6,Lose,TRUE
+1236,1236,Tipster A,11/08/2016,Tramore,Old Castletown,Win,2.9,Win,TRUE
+1237,1237,Tipster A,11/08/2016,Yarmouth,Anastazia,Win,2.4,Lose,TRUE
+1238,1238,Tipster A,12/08/2016,Newcastle,Awesome Quality,Win,3.3,Lose,TRUE
+1239,1239,Tipster A,12/08/2016,Tramore,Give Her Bach,Each Way,7.5,Lose,TRUE
+1240,1240,Tipster A,12/08/2016,Tramore,Icelip,Each Way,7,Lose,TRUE
+1241,1241,Tipster A,13/08/2016,Newmarket,Mont Kiara,Each Way,8.5,Lose,TRUE
+1242,1242,Tipster A,13/08/2016,Newmarket,Paddy Power,Each Way,21,Lose,TRUE
+1243,1243,Tipster A,13/08/2016,Ripon,Nuno Tristan,Each Way,11,Lose,TRUE
+1244,1244,Tipster A,13/08/2016,Tramore,Misty Lady,Each Way,5,Lose,TRUE
+1245,1245,Tipster A,13/08/2016,Market Rasen,Bold Henmie,Each Way,5,Lose,TRUE
+1246,1246,Tipster A,14/08/2016,Dundalk,Primo Uomo,Each Way,6.5,Win,TRUE
+1247,1247,Tipster A,14/08/2016,Dundalk,Russian Soul,Each Way,8,Lose,TRUE
+1248,1248,Tipster A,14/08/2016,Southwell,Vintage Salon,Win,2.9,Lose,TRUE
+1249,1249,Tipster A,16/08/2016,Tipperary,Member State,Win,1.9,Lose,TRUE
+1250,1250,Tipster A,16/08/2016,Wolverhampton,May Rose,Win,2.8,Lose,TRUE
+1251,1251,Tipster A,16/08/2016,Leicester,Classic Pursuit,Each Way,6,Lose,TRUE
+1252,1252,Tipster A,17/08/2016,York,Best of Days,Win,2.3,Lose,TRUE
+1253,1253,Tipster A,17/08/2016,York,Mutakayyef,Each Way,15,Win,TRUE
+1254,1254,Tipster A,17/08/2016,York,Botany Bay,Each Way,9,Lose,TRUE
+1255,1255,Tipster A,17/08/2016,York,Repeater,Each Way,23,Lose,TRUE
+1256,1256,Tipster A,17/08/2016,Worcester,Horseguardsparade,Win,4.5,Lose,TRUE
+1257,1257,Tipster A,18/08/2016,York,One Word More,Each Way,9,Lose,TRUE
+1258,1258,Tipster A,18/08/2016,York,To Eternity,Each Way,6,Win,TRUE
+1259,1259,Tipster A,18/08/2016,Killarney,Abraham,Each Way,5.5,Lose,TRUE
+1260,1260,Tipster A,18/08/2016,Fontwell,Excellent Team,Win,2.38,Win,TRUE
+1261,1261,Tipster A,19/08/2016,York,Moonmeister,Each Way,7.5,Win,TRUE
+1262,1262,Tipster A,19/08/2016,Bangor,Mr Moondance,Each Way,4.5,Lose,TRUE
+1263,1263,Tipster A,19/08/2016,York,Jallota,Each Way,20,Win,TRUE
+1264,1264,Tipster A,19/08/2016,York,Viscount Barfield,Each Way,7.5,Lose,TRUE
+1265,1265,Tipster A,19/08/2016,Killarney,Bentelimar,Each Way,6.5,Lose,TRUE
+1266,1266,Tipster A,20/08/2016,York,Tullius,Each Way,11,Lose,TRUE
+1267,1267,Tipster A,20/08/2016,York,Injam,Each Way,19,Lose,TRUE
+1268,1268,Tipster A,20/08/2016,Curragh,Have a Nice day,Each Way,7.5,Lose,TRUE
+1269,1269,Tipster A,20/08/2016,York,She Is No Lady,Each Way,12,Lose,TRUE
+1270,1270,Tipster A,20/08/2016,York,Shrewd,Each Way,17,Win,TRUE
+1271,1271,Tipster A,20/08/2016,Killarney,Ballycasey,Win,3.3,Win,TRUE
+1272,1272,Tipster A,21/08/2016,Chelmsford,Saxagogo,Win,2.5,Lose,TRUE
+1273,1273,Tipster A,21/08/2016,Chelmsford,Gentlemen,Each Way,9,Lose,TRUE
+1274,1274,Tipster A,22/08/2016,Thirsk,Rose Marmara,Win,6,Lose,TRUE
+1275,1275,Tipster A,22/08/2016,Thirsk,Crombay,Win,8,Lose,TRUE
+1276,1276,Tipster A,22/08/2016,Kempton,Rehearse,Each Way,4.5,Lose,TRUE
+1277,1277,Tipster A,23/08/2016,Newbury,Sayesse,Win,7,Lose,TRUE
+1278,1278,Tipster A,23/08/2016,Ballinrobe,Presenting Mahler,Each Way,5,Lose,TRUE
+1279,1279,Tipster A,23/08/2016,Newbury,Gale Song,Each Way,7.5,Lose,TRUE
+1280,1280,Tipster A,24/08/2016,Newbury,Gale Song,Each Way,7.5,Lose,TRUE
+1281,1281,Tipster A,24/08/2016,Stratford,No Likey,Each Way,5,Lose,TRUE
+1282,1282,Tipster A,25/08/2016,Leicester,Storm City,Win,3.5,Lose,TRUE
+1283,1283,Tipster A,25/08/2016,Sedgefield,No Ceiling,Win,2.9,Win,TRUE
+1284,1284,Tipster A,25/08/2016,Bellewstown,King Wharf,Win,2.5,Lose,TRUE
+1285,1285,Tipster A,26/08/2016,Newmarket,Reconcilliation,Win,4.5,Lose,TRUE
+1286,1286,Tipster A,26/08/2016,Newmarket,Purple Magic,Win,3,Win,TRUE
+1287,1287,Tipster A,26/08/2016,Down Royal,Prickly,Win,3.8,Lose,TRUE
+1288,1288,Tipster A,26/08/2016,Down Royal,Manuka,Each Way,11,Lose,TRUE
+1289,1289,Tipster A,26/08/2016,Newcastle,Depth Charge,Each Way,7,Lose,TRUE
+1290,1290,Tipster A,27/08/2016,Navan,Evies Wish,Each Way,6.5,Lose,TRUE
+1291,1291,Tipster A,27/08/2016,Goodwood,Promising,Each Way,8,Win,TRUE
+1292,1292,Tipster A,27/08/2016,Goodwood,Cant Change It,Each Way,15,Lose,TRUE
+1293,1293,Tipster A,27/08/2016,Newmarket,Mickey,Each Way,5.5,Win,TRUE
+1294,1294,Tipster A,27/08/2016,Goodwood,Guns Of Leros,Each Way,5,Win,TRUE
+1295,1295,Tipster A,28/08/2016,Curragh,Butterflies,Win,5.5,Lose,TRUE
+1296,1296,Tipster A,28/08/2016,Cork,My Menekineko,Each Way,9,Lose,TRUE
+1297,1297,Tipster A,28/08/2016,Curragh,Cailin Mor,Each Way,15,Lose,TRUE
+1298,1298,Tipster A,29/08/2016,Newcastle,War Department,Win,2.25,Lose,TRUE
+1299,1299,Tipster A,29/08/2016,Chepstow,Gold Hunter,Each Way,7.5,Lose,TRUE
+1300,1300,Tipster A,29/08/2016,Cartmel,Linger,Win,2,Lose,TRUE
+1301,1301,Tipster A,29/08/2016,Roscommon,Nonetheless,Each Way,5,Lose,TRUE
+1302,1302,Tipster A,30/08/2016,Worcester,Play The Ace,Win,1.88,Lose,TRUE
+1303,1303,Tipster A,30/08/2016,Ripon,Miss Rosina,Each Way,5,Lose,TRUE
+1304,1304,Tipster A,31/08/2016,Bath,Zaakhir,Win,3.5,Lose,TRUE
+1305,1305,Tipster A,31/08/2016,Newton Abbot,Mount Vesuvius,Each Way,4.3,Lose,TRUE
+1306,1306,Tipster A,01/09/2016,Sedgefield,Jacks Last Hope,Win,2.75,Lose,TRUE
+1307,1307,Tipster A,01/09/2016,Haydock,Dark Emerald,Win,5,Lose,TRUE
+1308,1308,Tipster A,02/09/2016,Ascot,Muthmira,Win,1.8,Lose,TRUE
+1309,1309,Tipster A,02/09/2016,Haydock,Apricot sky,Each Way,6.5,Lose,TRUE
+1310,1310,Tipster A,02/09/2016,Haydock,George William,Each Way,8,Lose,TRUE
+1311,1311,Tipster A,02/09/2016,Kilbeggan,William Du Berlais,Win,2.9,Lose,TRUE
+1312,1312,Tipster A,03/09/2016,Ascot,Yattwee,Each Way,13,Lose,TRUE
+1313,1313,Tipster A,03/09/2016,Kempton,Eljaddaaf,Each Way,7,Lose,TRUE
+1314,1314,Tipster A,03/09/2016,Ascot,Real Dominion,Each Way,10,Lose,TRUE
+1315,1315,Tipster A,03/09/2016,Kempton,Koropick,Win,2.5,Lose,TRUE
+1316,1316,Tipster A,03/09/2016,Thirsk,Magical Effect,Win,3.5,Lose,TRUE
+1317,1317,Tipster A,03/09/2016,Navan,Callender,Win,3.3,Win,TRUE
+1318,1318,Tipster A,03/09/2016,Navan,Society Ranger,Each Way,34,Lose,TRUE
+1319,1319,Tipster A,04/09/2016,Dundalk,Strategic Force,Each Way,13,Lose,TRUE
+1320,1320,Tipster A,04/09/2016,Dundalk,Victorios Secret,Each Way,6,Lose,TRUE
+1321,1321,Tipster A,04/09/2016,Dundalk,Green Or Black,Each Way,11,Lose,TRUE
+1322,1322,Tipster A,04/09/2016,Fontwell,Mysterious Man,Win,3.3,Lose,TRUE
+1323,1323,Tipster A,04/09/2016,Dundalk,Sapphirine,Each Way,6.5,Lose,TRUE
+1324,1324,Tipster A,05/09/2016,Galway,Cairdiuil,Each Way,5,Win,TRUE
+1325,1325,Tipster A,05/09/2016,Galway,Morga,Each Way,11,Win,TRUE
+1326,1326,Tipster A,06/09/2016,Redcar,Our Boy John,Each Way,6,Lose,TRUE
+1327,1327,Tipster A,06/09/2016,Galway,Tocororo,Win,2.75,Win,TRUE
+1328,1328,Tipster A,07/09/2016,Uttoxeter,Skylander,Each Way,3.5,Lose,TRUE
+1329,1329,Tipster A,07/09/2016,Doncaster,Andok,Win,1.25,Win,TRUE
+1330,1330,Tipster A,07/09/2016,Carlisle,Little Lady Katie,Each Way,16,Lose,TRUE
+1331,1331,Tipster A,07/09/2016,Kempton,All the rage,Win,1.25,Lose,TRUE
+1332,1,Tipster B,15/01/2016,Lingfield,Gorokai,Win,1.91,Win,TRUE
+1333,2,Tipster B,15/01/2016,Lingfield,Intense Tango,Win,9,Lose,TRUE
+1334,3,Tipster B,15/01/2016,Bellewstown,Briery Belle,Win,1.91,Win,TRUE
+1335,4,Tipster B,16/01/2016,Wetherby,Lough Salt,Win,8.5,Lose,TRUE
+1336,5,Tipster B,16/01/2016,Wetherby,Run Ructions Run,Win,5.5,Lose,TRUE
+1337,6,Tipster B,16/01/2016,Wetherby,Passmore,Win,3.25,Lose,TRUE
+1338,7,Tipster B,21/01/2016,SouthWell,Kelvin Hall,Win,6.5,Lose,TRUE
+1339,8,Tipster B,21/01/2016,SouthWell,Kung Hei Fat Choy,Win,3.75,Lose,TRUE
+1340,9,Tipster B,21/01/2016,Wincanton,Shadow Blue,Win,12,Lose,TRUE
+1341,10,Tipster B,22/01/2016,Market Rasen,Abbreviate,Win,3.25,Lose,TRUE
+1342,11,Tipster B,22/01/2016,Lingfield,Canford Crossing,Win,9,Lose,TRUE
+1343,12,Tipster B,22/01/2016,Lingfield,Shalambar,Win,1.8,Win,TRUE
+1344,13,Tipster B,24/01/2016,Chelmsford,Miss Giler,Win,2.75,Lose,TRUE
+1345,14,Tipster B,15/03/2016,Cheltenham,Sign Of A Victory,Each Way,101,Lose,TRUE
+1346,15,Tipster B,25/03/2016,Lingfield,Forceful Appeal,Each Way,130,Lose,TRUE
+1347,16,Tipster B,30/03/2016,Lingfield,Atwix,Win,9,Lose,TRUE
+1348,17,Tipster B,30/03/2016,Lingfield,Bazooka,Each Way,17,Lose,TRUE
+1349,18,Tipster B,30/03/2016,SouthWell,Philba,Each Way,8.5,Lose,TRUE
+1350,19,Tipster B,30/03/2016,SouthWell,Fujin,Each Way,9,Win,TRUE
+1351,20,Tipster B,30/03/2016,Lingfield,Picansort,Each Way,12,Win,TRUE
+1352,21,Tipster B,30/03/2016,Kempton,Chevallier,Each Way,8,Lose,TRUE
+1353,22,Tipster B,31/03/2016,Wolverhampton,Just Five,Each Way,21,Lose,TRUE
+1354,23,Tipster B,31/03/2016,Wolverhampton,Bayan Kasirga,Win,6.5,Win,TRUE
+1355,24,Tipster B,31/03/2016,Wolverhampton,Shine Likeadiamond,Each Way,12,Lose,TRUE
+1356,25,Tipster B,31/03/2016,Wolverhampton,Well Owd Mon,Each Way,8.5,Lose,TRUE
+1357,26,Tipster B,31/03/2016,Chelmsford,Mystical Spirit,Win,4,Lose,TRUE
+1358,27,Tipster B,01/04/2016,Lingfield,Equally Fast,Each Way,5,Win,TRUE
+1359,28,Tipster B,01/04/2016,Lingfield,Langley Vale,Each Way,40,Lose,TRUE
+1360,29,Tipster B,01/04/2016,Lingfield,Seamster,Win,7.5,Lose,TRUE
+1361,30,Tipster B,01/04/2016,Wolverhampton,Captain George,Each Way,4.5,Lose,TRUE
+1362,31,Tipster B,01/04/2016,Wolverhampton,Indian Affair,Each Way,8,Lose,TRUE
+1363,32,Tipster B,02/04/2016,Kempton,Grey Mirage,Each Way,12,Lose,TRUE
+1364,33,Tipster B,02/04/2016,Doncaster,Stipulate,Each Way,51,Lose,TRUE
+1365,34,Tipster B,02/04/2016,Doncaster,Shared Equity,Each Way,10,Lose,TRUE
+1366,35,Tipster B,02/04/2016,Doncaster,Jack Dexter,Each Way,6.5,Lose,TRUE
+1367,36,Tipster B,02/04/2016,Kempton,Lady Lydia,Each Way,101,Lose,TRUE
+1368,37,Tipster B,03/04/2016,Doncaster,Hoof It,Each Way,25,Lose,TRUE
+1369,38,Tipster B,03/04/2016,Doncaster,New Bidder,Each Way,6.5,Win,TRUE
+1370,39,Tipster B,04/04/2016,Lingfield,Pixeleen,Each Way,10,Lose,TRUE
+1371,40,Tipster B,04/04/2016,Lingfield,Glastonberry,Each Way,8,Lose,TRUE
+1372,41,Tipster B,04/04/2016,Lingfield,Salient,Each Way,8,Win,TRUE
+1373,42,Tipster B,04/04/2016,Lingfield,Smugglers Lane,Each Way,6.5,Lose,TRUE
+1374,43,Tipster B,05/04/2016,Pontefract,Sands Chorus,Each Way,7,Win,TRUE
+1375,44,Tipster B,05/04/2016,Pontefract,Madam Lilibet,Win,18,Lose,TRUE
+1376,45,Tipster B,05/04/2016,Pontefract,Suprise Vendor,Win,5,Lose,TRUE
+1377,46,Tipster B,06/04/2016,Lingfield,Kuanyao,Each Way,15,Lose,TRUE
+1378,47,Tipster B,06/04/2016,Nottingham,Lexington Abbey,Win,6.5,Win,TRUE
+1379,48,Tipster B,06/04/2016,Nottingham,Duchess Of Marmite,Each Way,41,Lose,TRUE
+1380,49,Tipster B,06/04/2016,Lingfield,Skidby Mill,Win,7,Lose,TRUE
+1381,50,Tipster B,06/04/2016,Kempton,Jazzy,Each Way,11,Lose,TRUE
+1382,51,Tipster B,06/04/2016,Kempton,Bennelong,Win,9,Lose,TRUE
+1383,52,Tipster B,07/04/2016,Carlisle,Abi Scarlet,Win,6,Lose,TRUE
+1384,53,Tipster B,07/04/2016,SouthWell,Very First Blade,Win,7.5,Lose,TRUE
+1385,54,Tipster B,07/04/2016,Chelmsford,Theos Lolly,Each Way,26,Win,TRUE
+1386,55,Tipster B,08/04/2016,Wolverhampton,Desert Strike,Each Way,26,Win,TRUE
+1387,56,Tipster B,08/04/2016,Wolverhampton,Black Truffle,Each Way,11,Lose,TRUE
+1388,57,Tipster B,09/04/2016,Lingfield,Forceful Appeal,Each Way,26,Lose,TRUE
+1389,58,Tipster B,09/04/2016,Lingfield,Clement,Each Way,17,Lose,TRUE
+1390,59,Tipster B,09/04/2016,Wolverhampton,Colourbearer,Win,4.5,Lose,TRUE
+1391,60,Tipster B,11/04/2016,Windsor,Shifting Star,Win,10,Lose,TRUE
+1392,61,Tipster B,11/04/2016,Windsor,Bazooka,Each Way,34,Win,TRUE
+1393,62,Tipster B,12/04/2016,Carlisle,Abi Scarlet,Win,7,Lose,TRUE
+1394,63,Tipster B,12/04/2016,Newmarket,Childesplay,Each Way,13,Lose,TRUE
+1395,64,Tipster B,12/04/2016,Newmarket,Southdown Lad,Each Way,17,Lose,TRUE
+1396,65,Tipster B,13/04/2016,Newmarket,Bossy Guest,Each Way,41,Lose,TRUE
+1397,66,Tipster B,13/04/2016,Kempton,Seek The Fair Land,Each Way,15,Lose,TRUE
+1398,67,Tipster B,13/04/2016,Kempton,Saborido,Each Way,13,Lose,TRUE
+1399,68,Tipster B,13/04/2016,Kempton,Barnmore,Win,7.5,Lose,TRUE
+1400,69,Tipster B,14/04/2016,Ripon,Barkston Ash,Each Way,13,Win,TRUE
+1401,70,Tipster B,14/04/2016,Newmarket,Son Of Africa,Each Way,41,Lose,TRUE
+1402,71,Tipster B,14/04/2016,Newmarket,Three Gracez,Each Way,51,Lose,TRUE
+1403,72,Tipster B,15/04/2016,Bath,Iffranesia,Each Way,15,Lose,TRUE
+1404,73,Tipster B,16/04/2016,Thirsk,Mr Cool Cash,Each Way,13,Lose,TRUE
+1405,74,Tipster B,16/04/2016,Thirsk,Swaheen,Each Way,15,Lose,TRUE
+1406,75,Tipster B,16/04/2016,Wolverhampton,Star Anise,Each Way,29,Lose,TRUE
+1407,76,Tipster B,16/04/2016,Wolverhampton,Lean On Pete,Win,9,Lose,TRUE
+1408,77,Tipster B,16/04/2016,Wolverhampton,Jumbo Prado,Win,5.5,Lose,TRUE
+1409,78,Tipster B,18/04/2016,Pontefract,Red Pike,Each Way,11,Lose,TRUE
+1410,79,Tipster B,18/04/2016,Pontefract,Filatore,Each Way,17,Lose,TRUE
+1411,80,Tipster B,18/04/2016,Pontefract,Dark Ocean,Win,5,Lose,TRUE
+1412,81,Tipster B,18/04/2016,Windsor,Kinglami,Each Way,23,Lose,TRUE
+1413,82,Tipster B,19/04/2016,Wolverhampton,Black Truffle,Each Way,26,Lose,TRUE
+1414,83,Tipster B,19/04/2016,Wolverhampton,Pipers Piping,Win,6,Lose,TRUE
+1415,84,Tipster B,19/04/2016,Brighton,Live Dangerously,Each Way,26,Lose,TRUE
+1416,85,Tipster B,19/04/2016,Brighton,Megalala,Win,9,Lose,TRUE
+1417,86,Tipster B,20/04/2016,Catterick,Breakable,Each Way,15,Lose,TRUE
+1418,87,Tipster B,20/04/2016,Lingfield,Forceful Appeal,Each Way,21,Lose,TRUE
+1419,88,Tipster B,22/04/2016,Doncaster,Teds Brother,Win,7.5,Lose,TRUE
+1420,89,Tipster B,22/04/2016,Doncaster,Sakhalin Star,Win,4,Lose,TRUE
+1421,90,Tipster B,22/04/2016,Sandown,Riflescope,Win,8,Lose,TRUE
+1422,91,Tipster B,22/04/2016,Doncaster,Bashiba,Each Way,13,Lose,TRUE
+1423,92,Tipster B,23/04/2016,Ripon,Dubai Dynamo,Each Way,17,Lose,TRUE
+1424,93,Tipster B,23/04/2016,Ripon,Pipers Note,Each Way,15,Lose,TRUE
+1425,94,Tipster B,23/04/2016,Wolverhampton,John Potts,Each Way,15,Lose,TRUE
+1426,95,Tipster B,24/04/2016,Musselburgh,Opt Out,Win,8,Lose,TRUE
+1427,96,Tipster B,24/04/2016,Thirsk,Captain Dunne,Each Way,17,Lose,TRUE
+1428,97,Tipster B,24/04/2016,Musselburgh,La Bacouetteuse,Each Way,15,Lose,TRUE
+1429,98,Tipster B,24/04/2016,Musselburgh,Rothesay Chancer,Each Way,17,Lose,TRUE
+1430,99,Tipster B,25/04/2016,SouthWell,General Tufto,Each Way,51,Lose,TRUE
+1431,100,Tipster B,25/04/2016,Ayr,Goninodaethat,Each Way,26,Lose,TRUE
+1432,101,Tipster B,25/04/2016,Wolverhampton,Your Gifted,Each Way,19,Win,TRUE
+1433,102,Tipster B,26/04/2016,Brighton,Port Lairge,Win,4.5,Lose,TRUE
+1434,103,Tipster B,26/04/2016,Brighton,Megalala,Each Way,11,Lose,TRUE
+1435,104,Tipster B,26/04/2016,Wolverhampton,Lean On Pete,Win,5.5,Lose,TRUE
+1436,105,Tipster B,26/04/2016,Lingfield,Attain,Win,3.5,Lose,TRUE
+1437,106,Tipster B,27/04/2016,Pontefract,Mailshot,Win,5,Win,TRUE
+1438,107,Tipster B,27/04/2016,Ascot,Light Up Our World,Win,3.2,Lose,TRUE
+1439,108,Tipster B,27/04/2016,Pontefract,Deodoro,Win,3.75,Lose,TRUE
+1440,109,Tipster B,27/04/2016,Brighton,Executor,Win,3.5,Lose,TRUE
+1441,110,Tipster B,28/04/2016,Redcar,Maulesden May,Each Way,12,Win,TRUE
+1442,111,Tipster B,28/04/2016,Redcar,Jordan Sport,Win,4,Win,TRUE
+1443,112,Tipster B,28/04/2016,Redcar,Footlight,Win,2.5,Lose,TRUE
+1444,113,Tipster B,28/04/2016,Chelmsford,Dream Trader,Each Way,34,Lose,TRUE
+1445,114,Tipster B,29/04/2016,Chepstow,Star Ascending,Win,4.5,Lose,TRUE
+1446,115,Tipster B,29/04/2016,Aintree,Faintly,Win,2.88,Win,TRUE
+1447,116,Tipster B,29/04/2016,Chepstow,Distant High,Win,10.5,Win,TRUE
+1448,117,Tipster B,29/04/2016,Lingfield,Sir Renos Santi,Each Way,41,Lose,TRUE
+1449,118,Tipster B,29/04/2016,Lingfield,Straits Of Malacca,Each Way,13,Lose,TRUE
+1450,119,Tipster B,30/04/2016,Thirsk,Al Khan,Each Way,41,Lose,TRUE
+1451,120,Tipster B,30/04/2016,Newmarket,Take The Helm,Each Way,26,Lose,TRUE
+1452,121,Tipster B,30/04/2016,Newmarket,Sky Kingdom,Win,3.75,Lose,TRUE
+1453,122,Tipster B,30/04/2016,Doncaster,Wiley Post,Each Way,15,Lose,TRUE
+1454,123,Tipster B,30/04/2016,Doncaster,East Street Revue,Each Way,51,Lose,TRUE
+1455,124,Tipster B,01/05/2016,Goodwood,Johnny B Goode,Win,4,Lose,TRUE
+1456,125,Tipster B,01/05/2016,Hamilton,Sir Chauvelin,Each Way,11,Win,TRUE
+1457,126,Tipster B,01/05/2016,Newmarket,Blue Bayou,Each Way,51,Lose,TRUE
+1458,127,Tipster B,01/05/2016,Newmarket,Await The Storm,Each Way,41,Lose,TRUE
+1459,128,Tipster B,01/05/2016,Hamilton,Euchen Glen,Win,6.5,Lose,TRUE
+1460,129,Tipster B,02/05/2016,Bath,Mc Diamond,Win,5.5,Lose,TRUE
+1461,130,Tipster B,02/05/2016,Beverley,Volta Do Mar,Win,6.5,Lose,TRUE
+1462,131,Tipster B,02/05/2016,Beverley,Dawn Mirage,Each Way,15,Win,TRUE
+1463,132,Tipster B,02/05/2016,Beverley,Oak Bluffs,Win,5,Lose,TRUE
+1464,133,Tipster B,02/05/2016,Beverley,Perceysvivace,Win,3.75,Lose,TRUE
+1465,134,Tipster B,03/05/2016,Brighton,Jaywalker,Win,7,Lose,TRUE
+1466,135,Tipster B,03/05/2016,Catterick,Oyster Card,Each Way,21,Lose,TRUE
+1467,136,Tipster B,03/05/2016,Catterick,Taysh,Win,4,Win,TRUE
+1468,137,Tipster B,04/05/2016,Chester,Our Greta,Each Way,26,Lose,TRUE
+1469,138,Tipster B,04/05/2016,Chester,Nakeeta,Each Way,26,Win,TRUE
+1470,139,Tipster B,04/05/2016,Chelmsford,Crosse Fire,Each Way,21,Lose,TRUE
+1471,140,Tipster B,04/05/2016,Chelmsford,Merhoob,Win,6,Lose,TRUE
+1472,141,Tipster B,04/05/2016,Chelmsford,Pastoral Player,Each Way,17,Lose,TRUE
+1473,142,Tipster B,06/05/2016,Lingfield,Tetradrachm,Win,4.5,Win,TRUE
+1474,143,Tipster B,06/05/2016,Lingfield,Happy Call,Win,5.5,Win,TRUE
+1475,144,Tipster B,06/05/2016,Nottingham,First Excel,Each Way,17,Win,TRUE
+1476,145,Tipster B,07/05/2016,Nottingham,Douglas Bank,Each Way,11,Lose,TRUE
+1477,146,Tipster B,07/05/2016,Lingfield,Quality Time,Win,10,Lose,TRUE
+1478,147,Tipster B,07/05/2016,Haydock,Barracuda Boy,Each Way,15,Lose,TRUE
+1479,148,Tipster B,07/05/2016,Nottingham,Hickster,Each Way,21,Win,TRUE
+1480,149,Tipster B,09/05/2016,Wolverhampton,Le Torrent,Win,5,Lose,TRUE
+1481,150,Tipster B,09/05/2016,Brighton,Officer Drivel,Win,8.5,Lose,TRUE
+1482,151,Tipster B,09/05/2016,Musselburgh,Mr Sundowner,Win,9,Lose,TRUE
+1483,152,Tipster B,09/05/2016,Brighton,Lady Zodiac,Win,8.5,Lose,TRUE
+1484,153,Tipster B,09/05/2016,Wolverhampton,The Bay Bandit,Win,7,Lose,TRUE
+1485,154,Tipster B,10/05/2016,Beverley,Book Of Poetry,Win,5.6,Lose,TRUE
+1486,155,Tipster B,10/05/2016,Chepstow,Distant High,Win,3,Lose,TRUE
+1487,156,Tipster B,10/05/2016,Chepstow,Cay Location,Each Way,81,Lose,TRUE
+1488,157,Tipster B,10/05/2016,Chepstow,Zaria,Win,5,Lose,TRUE
+1489,158,Tipster B,10/05/2016,Chepstow,Bonjour Steve,Win,6.5,Lose,TRUE
+1490,159,Tipster B,11/05/2016,Bath,Aegean Boy,Win,4.5,Lose,TRUE
+1491,160,Tipster B,16/05/2016,Brighton,Aramadyh,Win,24,Lose,TRUE
+1492,161,Tipster B,17/05/2016,Nottingham,Maoi Chinn Tire,Win,6.5,Lose,TRUE
+1493,162,Tipster B,17/05/2016,Goodwood,Goodwood Moonlight,Win,11,Lose,TRUE
+1494,163,Tipster B,18/05/2016,Ayr,Nice Vintage,Win,4.33,Win,TRUE
+1495,164,Tipster B,18/05/2016,Kempton,Almodovar,Win,6,Win,TRUE
+1496,165,Tipster B,19/05/2016,Lingfield,Bollywood Dream,Win,34,Lose,TRUE
+1497,166,Tipster B,19/05/2016,Goodwood,Cant Change It,Win,8,Win,TRUE
+1498,167,Tipster B,19/05/2016,Sandown,Atwix,Win,15,Lose,TRUE
+1499,168,Tipster B,20/05/2016,Haydock,Newera,Win,4.33,Lose,TRUE
+1500,169,Tipster B,20/05/2016,Haydock,Chosen Character,Win,5.6,Lose,TRUE
+1501,170,Tipster B,21/05/2016,Haydock,Kachy,Win,13,Lose,TRUE
+1502,171,Tipster B,21/05/2016,Haydock,Calder Prince,Win,23,Win,TRUE
+1503,172,Tipster B,22/05/2016,Nottingham,Rio Glamorous,Each Way,21,Lose,TRUE
+1504,173,Tipster B,22/05/2016,Nottingham,Men United,Each Way,26,Lose,TRUE
+1505,174,Tipster B,23/05/2016,Ayr,Silva Samourai,Win,101,Lose,TRUE
+1506,175,Tipster B,23/05/2016,Ayr,Big Time Dancer,Win,17,Lose,TRUE
+1507,176,Tipster B,23/05/2016,Ayr,Mo Henry,Win,4.5,Lose,TRUE
+1508,177,Tipster B,24/05/2016,Wetherby,Iftikaar,Win,14.8,Lose,TRUE
+1509,178,Tipster B,24/05/2016,Wetherby,Incus,Each Way,67,Lose,TRUE
+1510,179,Tipster B,25/05/2016,Hamilton,Northern Sky,Win,3.1,Lose,TRUE
+1511,180,Tipster B,25/05/2016,Kempton,Sunset Dream,Win,19,Lose,TRUE
+1512,181,Tipster B,27/05/2016,Bath,Giennah,Win,23,Lose,TRUE
+1513,182,Tipster B,27/05/2016,Bath,Malmoosa,Win,6.5,Lose,TRUE
+1514,183,Tipster B,27/05/2016,Pontefract,Chilworth Bells,Win,11,Lose,TRUE
+1515,184,Tipster B,28/05/2016,Haydock,Captain Revelation,Win,21,Lose,TRUE
+1516,185,Tipster B,28/05/2016,Beverley,Mailshot,Win,12,Lose,TRUE
+1517,186,Tipster B,28/05/2016,Haydock,Gambit,Win,6,Lose,TRUE
+1518,187,Tipster B,28/05/2016,Haydock,Golden Glimmer,Win,12,Lose,TRUE
+1519,188,Tipster B,30/05/2016,Leicester,Hickster,Win,10,Lose,TRUE
+1520,189,Tipster B,30/05/2016,Redcar,Rocky Two,Win,17,Lose,TRUE
+1521,190,Tipster B,31/05/2016,Leicester,General Allenby,Each Way,101,Lose,TRUE
+1522,191,Tipster B,31/05/2016,Leicester,Apex King,Win,13,Lose,TRUE
+1523,192,Tipster B,31/05/2016,Towcester,Arthur Mc Bride,Win,8,Lose,TRUE
+1524,193,Tipster B,31/05/2016,Towcester,Mrs Burbidge,Win,3.75,Win,TRUE
+1525,194,Tipster B,31/05/2016,Lingfield,Tenerezza,Win,21,Lose,TRUE
+1526,195,Tipster B,31/05/2016,Wolverhampton,Therthaar,Win,2.5,Win,TRUE
+1527,196,Tipster B,01/06/2016,Nottingham,Little Choosey,Win,8,Win,TRUE
+1528,197,Tipster B,01/06/2016,Chelmsford,Bowson Fred,Win,4.5,Win,TRUE
+1529,198,Tipster B,01/06/2016,Chelmsford,Compton Mill,Win,5.5,Lose,TRUE
+1530,199,Tipster B,02/06/2016,Hamilton,Merry Banter,Win,2.88,Lose,TRUE
+1531,200,Tipster B,02/06/2016,Hamilton,Im Super Too,Win,8.5,Lose,TRUE
+1532,201,Tipster B,02/06/2016,Kempton,Mutamid,Win,5,Win,TRUE
+1533,202,Tipster B,03/06/2016,Catterick,Katebird,Win,4,Lose,TRUE
+1534,203,Tipster B,03/06/2016,Catterick,Show Palace,Win,3,Lose,TRUE
+1535,204,Tipster B,03/06/2016,Bath,Magical Daze,Win,26,Lose,TRUE
+1536,205,Tipster B,03/06/2016,Goodwood,Links Drive Lady,Win,9,Lose,TRUE
+1537,206,Tipster B,03/06/2016,Goodwood,Rosies Premiere,Win,17,Lose,TRUE
+1538,207,Tipster B,04/06/2016,Epsom,Caspian Prince,Win,14,Win,TRUE
+1539,208,Tipster B,04/06/2016,Musselburgh,Rhythmical,Win,3.75,Lose,TRUE
+1540,209,Tipster B,04/06/2016,Lingfield,Spinning Rose,Win,6,Lose,TRUE
+1541,210,Tipster B,05/06/2016,Goodwood,Black Caesar,Win,13,Lose,TRUE
+1542,211,Tipster B,06/06/2016,Brighton,Soaring Spirits,Win,4,Win,TRUE
+1543,212,Tipster B,06/06/2016,Ayr,Millefiori,Win,3.1,Lose,TRUE
+1544,213,Tipster B,07/06/2016,Salisbury,R Bar Open,Win,17,Win,TRUE
+1545,214,Tipster B,07/06/2016,Salisbury,African Showgirl,Win,17,Lose,TRUE
+1546,215,Tipster B,07/06/2016,Limerick,Limelite,Win,2.5,Lose,TRUE
+1547,216,Tipster B,08/06/2016,Beverley,Rise Up Singing,Win,51,Lose,TRUE
+1548,217,Tipster B,08/06/2016,Beverley,Poppy In The Wind,Win,8,Lose,TRUE
+1549,218,Tipster B,08/06/2016,Yarmouth,Bargain Buy,Win,4.5,Lose,TRUE
+1550,219,Tipster B,08/06/2016,Yarmouth,Gypsy Major,Win,17,Lose,TRUE
+1551,220,Tipster B,09/06/2016,Yarmouth,Jumping Around,Win,4,Lose,TRUE
+1552,221,Tipster B,09/06/2016,Nottingham,Little Choosey,Win,5.6,Lose,TRUE
+1553,222,Tipster B,10/06/2016,Sandown,Both Sides,Win,6.5,Lose,TRUE
+1554,223,Tipster B,10/06/2016,York,Mehronissa,Win,5.5,Lose,TRUE
+1555,224,Tipster B,10/06/2016,Chepstow,Coup De Vent,Win,12,Lose,TRUE
+1556,225,Tipster B,10/06/2016,Chepstow,Zaria,Win,9,Lose,TRUE
+1557,226,Tipster B,11/06/2016,York,Twin Sails,Win,36,Lose,TRUE
+1558,227,Tipster B,11/06/2016,York,Kadrizzi,Win,32,Lose,TRUE
+1559,228,Tipster B,11/06/2016,Musselburgh,Silvanus,Win,41,Lose,TRUE
+1560,229,Tipster B,11/06/2016,Lingfield,Miss Carbonia,Win,6.8,Lose,TRUE
+1561,230,Tipster B,12/06/2016,Doncaster,Gregarious,Win,6.5,Lose,TRUE
+1562,231,Tipster B,12/06/2016,Salisbury,Dont Touch,Win,4.5,Win,TRUE
+1563,232,Tipster B,12/06/2016,Salisbury,Clear Spring,Each Way,67,Lose,TRUE
+1564,233,Tipster B,13/06/2016,Windsor,Links Drive Lady,Win,6,Win,TRUE
+1565,234,Tipster B,13/06/2016,Windsor,Harlequin Striker,Win,13,Win,TRUE
+1566,235,Tipster B,13/06/2016,Galway,Minstrels Gallery,Win,4,Lose,TRUE
+1567,236,Tipster B,14/06/2016,Thirsk,Plane Song,Win,6,Win,TRUE
+1568,237,Tipster B,14/06/2016,Ascot,Lancelot Du Lac,Win,51,Lose,TRUE
+1569,238,Tipster B,14/06/2016,Thirsk,Show Palace,Win,4.5,Lose,TRUE
+1570,239,Tipster B,15/06/2016,Hamilton,Planetaria,Win,6,Win,TRUE
+1571,240,Tipster B,15/06/2016,Ascot,Librisa Breeze,Win,10,Lose,TRUE
+1572,241,Tipster B,15/06/2016,Chelmsford,Whoopsy Daisy,Win,4.33,Lose,TRUE
+1573,242,Tipster B,16/06/2016,Chelmsford,Eurato,Win,4,Lose,TRUE
+1574,243,Tipster B,16/06/2016,Ascot,Fighting Temeraire,Win,13,Lose,TRUE
+1575,244,Tipster B,16/06/2016,Lingfield,Swiss Cross,Win,4,Lose,TRUE
+1576,245,Tipster B,17/06/2016,Ascot,Carntop,Win,6,Lose,TRUE
+1577,246,Tipster B,17/06/2016,Redcar,Luvlylynnthomas,Each Way,51,Lose,TRUE
+1578,247,Tipster B,17/06/2016,Ayr,Goninodaethat,Each Way,17,Lose,TRUE
+1579,248,Tipster B,17/06/2016,Newmarket,Teofilo Wolf,Win,13,Lose,TRUE
+1580,249,Tipster B,17/06/2016,Ayr,Freewheel,Win,11,Lose,TRUE
+1581,250,Tipster B,18/06/2016,Ascot,Cunco,Win,5,Lose,TRUE
+1582,251,Tipster B,18/06/2016,Newmarket,Tagula Night,Win,26,Lose,TRUE
+1583,252,Tipster B,18/06/2016,Lingfield,Quandary Peak,Win,67,Win,TRUE
+1584,253,Tipster B,19/06/2016,Pontefract,Winterlude,Win,26,Lose,TRUE
+1585,254,Tipster B,19/06/2016,Hexham,Pair Of Jacks,Win,3.75,Lose,TRUE
+1586,255,Tipster B,20/06/2016,Windsor,Ravens Heart,Win,126,Lose,TRUE
+1587,256,Tipster B,20/06/2016,Windsor,Secret Bird,Win,11,Lose,TRUE
+1588,257,Tipster B,21/06/2016,Brighton,Solveigs Song,Win,5,Win,TRUE
+1589,258,Tipster B,21/06/2016,Brighton,Pure Soul,Win,11,Lose,TRUE
+1590,259,Tipster B,21/06/2016,Brighton,Soaring Spirits,Win,4,Win,TRUE
+1591,260,Tipster B,21/06/2016,Beverley,Poppy In The Wind,Win,9,Lose,TRUE
+1592,261,Tipster B,22/06/2016,Carlisle,Ginger Jack,Win,8,Lose,TRUE
+1593,262,Tipster B,22/06/2016,Salisbury,Wave Reviews,Win,1.91,Win,TRUE
+1594,263,Tipster B,24/06/2016,Yarmouth,Catharina,Win,6,Lose,TRUE
+1595,264,Tipster B,24/06/2016,Yarmouth,Spinning Rose,Win,8.5,Lose,TRUE
+1596,265,Tipster B,24/06/2016,Newmarket,Golden Amber,Win,6,Lose,TRUE
+1597,266,Tipster B,25/06/2016,Chester,Dark Intention,Win,5,Win,TRUE
+1598,267,Tipster B,25/06/2016,Chester,Goldslinger,Win,7.5,Lose,TRUE
+1599,268,Tipster B,25/06/2016,Doncaster,Persian Breeze,Win,11,Lose,TRUE
+1600,269,Tipster B,25/06/2016,Doncaster,Amthal,Win,13,Lose,TRUE
+1601,270,Tipster B,27/06/2016,Galway,Gale Song,Win,7,Lose,TRUE
+1602,271,Tipster B,27/06/2016,Pontefract,Rosies Premiere,Win,6.5,Lose,TRUE
+1603,272,Tipster B,27/06/2016,Musselburgh,Fumbo Jumbo,Win,5,Lose,TRUE
+1604,273,Tipster B,29/06/2016,Kempton,Shades Of Silver,Win,13,Lose,TRUE
+1605,274,Tipster B,30/06/2016,Haydock,Show Palace,Win,4.33,Win,TRUE
+1606,275,Tipster B,30/06/2016,Goodwood,Johnny B Goode,Win,8,Lose,TRUE
+1607,276,Tipster B,30/06/2016,Newbury,Fort Jefferson,Win,1.8,Win,TRUE
+1608,277,Tipster B,30/06/2016,Epsom,Harlequin Striker,Win,4.5,Lose,TRUE
+1609,278,Tipster B,01/07/2016,Sandown,Stake Acclaim,Win,2.5,Lose,TRUE
+1610,279,Tipster B,01/07/2016,Doncaster,Yourartisonfire,Win,2.88,Win,TRUE
+1611,280,Tipster B,01/07/2016,Beverley,Poppy In The Wind,Win,11,Win,TRUE
+1612,281,Tipster B,01/07/2016,Haydock,La Celebs Ville,Win,3.5,Lose,TRUE
+1613,282,Tipster B,02/07/2016,Sandown,Lancelot Du Lac,Win,15,Lose,TRUE
+1614,283,Tipster B,02/07/2016,Sandown,Pallasator,Win,8,Lose,TRUE
+1615,284,Tipster B,02/07/2016,Nottingham,Freewheel,Win,8.5,Lose,TRUE
+1616,285,Tipster B,02/07/2016,Nottingham,Bushephalus,Win,15,Lose,TRUE
+1617,286,Tipster B,02/07/2016,Carlisle,Vanishing Point,Win,2,Win,TRUE
+1618,287,Tipster B,04/07/2016,Windsor,Seaview,Win,51,Lose,TRUE
+1619,288,Tipster B,04/07/2016,Windsor,Surfina,Win,67,Lose,TRUE
+1620,289,Tipster B,04/07/2016,Windsor,Harlequin Striker,Win,3.5,Lose,TRUE
+1621,290,Tipster B,04/07/2016,Windsor,Athlon,Win,3.5,Win,TRUE
+1622,291,Tipster B,05/07/2016,Brighton,Jolly Red Jeanz,Win,21,Lose,TRUE
+1623,292,Tipster B,05/07/2016,Brighton,Feeling Easy,Win,13,Lose,TRUE
+1624,293,Tipster B,05/07/2016,Brighton,Pacolita,Win,5.5,Win,TRUE
+1625,294,Tipster B,05/07/2016,Brighton,Ettie Hart,Win,8,Lose,TRUE
+1626,295,Tipster B,06/07/2016,Kempton,Capolavoro,Win,3.5,Lose,TRUE
+1627,296,Tipster B,06/07/2016,Bath,Jack The Laird,Win,6.5,Lose,TRUE
+1628,297,Tipster B,06/07/2016,Bath,Summer Chorus,Win,10,Lose,TRUE
+1629,298,Tipster B,06/07/2016,Bath,Burning Thread,Win,17,Lose,TRUE
+1630,299,Tipster B,06/07/2016,Bath,Catharina,Win,8,Lose,TRUE
+1631,300,Tipster B,07/07/2016,Newmarket,Kadrizzi,Win,41,Lose,TRUE
+1632,301,Tipster B,07/07/2016,Newmarket,Texas Katie,Win,9,Lose,TRUE
+1633,302,Tipster B,07/07/2016,Newmarket,Rosies Premiere,Win,10,Lose,TRUE
+1634,303,Tipster B,07/07/2016,Auteuil,Cautious Optimism,Win,23,Lose,TRUE
+1635,304,Tipster B,07/07/2016,Epsom,Topamichi,Win,7.5,Lose,TRUE
+1636,305,Tipster B,08/07/2016,Newmarket,Evergate,Win,10,Lose,TRUE
+1637,306,Tipster B,08/07/2016,York,Golden Amber,Win,39,Lose,TRUE
+1638,307,Tipster B,08/07/2016,Newmarket,Welford,Win,29,Lose,TRUE
+1639,308,Tipster B,08/07/2016,Chester,Call Out Loud,Win,17,Lose,TRUE
+1640,309,Tipster B,09/07/2016,York,Firmdecisions,Win,42,Lose,TRUE
+1641,310,Tipster B,09/07/2016,York,Basem,Win,26,Lose,TRUE
+1642,311,Tipster B,09/07/2016,York,Caspian Prince,Win,15,Lose,TRUE
+1643,312,Tipster B,09/07/2016,Salisbury,Distant High,Win,19,Lose,TRUE
+1644,313,Tipster B,11/07/2016,Ayr,Aventinus,Win,2.88,Lose,TRUE
+1645,314,Tipster B,11/07/2016,Ayr,Gun Case,Win,41,Lose,TRUE
+1646,315,Tipster B,11/07/2016,Chelmsford,Oriental Relation,Win,15,Lose,TRUE
+1647,316,Tipster B,11/07/2016,Wolverhampton,Ryan The Giant,Win,17,Lose,TRUE
+1648,317,Tipster B,11/07/2016,Windsor,Kyllang Rock,Win,2.88,Win,TRUE
+1649,318,Tipster B,12/07/2016,Beverley,Nefetari,Win,12,Lose,TRUE
+1650,319,Tipster B,12/07/2016,Bath,Bernisdale,Win,9,Win,TRUE
+1651,320,Tipster B,12/07/2016,Beverley,Planetaria,Win,5,Lose,TRUE
+1652,321,Tipster B,12/07/2016,Thirsk,Ingleby Hollow,Win,3,Win,TRUE
+1653,322,Tipster B,13/07/2016,Lingfield,Bobby Vee,Win,17,Lose,TRUE
+1654,323,Tipster B,13/07/2016,Lingfield,Le Rock,Win,26,Win,TRUE
+1655,324,Tipster B,13/07/2016,Yarmouth,Jumira Bridge,Win,3.5,Lose,TRUE
+1656,325,Tipster B,13/07/2016,Sandown,Tesoro,Win,34,Lose,TRUE
+1657,326,Tipster B,13/07/2016,Hamilton,Ebbisham,Win,17,Lose,TRUE
+1658,327,Tipster B,13/07/2016,Yarmouth,Jack The Laird,Win,4,Lose,TRUE
+1659,328,Tipster B,14/07/2016,Leicester,Prying Pandora,Win,4,Lose,TRUE
+1660,329,Tipster B,14/07/2016,Doncaster,Bassmah,Win,10,Lose,TRUE
+1661,330,Tipster B,15/07/2016,Haydock,Caponova,Win,3.5,Lose,TRUE
+1662,331,Tipster B,15/07/2016,Newbury,Beck And Call,Win,15,Lose,TRUE
+1663,332,Tipster B,15/07/2016,Nottingham,Tangerine Trees,Win,15,Lose,TRUE
+1664,333,Tipster B,15/07/2016,Nottingham,Iconic Sky,Win,67,Lose,TRUE
+1665,334,Tipster B,15/07/2016,Auteuil,Poets Beauty,Win,4,Win,TRUE
+1666,335,Tipster B,15/07/2016,Hamilton,Ventura Storm,Win,13,Win,TRUE
+1667,336,Tipster B,15/07/2016,Pontefract,Laila Honiwillow,Win,3.25,Lose,TRUE
+1668,337,Tipster B,16/07/2016,Newbury,Cappananty Con,Win,101,Lose,TRUE
+1669,338,Tipster B,16/07/2016,Ripon,Knights Table,Win,3.25,Win,TRUE
+1670,339,Tipster B,16/07/2016,Lingfield,Stonecoldsoba,Win,4,Lose,TRUE
+1671,340,Tipster B,16/07/2016,Haydock,Goldslinger,Win,15,Lose,TRUE
+1672,341,Tipster B,16/07/2016,Haydock,La Celebs Ville,Win,7,Lose,TRUE
+1673,342,Tipster B,17/07/2016,Redcar,Kiwi Bay,Win,3.75,Lose,TRUE
+1674,343,Tipster B,18/07/2016,Ayr,Toffee Apple,Win,2.63,Lose,TRUE
+1675,344,Tipster B,18/07/2016,Windsor,Blaze Of Hearts,Win,51,Lose,TRUE
+1676,345,Tipster B,18/07/2016,Windsor,Rosies Premiere,Win,15,Lose,TRUE
+1677,346,Tipster B,18/07/2016,Windsor,Shifting Star,Win,5,Lose,TRUE
+1678,347,Tipster B,19/07/2016,Nottingham,Show Palace,Win,3,Lose,TRUE
+1679,348,Tipster B,19/07/2016,Nottingham,Sleepy Haven,Win,8,Lose,TRUE
+1680,349,Tipster B,19/07/2016,Chelmsford,La Fritillaire,Win,13,Lose,TRUE
+1681,350,Tipster B,20/07/2016,Lingfield,Hot N Sassy,Win,34,Lose,TRUE
+1682,351,Tipster B,20/07/2016,Hamilton,The Burnham Mare,Win,15,Lose,TRUE
+1683,352,Tipster B,20/07/2016,Bath,Just Isla,Win,6,Lose,TRUE
+1684,353,Tipster B,20/07/2016,Lingfield,Deer Song,Win,13,Lose,TRUE
+1685,354,Tipster B,20/07/2016,Bath,Bernisdale,Win,2.63,Lose,TRUE
+1686,355,Tipster B,20/07/2016,Sandown,Firmdecisions,Win,11,Lose,TRUE
+1687,356,Tipster B,20/07/2016,Leicester,Possible Future,Win,5,Lose,TRUE
+1688,357,Tipster B,21/07/2016,Yarmouth,Grey Britain,Win,4.5,Lose,TRUE
+1689,358,Tipster B,21/07/2016,Yarmouth,Pearly Queen,Win,17,Lose,TRUE
+1690,359,Tipster B,21/07/2016,Yarmouth,Artful Prince,Win,11,Lose,TRUE
+1691,360,Tipster B,21/07/2016,Doncaster,Poppy In The Wind,Win,7,Lose,TRUE
+1692,361,Tipster B,22/07/2016,Ascot,Horseplay,Win,17,Lose,TRUE
+1693,362,Tipster B,22/07/2016,Ascot,Caspian Prince,Win,21,Lose,TRUE
+1694,363,Tipster B,22/07/2016,Galway,Regal Monarch,Win,2,Lose,TRUE
+1695,364,Tipster B,23/07/2016,Chester,Poets Society,Win,3,Lose,TRUE
+1696,365,Tipster B,23/07/2016,York,Louis The Pious,Win,44,Lose,TRUE
+1697,366,Tipster B,23/07/2016,Lingfield,R Bar Open,Win,6,Lose,TRUE
+1698,367,Tipster B,24/07/2016,Carlisle,Toffee Apple,Win,4,Lose,TRUE
+1699,368,Tipster B,24/07/2016,Pontefract,Sound Advice,Win,13,Lose,TRUE
+1700,369,Tipster B,25/07/2016,Ayr,Proud Archi,Win,3.5,Lose,TRUE
+1701,370,Tipster B,25/07/2016,Ayr,Alexandrakollontai,Win,15,Lose,TRUE
+1702,371,Tipster B,25/07/2016,Windsor,Surfina,Win,81,Lose,TRUE
+1703,372,Tipster B,26/07/2016,Goodwood,Home Of The Brave,Win,3.75,Lose,TRUE
+1704,373,Tipster B,26/07/2016,Beverley,Miss Bates,Win,13,Lose,TRUE
+1705,374,Tipster B,27/07/2016,Goodwood,Perfect Angel,Win,13,Win,TRUE
+1706,375,Tipster B,27/07/2016,Goodwood,Kiltara,Win,19,Lose,TRUE
+1707,376,Tipster B,27/07/2016,Goodwood,Twin Sails,Win,11,Lose,TRUE
+1708,377,Tipster B,28/07/2016,Goodwood,Montsarrat,Win,21,Lose,TRUE
+1709,378,Tipster B,28/07/2016,Nottingham,Face Of Glory,Win,67,Lose,TRUE
+1710,379,Tipster B,28/07/2016,Goodwood,Montataire,Win,5,Lose,TRUE
+1711,380,Tipster B,28/07/2016,Ffos Las,Little Nosegay,Win,2.2,Lose,TRUE
+1712,381,Tipster B,28/07/2016,Epsom,Atwix,Win,8.5,Win,TRUE
+1713,382,Tipster B,28/07/2016,Epsom,Wind In My Sails,Win,10,Lose,TRUE
+1714,383,Tipster B,29/07/2016,Thirsk,Nile Empress,Win,2.75,Lose,TRUE
+1715,384,Tipster B,29/07/2016,Musselburgh,Fumbo Jumbo,Win,7,Lose,TRUE
+1716,385,Tipster B,29/07/2016,Newmarket,Varsovian,Win,34,Lose,TRUE
+1717,386,Tipster B,29/07/2016,Musselburgh,Rio Deva,Win,3,Lose,TRUE
+1718,387,Tipster B,30/07/2016,Goodwood,Dancing Star,Win,6.5,Win,TRUE
+1719,388,Tipster B,30/07/2016,Goodwood,Baccarat,Win,57,Lose,TRUE
+1720,389,Tipster B,30/07/2016,Newmarket,Miss Carbonia,Win,6.5,Lose,TRUE
+1721,390,Tipster B,30/07/2016,Newmarket,Fighting Temeraire,Win,5.5,Win,TRUE
+1722,391,Tipster B,30/07/2016,Doncaster,Pumblechook,Win,4,Lose,TRUE
+1723,392,Tipster B,30/07/2016,Thirsk,Ginger Jack,Win,10,Win,TRUE
+1724,393,Tipster B,30/07/2016,Lingfield,Shahaama,Win,3.75,Lose,TRUE
+1725,394,Tipster B,31/07/2016,Chepstow,Ambitious Boy,Win,15,Lose,TRUE
+1726,395,Tipster B,31/07/2016,Chepstow,Peak Storm,Win,7,Lose,TRUE
+1727,396,Tipster B,31/07/2016,Chepstow,Rosies Premiere,Win,4.5,Lose,TRUE
+1728,397,Tipster B,31/07/2016,Chepstow,Bernisdale,Win,7.5,Lose,TRUE
+1729,398,Tipster B,31/07/2016,Chepstow,Ring Eye,Win,4.5,Lose,TRUE
+1730,399,Tipster B,01/08/2016,Windsor,Harlequin Striker,Win,8,Lose,TRUE
+1731,400,Tipster B,01/08/2016,Windsor,Stake Acclaim,Win,10,Lose,TRUE
+1732,401,Tipster B,01/08/2016,Windsor,Firmdecisions,Win,15,Lose,TRUE
+1733,402,Tipster B,01/08/2016,Windsor,Blaze Of Hearts,Win,5,Lose,TRUE
+1734,403,Tipster B,02/08/2016,Salisbury,Hereawi,Win,2.2,Lose,TRUE
+1735,404,Tipster B,03/08/2016,Brighton,Pacolita,Win,9,Lose,TRUE
+1736,405,Tipster B,03/08/2016,Bath,R Bar Open,Win,9,Lose,TRUE
+1737,406,Tipster B,03/08/2016,Yarmouth,Trulee Scrumptious,Win,10,Lose,TRUE
+1738,407,Tipster B,03/08/2016,Kempton,Port Gaverne,Win,26,Lose,TRUE
+1739,408,Tipster B,04/08/2016,Haydock,Tanaasub,Win,2.75,Win,TRUE
+1740,409,Tipster B,04/08/2016,Brighton,Singyoursong,Win,4.33,Lose,TRUE
+1741,410,Tipster B,04/08/2016,Wolverhampton,Spes Nostra,Win,15,Lose,TRUE
+1742,411,Tipster B,05/08/2016,Musselburgh,Rosette,Win,2.75,Lose,TRUE
+1743,412,Tipster B,05/08/2016,Newmarket,Seniority,Win,8,Win,TRUE
+1744,413,Tipster B,05/08/2016,Haydock,Contrast,Win,17,Win,TRUE
+1745,414,Tipster B,05/08/2016,Haydock,Tartan Bute,Win,2.88,Lose,TRUE
+1746,415,Tipster B,06/08/2016,Ascot,Kadrizzi,Win,15,Win,TRUE
+1747,416,Tipster B,06/08/2016,Newmarket,Twin Sails,Win,9.5,Lose,TRUE
+1748,417,Tipster B,06/08/2016,Lingfield,Iconic Sky,Win,26,Lose,TRUE
+1749,418,Tipster B,07/08/2016,Leicester,Jack The Laird,Win,3,Lose,TRUE
+1750,419,Tipster B,07/08/2016,Chelmsford,Possible Future,Win,4.5,Win,TRUE
+1751,420,Tipster B,12/08/2016,Newmarket,Thahab Ifraj,Win,4,Lose,TRUE
+1752,421,Tipster B,15/08/2016,Windsor,Rosies Premiere,Win,7,Lose,TRUE
+1753,422,Tipster B,16/08/2016,Leicester,Seaview,Win,51,Lose,TRUE
+1754,423,Tipster B,16/08/2016,Leicester,Beatbybeatbybeat,Win,21,Lose,TRUE
+1755,424,Tipster B,16/08/2016,Leicester,R Bar Open,Win,15,Lose,TRUE
+1756,425,Tipster B,17/08/2016,Carlisle,Baby Ballerina,Win,7,Lose,TRUE
+1757,426,Tipster B,17/08/2016,Chepstow,Peak Storm,Win,3.75,Lose,TRUE
+1758,427,Tipster B,17/08/2016,Chepstow,Bonjour Steve,Win,4.5,Lose,TRUE
+1759,428,Tipster B,17/08/2016,Chepstow,Munsarim,Win,9.5,Lose,TRUE
+1760,429,Tipster B,17/08/2016,Chepstow,Mister Showman,Win,12,Lose,TRUE
+1761,430,Tipster B,18/08/2016,Chepstow,Carcharias,Win,3.75,Win,TRUE
+1762,431,Tipster B,18/08/2016,Chepstow,Ring Eye,Win,7,Lose,TRUE
+1763,432,Tipster B,18/08/2016,Chepstow,Prendergast Hill,Win,5,Lose,TRUE
+1764,433,Tipster B,18/08/2016,Hamilton,Roman Times,Win,17,Win,TRUE
+1765,434,Tipster B,19/08/2016,Aintree,Restraint Of Trade,Win,41,Lose,TRUE
+1766,435,Tipster B,19/08/2016,York,Librisa Breeze,Win,6,Lose,TRUE
+1767,436,Tipster B,19/08/2016,York,Sole Power,Win,42,Lose,TRUE
+1768,437,Tipster B,19/08/2016,York,Twin Sails,Win,21,Lose,TRUE
+1769,438,Tipster B,19/08/2016,Wolverhampton,Virile,Win,3.75,Lose,TRUE
+1770,439,Tipster B,20/08/2016,Chester,Communicator,Win,8,Lose,TRUE
+1771,440,Tipster B,20/08/2016,Bath,Wassail,Win,34,Lose,TRUE
+1772,441,Tipster B,20/08/2016,Bath,Hope Is High,Win,3.75,Lose,TRUE
+1773,442,Tipster B,20/08/2016,Aintree,Saint Helena,Win,13,Lose,TRUE
+1774,443,Tipster B,21/08/2016,Brighton,Surfina,Win,12,Lose,TRUE
+1775,444,Tipster B,21/08/2016,Chelmsford,Valbchek,Win,15,Lose,TRUE
+1776,445,Tipster B,21/08/2016,Brighton,Soaring Spirits,Win,2.75,Lose,TRUE
+1777,446,Tipster B,22/08/2016,Brighton,Bobby Vee,Win,4,Lose,TRUE
+1778,447,Tipster B,22/08/2016,Carlisle,Captain Scooby,Win,17,Lose,TRUE
+1779,448,Tipster B,23/08/2016,Newbury,Alizoom,Win,5,Lose,TRUE
+1780,449,Tipster B,23/08/2016,Chelmsford,Trishuli Rock,Win,2.9,Lose,TRUE
+1781,450,Tipster B,23/08/2016,Chelmsford,Fujin,Win,13,Lose,TRUE
+1782,451,Tipster B,23/08/2016,Chelmsford,Welford,Win,7.5,Lose,TRUE
+1783,452,Tipster B,24/08/2016,Catterick,Stoneham,Win,4.33,Lose,TRUE
+1784,453,Tipster B,24/08/2016,Musselburgh,Neuf Des Coeurs,Win,4.5,Lose,TRUE
+1785,454,Tipster B,24/08/2016,Catterick,Captain Dunne,Win,7.5,Lose,TRUE
+1786,455,Tipster B,24/08/2016,Dundee,Dune Dancer,Win,2.63,Lose,TRUE
+1787,456,Tipster B,25/08/2016,Leicester,Storm Cry,Win,3.25,Lose,TRUE
+1788,457,Tipster B,25/08/2016,Musselburgh,Ginger Jack,Win,4.33,Win,TRUE
+1789,458,Tipster B,25/08/2016,Wolverhampton,Duke Of Yorkshire,Win,3.75,Win,TRUE
+1790,459,Tipster B,25/08/2016,Wolverhampton,Jack The Laird,Win,3,Lose,TRUE
+1791,460,Tipster B,25/08/2016,Wolverhampton,Eljaddaaf,Win,3.25,Lose,TRUE
+1792,461,Tipster B,26/08/2016,Thirsk,Flowing Clarets,Win,2.25,Win,TRUE
+1793,462,Tipster B,26/08/2016,Newmarket,Nicky Baby,Win,101,Lose,TRUE
+1794,463,Tipster B,26/08/2016,Ffos Las,Shadow Spirit,Win,4.5,Lose,TRUE
+1795,464,Tipster B,26/08/2016,Newmarket,Forever Yours,Win,67,Lose,TRUE
+1796,465,Tipster B,26/08/2016,Thirsk,Hijran,Win,4.33,Win,TRUE
+1797,466,Tipster B,27/08/2016,Beverley,Peak Princess,Win,2,Win,TRUE
+1798,467,Tipster B,27/08/2016,Goodwood,Tiburtina,Win,12,Lose,TRUE
+1799,468,Tipster B,27/08/2016,Goodwood,Mister Universe,Win,51,Lose,TRUE
+1800,469,Tipster B,27/08/2016,Newmarket,Eastern Impact,Win,3.5,Lose,TRUE
+1801,470,Tipster B,27/08/2016,Redcar,High On Light,Win,2.88,Lose,TRUE
+1802,471,Tipster B,28/08/2016,Goodwood,New Caledonia,Win,13,Lose,TRUE
+1803,472,Tipster B,28/08/2016,Yarmouth,Jumping Around,Win,6.5,Lose,TRUE
+1804,473,Tipster B,28/08/2016,Goodwood,Pointillism,Win,4,Lose,TRUE
+1805,474,Tipster B,29/08/2016,Chepstow,Fantasy Queen,Win,6.5,Lose,TRUE
+1806,475,Tipster B,29/08/2016,Chepstow,Barista,Win,23,Lose,TRUE
+1807,476,Tipster B,29/08/2016,Chepstow,Ring Eye,Win,6,Lose,TRUE
+1808,477,Tipster B,01/09/2016,Salisbury,Argenterie,Win,2.38,Win,TRUE
+1809,478,Tipster B,01/09/2016,Chelmsford,West Coast Flyer,Win,3.25,Win,TRUE
+1810,479,Tipster B,02/09/2016,Haydock,Moonlit Show,Win,13,Win,TRUE
+1811,480,Tipster B,02/09/2016,Musselburgh,Neuf Des Coeurs,Win,3.5,Lose,TRUE
+1812,481,Tipster B,02/09/2016,Kempton,Meetings Man,Win,17,Lose,TRUE
+1813,482,Tipster B,03/09/2016,Ascot,Twin Sails,Win,26,Lose,TRUE
+1814,483,Tipster B,03/09/2016,Ascot,Kadrizzi,Win,13,Lose,TRUE
+1815,484,Tipster B,03/09/2016,Kempton,Sirius Prospect,Win,15,Lose,TRUE
+1816,485,Tipster B,03/09/2016,Ascot,Light And Shade,Win,6,Lose,TRUE
+1817,486,Tipster B,03/09/2016,Kempton,Captain Peacock,Win,2.5,Lose,TRUE
+1818,487,Tipster B,03/09/2016,Ascot,Stake Acclaim,Win,8,Lose,TRUE
+1819,488,Tipster B,03/09/2016,Kempton,Falcons Song,Win,6,Lose,TRUE
+1820,489,Tipster B,04/09/2016,York,Freewheel,Win,17,Lose,TRUE
+1821,490,Tipster B,04/09/2016,York,Golden Amber,Win,13,Lose,TRUE
+1822,491,Tipster B,04/09/2016,York,Swashbuckle,Win,3.25,Lose,TRUE
+1823,492,Tipster B,04/09/2016,York,Pointillism,Win,7,Lose,TRUE
+1824,493,Tipster B,05/09/2016,Brighton,Soaring Spirits,Win,5,Lose,TRUE
+1825,494,Tipster B,05/09/2016,Windsor,Percys Romance,Win,3.75,Lose,TRUE
+1826,495,Tipster B,06/09/2016,Redcar,Jeany,Win,4,Lose,TRUE
+1827,496,Tipster B,06/09/2016,Hamilton,Bahama Moon,Win,12,Lose,TRUE
+1828,497,Tipster B,06/09/2016,Leicester,Jupiter Light,Win,13,Lose,TRUE
+1829,498,Tipster B,06/09/2016,Redcar,Slipper Satin,Win,21,Lose,TRUE
+1830,499,Tipster B,07/09/2016,Carlisle,Whiteandgold,Win,9,Lose,TRUE
+1831,500,Tipster B,07/09/2016,Doncaster,Gun Case,Win,64,Lose,TRUE
+1832,501,Tipster B,07/09/2016,Carlisle,Little Lady Katie,Win,10,Lose,TRUE
+1833,502,Tipster B,07/09/2016,Carlisle,Osteopathic Remedy,Win,15,Lose,TRUE
+1834,503,Tipster B,07/09/2016,Doncaster,Mount Logan,Win,2.75,Win,TRUE
+1835,1,Tipster C,13/12/2014,Doncaster,Robbie,Win,4.5,Win,FALSE
+1836,2,Tipster C,13/12/2014,SouthWell,Imaginary Diva,Each Way,15,Lose,FALSE
+1837,3,Tipster C,13/12/2014,Cheltenham,Attaglance,Each Way,10,Lose,FALSE
+1838,4,Tipster C,13/12/2014,SouthWell,Mitchum,Each Way,17,Lose,FALSE
+1839,5,Tipster C,13/12/2014,Listowel,Novalist,Win,2.38,Win,FALSE
+1840,6,Tipster C,14/12/2014,Navan,Jennies Jewel,Each Way,17,Win,FALSE
+1841,7,Tipster C,14/12/2014,SouthWell,Delgany Demon,Win,2.88,Win,FALSE
+1842,8,Tipster C,14/12/2014,Carlisle,Hallmark Star,Each Way,9.25,Lose,FALSE
+1843,9,Tipster C,15/12/2014,Ffos Las,Fishing Bridge,Each Way,7,Lose,FALSE
+1844,10,Tipster C,15/12/2014,Wolverhampton,Pivotman,Win,2.88,Win,FALSE
+1845,11,Tipster C,15/12/2014,Lingfield,Topaling,Each Way,8,Win,FALSE
+1846,12,Tipster C,15/12/2014,Wolverhampton,Reggie Bond,Each Way,15,Lose,FALSE
+1847,13,Tipster C,16/12/2014,Catterick,Amir Pasha,Each Way,11,Win,FALSE
+1848,14,Tipster C,16/12/2014,SouthWell,Wotalad,Each Way,11,Lose,FALSE
+1849,15,Tipster C,16/12/2014,Catterick,Dark And Dangerous,Win,3,Lose,FALSE
+1850,16,Tipster C,16/12/2014,Catterick,Jacks Last Hope,Win,3.1,Lose,FALSE
+1851,17,Tipster C,16/12/2014,SouthWell,Milady Eileen,Win,3.25,Lose,FALSE
+1852,18,Tipster C,17/12/2014,Limerick,Buck Magic,Each Way,11,Lose,FALSE
+1853,19,Tipster C,17/12/2014,Hamilton,Arkaim,Win,7,Lose,FALSE
+1854,20,Tipster C,17/12/2014,Ludlow,Carnaross,Each Way,26,Lose,FALSE
+1855,21,Tipster C,17/12/2014,Ludlow,According To Trev,Each Way,13,Lose,FALSE
+1856,22,Tipster C,17/12/2014,Windsor,Razor Wind,Win,1.91,Win,FALSE
+1857,23,Tipster C,18/12/2014,Towcester,Kincora Fort,Win,1.73,Lose,FALSE
+1858,24,Tipster C,18/12/2014,SouthWell,My Son Max,Each Way,34,Lose,FALSE
+1859,25,Tipster C,18/12/2014,Towcester,Wicklewood,Each Way,9,Win,FALSE
+1860,26,Tipster C,18/12/2014,Kempton,Ohsosecret,Each Way,41,Lose,FALSE
+1861,27,Tipster C,18/12/2014,Kempton,Malaysian Boleh,Each Way,10,Lose,FALSE
+1862,28,Tipster C,19/12/2014,SouthWell,Pin Up,Win,1.91,Lose,FALSE
+1863,29,Tipster C,19/12/2014,Ascot,Final Nudge,Each Way,34,Lose,FALSE
+1864,30,Tipster C,19/12/2014,Wolverhampton,Jubilee Spirit,Each Way,67,Lose,FALSE
+1865,31,Tipster C,19/12/2014,Wolverhampton,Luis Vaz De Torres,Each Way,67,Win,FALSE
+1866,32,Tipster C,19/12/2014,Wolverhampton,Rightcar,Each Way,23,Lose,FALSE
+1867,33,Tipster C,20/12/2014,Ascot,Church Hall,Each Way,34,Lose,FALSE
+1868,34,Tipster C,20/12/2014,Fairyhouse,Teoleena,Each Way,16.5,Lose,FALSE
+1869,35,Tipster C,20/12/2014,Newcastle,Nautical Twilight,Win,2.1,Lose,FALSE
+1870,36,Tipster C,20/12/2014,Fairyhouse,Crackerdancer,Each Way,17,Lose,FALSE
+1871,37,Tipster C,20/12/2014,Ascot,Cool Macavity,Each Way,29,Lose,FALSE
+1872,38,Tipster C,21/12/2014,Thurles,Mark Me Up,Each Way,21,Lose,FALSE
+1873,39,Tipster C,21/12/2014,Fakenham,Brass Monkey,Each Way,8,Lose,FALSE
+1874,40,Tipster C,21/12/2014,Thurles,Is Herself About,Win,6.2,Lose,FALSE
+1875,41,Tipster C,22/12/2014,Kempton,Dutch Fredie G,Each Way,12,Lose,FALSE
+1876,42,Tipster C,22/12/2014,Kempton,Gannicus,Each Way,19,Lose,FALSE
+1877,43,Tipster C,22/12/2014,Kempton,Softly She Treads,Win,11,Win,FALSE
+1878,44,Tipster C,22/12/2014,Bangor,Vitarra,Each Way,29,Lose,FALSE
+1879,45,Tipster C,26/12/2014,Arlington Park,Truckers Darling,Win,2.75,Lose,FALSE
+1880,46,Tipster C,26/12/2014,Wetherby,Shadows Lengthen,Each Way,17,Lose,FALSE
+1881,47,Tipster C,26/12/2014,Wolverhampton,Poor Duke,Each Way,18,Lose,FALSE
+1882,48,Tipster C,26/12/2014,Kempton,Kilmurvy,Each Way,21,Lose,FALSE
+1883,49,Tipster C,26/12/2014,Wolverhampton,For Shia And Lula,Each Way,12,Lose,FALSE
+1884,50,Tipster C,28/12/2014,Lingfield,Clovelly Bay,Each Way,14,Lose,FALSE
+1885,51,Tipster C,28/12/2014,Lingfield,Grey Mirage,Win,3.5,Lose,FALSE
+1886,52,Tipster C,28/12/2014,Catterick,Sir Safir,Each Way,26,Win,FALSE
+1887,53,Tipster C,28/12/2014,Lingfield,Desert Strike,Each Way,12,Lose,FALSE
+1888,54,Tipster C,28/12/2014,Leopardstown,Elsie,Each Way,17,Lose,FALSE
+1889,55,Tipster C,30/12/2014,Taunton,In The Crowd,Each Way,21,Win,FALSE
+1890,56,Tipster C,30/12/2014,Lingfield,Rockys Pride,Win,9,Lose,FALSE
+1891,57,Tipster C,30/12/2014,Lingfield,Zinnobar,Win,8,Lose,FALSE
+1892,58,Tipster C,30/12/2014,Lingfield,Southern Cross,Each Way,23,Lose,FALSE
+1893,59,Tipster C,31/12/2014,Lingfield,Glastonberry,Each Way,26,Lose,FALSE
+1894,60,Tipster C,31/12/2014,Punchestown,Another Rattler,Each Way,51,Lose,FALSE
+1895,61,Tipster C,31/12/2014,Lingfield,Malaysian Boleh,Each Way,13,Win,FALSE
+1896,62,Tipster C,31/12/2014,Punchestown,Ten Times Better,Each Way,15,Win,FALSE
+1897,63,Tipster C,31/12/2014,Punchestown,Ten Per Cent Down,Each Way,41.5,Lose,FALSE
+1898,64,Tipster C,01/01/2015,Cheltenham,Hunt Ball,Each Way,15,Win,FALSE
+1899,65,Tipster C,01/01/2015,Catterick,Mister Grez,Win,3.75,Win,FALSE
+1900,66,Tipster C,01/01/2015,Exeter,Thundering Home,Each Way,15,Win,FALSE
+1901,67,Tipster C,01/01/2015,Cheltenham,Aka Doun,Each Way,17,Lose,FALSE
+1902,68,Tipster C,01/01/2015,Exeter,Mother Meldrum,Each Way,34,Lose,FALSE
+1903,69,Tipster C,02/01/2015,SouthWell,College Doll,Each Way,11,Lose,FALSE
+1904,70,Tipster C,02/01/2015,Ayr,Nosey Box,Each Way,10,Win,FALSE
+1905,71,Tipster C,02/01/2015,Ffos Las,Foryourinformation,Win,2.25,Win,FALSE
+1906,72,Tipster C,02/01/2015,Wolverhampton,Junior Ben,Each Way,15,Lose,FALSE
+1907,73,Tipster C,02/01/2015,Dundalk,Lord Kenmare,Each Way,15,Lose,FALSE
+1908,74,Tipster C,03/01/2015,Lingfield,Viewpoint,Each Way,11,Lose,FALSE
+1909,75,Tipster C,03/01/2015,Wincanton,Earthmoves,Win,2.75,Lose,FALSE
+1910,76,Tipster C,03/01/2015,Lingfield,Shaunas Spirit,Each Way,34,Lose,FALSE
+1911,77,Tipster C,03/01/2015,Sandown,Triolo Dalene,Each Way,21,Win,FALSE
+1912,78,Tipster C,03/01/2015,Cork,Robin Des People,Each Way,11,Lose,FALSE
+1913,79,Tipster C,04/01/2015,SouthWell,Percys Princess,Win,2.25,Lose,FALSE
+1914,80,Tipster C,05/01/2015,Wolverhampton,Mayfield Girl,Each Way,13,Lose,FALSE
+1915,81,Tipster C,05/01/2015,Cartmel,Claude Carter,Each Way,8,Win,FALSE
+1916,82,Tipster C,05/01/2015,Wolverhampton,Aqlette,Each Way,21,Win,FALSE
+1917,83,Tipster C,05/01/2015,Wolverhampton,Yourinthewill,Each Way,15,Lose,FALSE
+1918,84,Tipster C,05/01/2015,Wolverhampton,Cascadia,Win,4.5,Lose,FALSE
+1919,85,Tipster C,06/01/2015,Bangor,Poker School,Each Way,15,Lose,FALSE
+1920,86,Tipster C,06/01/2015,SouthWell,Honest Strike,Each Way,13,Lose,FALSE
+1921,87,Tipster C,06/01/2015,SouthWell,Sakash,Each Way,27,Lose,FALSE
+1922,88,Tipster C,06/01/2015,Bangor,Goodtoknow,Win,7,Lose,FALSE
+1923,89,Tipster C,06/01/2015,SouthWell,Bold Max,Each Way,26,Win,FALSE
+1924,90,Tipster C,07/01/2015,Taunton,Rouge Et Blanc,Each Way,17,Win,FALSE
+1925,91,Tipster C,07/01/2015,Kempton,See No Ships,Each Way,15,Win,FALSE
+1926,92,Tipster C,07/01/2015,Kempton,Molly Dolly,Each Way,17,Win,FALSE
+1927,93,Tipster C,07/01/2015,Kempton,Rouge Nuage,Each Way,17,Lose,FALSE
+1928,94,Tipster C,07/01/2015,Kempton,Celestial Bay,Each Way,13,Win,FALSE
+1929,95,Tipster C,08/01/2015,SouthWell,Warfare,Each Way,13.8,Win,FALSE
+1930,96,Tipster C,08/01/2015,Catterick,Pinerolo,Win,6,Lose,FALSE
+1931,97,Tipster C,08/01/2015,Wolverhampton,Undulate,Each Way,11,Lose,FALSE
+1932,98,Tipster C,08/01/2015,Wolverhampton,Toga Tiger,Each Way,26,Win,FALSE
+1933,99,Tipster C,08/01/2015,Wolverhampton,River Dreamer,Each Way,34,Lose,FALSE
+1934,100,Tipster C,09/01/2015,Lingfield,Lahayeb,Each Way,41,Lose,FALSE
+1935,101,Tipster C,09/01/2015,Lingfield,Stosur,Each Way,13,Lose,FALSE
+1936,102,Tipster C,09/01/2015,Doncaster,A Shade Of Bay,Each Way,13,Lose,FALSE
+1937,103,Tipster C,09/01/2015,Doncaster,Solstice Dawn,Each Way,34,Lose,FALSE
+1938,104,Tipster C,09/01/2015,Dundalk,Havelock Ellis,Each Way,15,Win,FALSE
+1939,105,Tipster C,10/01/2015,Lingfield,Spiritual Star,Each Way,8,Win,FALSE
+1940,106,Tipster C,10/01/2015,Warwick,An Poc Ar Buile,Each Way,13,Lose,FALSE
+1941,107,Tipster C,10/01/2015,Kempton,Kilcooley,Each Way,15,Lose,FALSE
+1942,108,Tipster C,10/01/2015,Huntingdon,Harry Hunt,Each Way,13,Lose,FALSE
+1943,109,Tipster C,10/01/2015,Warwick,Benbane Head,Each Way,15,Lose,FALSE
+1944,110,Tipster C,11/01/2015,Kelso,Lie Forrit,Win,3.75,Win,FALSE
+1945,111,Tipster C,11/01/2015,Fairyhouse,Alderwood,Each Way,15,Lose,FALSE
+1946,112,Tipster C,11/01/2015,Kelso,Caerlaverock,Each Way,10,Lose,FALSE
+1947,113,Tipster C,11/01/2015,Fairyhouse,Wooly Tom,Each Way,21,Lose,FALSE
+1948,114,Tipster C,11/01/2015,Chelmsford,All Or Nothin,Each Way,26,Lose,FALSE
+1949,115,Tipster C,12/01/2015,Wolverhampton,Equita,Each Way,9,Lose,FALSE
+1950,116,Tipster C,12/01/2015,Wolverhampton,Kodiac Lady,Each Way,11,Lose,FALSE
+1951,117,Tipster C,12/01/2015,Wolverhampton,Dutch Uncle,Win,2,Win,FALSE
+1952,118,Tipster C,12/01/2015,Wolverhampton,Oratorios Joy,Win,5.5,Lose,FALSE
+1953,119,Tipster C,12/01/2015,Wolverhampton,Flying Power,Each Way,26,Win,FALSE
+1954,120,Tipster C,13/01/2015,SouthWell,Eium Mac,Win,3.25,Lose,FALSE
+1955,121,Tipster C,13/01/2015,SouthWell,Bannister Bell,Each Way,9.5,Win,FALSE
+1956,122,Tipster C,13/01/2015,Fakenham,Imperial Vic,Each Way,10,Lose,FALSE
+1957,123,Tipster C,13/01/2015,SouthWell,Sleepy Blue Ocean,Each Way,17,Lose,FALSE
+1958,124,Tipster C,13/01/2015,SouthWell,Fire In Babylon,Each Way,11,Lose,FALSE
+1959,125,Tipster C,14/01/2015,Lingfield,Closing,Each Way,15,Lose,FALSE
+1960,126,Tipster C,14/01/2015,Lingfield,Encapsulated,Each Way,29,Win,FALSE
+1961,127,Tipster C,14/01/2015,Kempton,See No Ships,Each Way,12,Lose,FALSE
+1962,128,Tipster C,14/01/2015,Kempton,Focail Mear,Each Way,11,Win,FALSE
+1963,129,Tipster C,14/01/2015,Kempton,Bosstime,Each Way,9,Lose,FALSE
+1964,130,Tipster C,15/01/2015,Wincanton,Cash Injection,Each Way,13,Lose,FALSE
+1965,131,Tipster C,15/01/2015,Wincanton,Trickaway,Win,3.15,Lose,FALSE
+1966,132,Tipster C,15/01/2015,Wincanton,Revaader,Win,5.8,Lose,FALSE
+1967,133,Tipster C,15/01/2015,Wolverhampton,Show Boat,Each Way,13,Lose,FALSE
+1968,134,Tipster C,15/01/2015,Wolverhampton,Piccolo Express,Each Way,9,Win,FALSE
+1969,135,Tipster C,16/01/2015,Lingfield,Brave Decision,Each Way,11,Win,FALSE
+1970,136,Tipster C,16/01/2015,Wolverhampton,Go Packing Go,Each Way,13,Lose,FALSE
+1971,137,Tipster C,16/01/2015,Dundalk,Magic Kitten,Each Way,17,Lose,FALSE
+1972,138,Tipster C,16/01/2015,Dundalk,Share A Secret,Each Way,26,Lose,FALSE
+1973,139,Tipster C,16/01/2015,Dundalk,Blue Ridge Lane,Each Way,17,Lose,FALSE
+1974,140,Tipster C,17/01/2015,Lingfield,Diamond Charlie,Each Way,13,Lose,FALSE
+1975,141,Tipster C,17/01/2015,Lingfield,Hopes N Dreams,Each Way,29,Lose,FALSE
+1976,142,Tipster C,17/01/2015,Lingfield,Clockmaker,Each Way,21,Lose,FALSE
+1977,143,Tipster C,17/01/2015,Haydock,Toby Lerone,Each Way,11,Lose,FALSE
+1978,144,Tipster C,17/01/2015,Lingfield,Convicted,Each Way,29,Lose,FALSE
+1979,145,Tipster C,18/01/2015,Kempton,Barwah,Win,4.5,Lose,FALSE
+1980,146,Tipster C,18/01/2015,Leopardstown,Hellberemembered,Win,11,Lose,FALSE
+1981,147,Tipster C,18/01/2015,Kempton,Evacusafe Lady,Each Way,21,Lose,FALSE
+1982,148,Tipster C,18/01/2015,Kempton,Skidby Mill,Each Way,10,Lose,FALSE
+1983,149,Tipster C,18/01/2015,Kempton,Soul Instinct,Each Way,15,Win,FALSE
+1984,150,Tipster C,19/01/2015,Wolverhampton,Desert Apostle,Win,10,Lose,FALSE
+1985,151,Tipster C,19/01/2015,Exeter,Templebraden,Each Way,21,Lose,FALSE
+1986,152,Tipster C,19/01/2015,Wolverhampton,Gabrial The Thug,Each Way,12,Win,FALSE
+1987,153,Tipster C,19/01/2015,Exeter,Kentford Myth,Each Way,11,Lose,FALSE
+1988,154,Tipster C,19/01/2015,Wolverhampton,Sheriff Of Nawton,Win,9,Lose,FALSE
+1989,155,Tipster C,20/01/2015,Wetherby,In Vino Veritas,Each Way,23,Lose,FALSE
+1990,156,Tipster C,20/01/2015,Wetherby,Stickleback,Each Way,11,Win,FALSE
+1991,157,Tipster C,20/01/2015,SouthWell,Very First Blade,Each Way,17,Win,FALSE
+1992,158,Tipster C,20/01/2015,SouthWell,Under Approval,Win,6,Lose,FALSE
+1993,159,Tipster C,21/01/2015,Catterick,Always Bold,Win,8,Lose,FALSE
+1994,160,Tipster C,21/01/2015,Catterick,Rival Destruval,Each Way,26,Lose,FALSE
+1995,161,Tipster C,21/01/2015,Lingfield,Malaysian Boleh,Each Way,12,Lose,FALSE
+1996,162,Tipster C,21/01/2015,Kempton,Anjuna Beach,Each Way,17,Lose,FALSE
+1997,163,Tipster C,22/01/2015,Gowran Park,Vasco Du Mee,Each Way,41,Lose,FALSE
+1998,164,Tipster C,22/01/2015,Gowran Park,Rogue Angel,Each Way,34,Lose,FALSE
+1999,165,Tipster C,22/01/2015,Brighton,Lady Brigid,Each Way,19,Lose,FALSE
+2000,166,Tipster C,22/01/2015,Chelmsford,Desert Strike,Each Way,19,Lose,FALSE
+2001,167,Tipster C,22/01/2015,Chelmsford,Mr Soprano,Each Way,10,Win,FALSE
+2002,168,Tipster C,23/01/2015,Doncaster,Haleo,Each Way,19,Lose,FALSE
+2003,169,Tipster C,23/01/2015,Lingfield,Ragtime Dancer,Each Way,13,Lose,FALSE
+2004,170,Tipster C,23/01/2015,Lingfield,First Rebellion,Each Way,12,Lose,FALSE
+2005,171,Tipster C,23/01/2015,Doncaster,Expanding Universe,Each Way,12,Win,FALSE
+2006,172,Tipster C,23/01/2015,Lingfield,Weald Of Kent,Each Way,13,Lose,FALSE
+2007,173,Tipster C,24/01/2015,Cheltenham,Irish Cavalier,Each Way,15,Win,FALSE
+2008,174,Tipster C,24/01/2015,Lingfield,Caminel,Win,9,Lose,FALSE
+2009,175,Tipster C,24/01/2015,Uttoxeter,Trafficker,Each Way,13,Lose,FALSE
+2010,176,Tipster C,24/01/2015,Cheltenham,Dare Me,Each Way,12,Lose,FALSE
+2011,177,Tipster C,24/01/2015,Doncaster,Renard,Each Way,13,Lose,FALSE
+2012,178,Tipster C,25/01/2015,Leopardstown,Hurricane Fly,Win,2.1,Win,FALSE
+2013,179,Tipster C,25/01/2015,Sedgefield,Shrapnel,Each Way,15,Lose,FALSE
+2014,180,Tipster C,25/01/2015,Sedgefield,Riskier,Win,8,Lose,FALSE
+2015,181,Tipster C,25/01/2015,Leopardstown,Heathfield,Win,3.25,Lose,FALSE
+2016,182,Tipster C,25/01/2015,Leopardstown,Catalaunian Fields,Each Way,9,Lose,FALSE
+2017,183,Tipster C,26/01/2015,Ludlow,Theatre Queen,Win,8.5,Lose,FALSE
+2018,184,Tipster C,26/01/2015,Ludlow,Anton Dolin,Each Way,34,Lose,FALSE
+2019,185,Tipster C,26/01/2015,Ludlow,Grimley Girl,Each Way,9,Win,FALSE
+2020,186,Tipster C,26/01/2015,Wolverhampton,Smalljohn,Each Way,12,Lose,FALSE
+2021,187,Tipster C,26/01/2015,Longchamp,Popping Along,Win,4.33,Lose,FALSE
+2022,188,Tipster C,27/01/2015,SouthWell,A Little Bit Dusty,Each Way,29,Lose,FALSE
+2023,189,Tipster C,27/01/2015,Taunton,Template,Each Way,10,Win,FALSE
+2024,190,Tipster C,27/01/2015,SouthWell,Serenity Now,Each Way,51,Lose,FALSE
+2025,191,Tipster C,27/01/2015,Taunton,Loyaute,Each Way,17,Lose,FALSE
+2026,192,Tipster C,28/01/2015,Chelmsford,Malaysian Boleh,Each Way,17,Lose,FALSE
+2027,193,Tipster C,28/01/2015,Chelmsford,Daring Dragon,Each Way,13,Lose,FALSE
+2028,194,Tipster C,28/01/2015,Chelmsford,Steelriver,Each Way,13,Win,FALSE
+2029,195,Tipster C,28/01/2015,Newcastle,Corsair Prince,Each Way,26,Lose,FALSE
+2030,196,Tipster C,28/01/2015,Kempton,Margot Rose,Each Way,9,Lose,FALSE
+2031,197,Tipster C,29/01/2015,SouthWell,Under Approval,Each Way,26,Lose,FALSE
+2032,198,Tipster C,29/01/2015,Wincanton,Knocklayde Express,Each Way,11,Lose,FALSE
+2033,199,Tipster C,29/01/2015,Wincanton,Cloudy Bob,Win,8,Lose,FALSE
+2034,200,Tipster C,29/01/2015,Towcester,Brave Helios,Each Way,21,Win,FALSE
+2035,201,Tipster C,29/01/2015,Towcester,What A Moment,Each Way,11,Win,FALSE
+2036,202,Tipster C,30/01/2015,Lingfield,Soul Instinct,Win,6.5,Lose,FALSE
+2037,203,Tipster C,30/01/2015,Wolverhampton,Off The Pulse,Win,8,Win,FALSE
+2038,204,Tipster C,30/01/2015,Dundalk,Moving On Up,Win,6,Lose,FALSE
+2039,205,Tipster C,30/01/2015,Dundalk,Larghetto,Each Way,24,Lose,FALSE
+2040,206,Tipster C,30/01/2015,Dundalk,Victors Beach,Each Way,15,Lose,FALSE
+2041,207,Tipster C,31/01/2015,Sandown,Ballygarvey,Win,6.5,Lose,FALSE
+2042,208,Tipster C,31/01/2015,Ffos Las,Williams Wishes,Each Way,19,Lose,FALSE
+2043,209,Tipster C,31/01/2015,Aintree,Irish Saint,Win,3.25,Lose,FALSE
+2044,210,Tipster C,31/01/2015,Ffos Las,Firebird Flyer,Win,10,Lose,FALSE
+2045,211,Tipster C,31/01/2015,Sandown,Polamco,Win,5,Lose,FALSE
+2046,212,Tipster C,02/02/2015,Lingfield,Fearless Lad,Each Way,17,Win,FALSE
+2047,213,Tipster C,02/02/2015,Lingfield,Gimme Five,Win,3.25,Lose,FALSE
+2048,214,Tipster C,02/02/2015,Lingfield,Lexington Blue,Each Way,13,Lose,FALSE
+2049,215,Tipster C,02/02/2015,Wolverhampton,Solar Deity,Win,3.5,Lose,FALSE
+2050,216,Tipster C,02/02/2015,Wolverhampton,Spray Tan,Win,7,Lose,FALSE
+2051,217,Tipster C,03/02/2015,Kempton,Novel Dancer,Win,4.5,Lose,FALSE
+2052,218,Tipster C,03/02/2015,SouthWell,Barbs Princess,Win,3.75,Lose,FALSE
+2053,219,Tipster C,03/02/2015,SouthWell,Robin Hill,Win,5,Lose,FALSE
+2054,220,Tipster C,03/02/2015,Kempton,Invigilator,Each Way,13,Lose,FALSE
+2055,221,Tipster C,04/02/2015,Kempton,Saved My Bacon,Each Way,11,Lose,FALSE
+2056,222,Tipster C,04/02/2015,Kempton,Monsieur Chabal,Each Way,11,Lose,FALSE
+2057,223,Tipster C,04/02/2015,Chelmsford,Anonymous John,Each Way,13,Win,FALSE
+2058,224,Tipster C,04/02/2015,Kempton,Hollie Point,Win,5.5,Win,FALSE
+2059,225,Tipster C,04/02/2015,Aintree,Saint Pois,Each Way,26,Lose,FALSE
+2060,226,Tipster C,05/02/2015,Taunton,Merchant Of Milan,Each Way,9,Lose,FALSE
+2061,227,Tipster C,05/02/2015,Taunton,Auvergnat,Each Way,17,Win,FALSE
+2062,228,Tipster C,05/02/2015,Huntingdon,Dynamic Idol,Each Way,12,Lose,FALSE
+2063,229,Tipster C,05/02/2015,Meydan,Samurai Sword,Each Way,15,Win,FALSE
+2064,230,Tipster C,06/02/2015,Kempton,Salmanazar,Each Way,7,Lose,FALSE
+2065,231,Tipster C,06/02/2015,Hamilton,Hamis Al Bin,Each Way,15,Win,FALSE
+2066,232,Tipster C,06/02/2015,Wolverhampton,Qibtee,Each Way,13,Lose,FALSE
+2067,233,Tipster C,06/02/2015,Wolverhampton,Erelight,Each Way,9,Lose,FALSE
+2068,234,Tipster C,06/02/2015,Dundalk,Mystical Past,Each Way,13,Win,FALSE
+2069,235,Tipster C,07/02/2015,Wolverhampton,Syrian,Each Way,15,Lose,FALSE
+2070,236,Tipster C,07/02/2015,Wolverhampton,Ready,Each Way,15,Win,FALSE
+2071,237,Tipster C,07/02/2015,Wolverhampton,Rouge Nuage,Each Way,9.25,Lose,FALSE
+2072,238,Tipster C,07/02/2015,Sandown,Missandei,Each Way,11,Lose,FALSE
+2073,239,Tipster C,07/02/2015,Wolverhampton,Elle Shade,Win,2.15,Win,FALSE
+2074,240,Tipster C,08/02/2015,Leopardstown,Mckinley,Each Way,17,Lose,FALSE
+2075,241,Tipster C,08/02/2015,Exeter,Regal Encore,Each Way,9,Win,FALSE
+2076,242,Tipster C,08/02/2015,Leopardstown,The Tullow Tank,Each Way,21,Lose,FALSE
+2077,243,Tipster C,08/02/2015,Leopardstown,Fosters Cross,Each Way,15,Lose,FALSE
+2078,244,Tipster C,08/02/2015,Exeter,Drumlee Sunset,Win,4.5,Win,FALSE
+2079,245,Tipster C,09/02/2015,Catterick,Allbarnone,Each Way,11,Lose,FALSE
+2080,246,Tipster C,09/02/2015,Hamilton,Akula,Win,7,Lose,FALSE
+2081,247,Tipster C,09/02/2015,Catterick,Hello Pretty Ladys,Each Way,26,Lose,FALSE
+2082,248,Tipster C,09/02/2015,Plumpton,Normanton,Each Way,34,Lose,FALSE
+2083,249,Tipster C,10/02/2015,Ffos Las,Fishing Bridge,Each Way,15,Lose,FALSE
+2084,250,Tipster C,10/02/2015,SouthWell,Westminster,Win,2,Lose,FALSE
+2085,251,Tipster C,10/02/2015,Clonmel,Allied Victory,Each Way,12,Lose,FALSE
+2086,252,Tipster C,10/02/2015,Clonmel,Graces Benefit,Each Way,51,Lose,FALSE
+2087,253,Tipster C,10/02/2015,Ayr,Leading Score,Each Way,11,Lose,FALSE
+2088,254,Tipster C,11/02/2015,Chepstow,Wicker Man,Each Way,15,Lose,FALSE
+2089,255,Tipster C,11/02/2015,Chepstow,Charlie Breekie,Each Way,17,Lose,FALSE
+2090,256,Tipster C,11/02/2015,Chepstow,Bobble Boru,Each Way,15,Lose,FALSE
+2091,257,Tipster C,11/02/2015,Kempton,Atlantic Affair,Each Way,11,Lose,FALSE
+2092,258,Tipster C,11/02/2015,Kempton,Katmai River,Each Way,10,Lose,FALSE
+2093,259,Tipster C,12/02/2015,Fontwell,Remiluc,Win,4,Win,FALSE
+2094,260,Tipster C,12/02/2015,Meydan,Van Rooney,Each Way,21,Lose,FALSE
+2095,261,Tipster C,12/02/2015,Fontwell,Third Act,Each Way,13,Lose,FALSE
+2096,262,Tipster C,12/02/2015,Kelso,Rock Relief,Each Way,17,Lose,FALSE
+2097,263,Tipster C,12/02/2015,Fontwell,Alottarain,Each Way,34,Lose,FALSE
+2098,264,Tipster C,13/02/2015,Sandown,Cowards Close,Win,2.25,Win,FALSE
+2099,265,Tipster C,13/02/2015,Lingfield,Light Wave,Win,2.8,Lose,FALSE
+2100,266,Tipster C,13/02/2015,Fakenham,Can Mestret,Win,2.5,Win,FALSE
+2101,267,Tipster C,13/02/2015,Lingfield,Top Set,Win,4.6,Lose,FALSE
+2102,268,Tipster C,16/02/2015,Lingfield,Somerby,Each Way,13,Win,FALSE
+2103,269,Tipster C,16/02/2015,Carlisle,Bescot Springs,Each Way,12,Win,FALSE
+2104,270,Tipster C,16/02/2015,Wolverhampton,All Reddy,Each Way,13,Lose,FALSE
+2105,271,Tipster C,16/02/2015,Wolverhampton,Mappin Time,Each Way,15,Win,FALSE
+2106,272,Tipster C,16/02/2015,Wolverhampton,The Blue Dog,Win,4.33,Lose,FALSE
+2107,273,Tipster C,17/02/2015,Taunton,Ibis Du Rheu,Win,4,Lose,FALSE
+2108,274,Tipster C,17/02/2015,Wetherby,Always Tipsy,Each Way,15,Win,FALSE
+2109,275,Tipster C,17/02/2015,Wolverhampton,King Crimson,Each Way,11,Lose,FALSE
+2110,276,Tipster C,17/02/2015,Wetherby,Luna Nuova,Each Way,41,Lose,FALSE
+2111,277,Tipster C,17/02/2015,Wolverhampton,Mr Sundowner,Each Way,8.5,Lose,FALSE
+2112,278,Tipster C,18/02/2015,Lingfield,Tidals Baby,Each Way,15,Lose,FALSE
+2113,279,Tipster C,18/02/2015,Lingfield,Celestine Abbey,Each Way,10,Lose,FALSE
+2114,280,Tipster C,18/02/2015,Ludlow,Canadian Diamond,Each Way,10,Lose,FALSE
+2115,281,Tipster C,18/02/2015,Lingfield,Powerfulstorm,Each Way,29,Win,FALSE
+2116,282,Tipster C,18/02/2015,Wolverhampton,Triple Chocolate,Each Way,12,Win,FALSE
+2117,283,Tipster C,19/02/2015,Sedgefield,Zazamix,Win,8.5,Lose,FALSE
+2118,284,Tipster C,19/02/2015,Meydan,Banaadeer,Each Way,10,Win,FALSE
+2119,285,Tipster C,19/02/2015,Cartmel,Claude Carter,Each Way,10,Lose,FALSE
+2120,286,Tipster C,19/02/2015,Chelmsford,Rocket Rob,Each Way,12,Lose,FALSE
+2121,287,Tipster C,19/02/2015,Chelmsford,With Hindsight,Each Way,17,Lose,FALSE
+2122,288,Tipster C,20/02/2015,Exeter,Rally,Each Way,19,Lose,FALSE
+2123,289,Tipster C,20/02/2015,Lingfield,Starlight Symphony,Each Way,15,Win,FALSE
+2124,290,Tipster C,20/02/2015,Wolverhampton,Two Turtle Doves,Each Way,11,Lose,FALSE
+2125,291,Tipster C,20/02/2015,Wolverhampton,Captain Scooby,Each Way,13,Lose,FALSE
+2126,292,Tipster C,20/02/2015,Wolverhampton,Prigsnov Dancer,Win,9.5,Lose,FALSE
+2127,293,Tipster C,21/02/2015,Newcastle,Fisher,Each Way,11,Lose,FALSE
+2128,294,Tipster C,21/02/2015,Newcastle,Wyck Hill,Each Way,10,Lose,FALSE
+2129,295,Tipster C,21/02/2015,Newcastle,Tutchec,Each Way,13,Lose,FALSE
+2130,296,Tipster C,21/02/2015,Kempton,Le Reve,Each Way,10,Win,FALSE
+2131,297,Tipster C,21/02/2015,Newcastle,Big River,Each Way,14,Win,FALSE
+2132,298,Tipster C,22/02/2015,SouthWell,Presenting Paddy,Each Way,17,Lose,FALSE
+2133,299,Tipster C,22/02/2015,Naas,The Herds Garden,Each Way,13,Lose,FALSE
+2134,300,Tipster C,22/02/2015,Naas,Harangue,Each Way,26,Lose,FALSE
+2135,301,Tipster C,22/02/2015,SouthWell,Mr Lando,Win,2.38,Lose,FALSE
+2136,302,Tipster C,22/02/2015,SouthWell,Isla Di Milano,Each Way,17,Lose,FALSE
+2137,303,Tipster C,23/02/2015,Wolverhampton,Penalty Scorer,Each Way,26,Lose,FALSE
+2138,304,Tipster C,23/02/2015,Ayr,Kilkenny Kim,Win,4,Lose,FALSE
+2139,305,Tipster C,23/02/2015,Hamilton,Off The Scale,Each Way,11,Lose,FALSE
+2140,306,Tipster C,23/02/2015,Wolverhampton,Dream Child,Win,1.95,Lose,FALSE
+2141,307,Tipster C,23/02/2015,Wolverhampton,John Potts,Each Way,15,Lose,FALSE
+2142,308,Tipster C,24/02/2015,Lingfield,Hercullian Prince,Each Way,19,Lose,FALSE
+2143,309,Tipster C,24/02/2015,Lingfield,Tidal Moon,Each Way,22,Lose,FALSE
+2144,310,Tipster C,24/02/2015,Leicester,Brunswick Gold,Each Way,22,Lose,FALSE
+2145,311,Tipster C,24/02/2015,Lingfield,Lord Of The Storm,Each Way,15,Lose,FALSE
+2146,312,Tipster C,24/02/2015,Lingfield,Smugglers Lane,Win,8,Lose,FALSE
+2147,313,Tipster C,25/02/2015,Kempton,Townsville,Each Way,21,Win,FALSE
+2148,314,Tipster C,25/02/2015,Kempton,Skye Morning,Each Way,14,Lose,FALSE
+2149,315,Tipster C,25/02/2015,Kempton,Puzzle Time,Win,5.5,Lose,FALSE
+2150,316,Tipster C,25/02/2015,Aintree,Saint Helena,Each Way,15,Lose,FALSE
+2151,317,Tipster C,25/02/2015,Kempton,Jolly Red Jeanz,Each Way,13,Lose,FALSE
+2152,318,Tipster C,26/02/2015,SouthWell,Gabrial The Tiger,Each Way,13,Lose,FALSE
+2153,319,Tipster C,26/02/2015,Hamilton,Five Star Wilsham,Each Way,29,Win,FALSE
+2154,320,Tipster C,26/02/2015,SouthWell,Gabrial The Duke,Win,5,Lose,FALSE
+2155,321,Tipster C,26/02/2015,Meydan,Anaerobio,Each Way,13,Lose,FALSE
+2156,322,Tipster C,26/02/2015,Chelmsford,Valentines Gift,Each Way,41,Lose,FALSE
+2157,323,Tipster C,27/02/2015,Lingfield,Inauguration,Each Way,15,Lose,FALSE
+2158,324,Tipster C,27/02/2015,Arlington Park,Truckers Darling,Each Way,13,Lose,FALSE
+2159,325,Tipster C,27/02/2015,Newbury,Island Cruise,Each Way,11,Lose,FALSE
+2160,326,Tipster C,27/02/2015,Doncaster,Celtic Artisan,Each Way,21,Lose,FALSE
+2161,327,Tipster C,27/02/2015,Wolverhampton,Mazij,Each Way,15,Lose,FALSE
+2162,328,Tipster C,28/02/2015,Newbury,Wily Fox,Each Way,26,Lose,FALSE
+2163,329,Tipster C,28/02/2015,Newbury,Golden Chieftain,Each Way,15,Lose,FALSE
+2164,330,Tipster C,28/02/2015,Doncaster,Samingarry,Each Way,13,Lose,FALSE
+2165,331,Tipster C,28/02/2015,Doncaster,Night In Milan,Win,7,Lose,FALSE
+2166,332,Tipster C,28/02/2015,Newbury,Wildmoor Boy,Each Way,14,Lose,FALSE
+2167,333,Tipster C,02/03/2015,Bath,Bathcounty,Win,4,Win,FALSE
+2168,334,Tipster C,02/03/2015,SouthWell,Kilcascan,Win,9,Lose,FALSE
+2169,335,Tipster C,02/03/2015,Fakenham,Aviador,Win,4,Lose,FALSE
+2170,336,Tipster C,02/03/2015,Wolverhampton,Virtual Reality,Win,10,Lose,FALSE
+2171,337,Tipster C,02/03/2015,Wolverhampton,Edgware Road,Win,17,Lose,FALSE
+2172,338,Tipster C,03/03/2015,Exeter,Emma Soda,Each Way,21,Lose,FALSE
+2173,339,Tipster C,03/03/2015,SouthWell,Sleet,Win,3.1,Lose,FALSE
+2174,340,Tipster C,03/03/2015,SouthWell,Very First Blade,Win,2.88,Lose,FALSE
+2175,341,Tipster C,03/03/2015,Newcastle,Down The Line,Each Way,11,Win,FALSE
+2176,342,Tipster C,04/03/2015,Kempton,Caledonia Laird,Each Way,12,Lose,FALSE
+2177,343,Tipster C,04/03/2015,Kempton,Tychaios,Each Way,13,Win,FALSE
+2178,344,Tipster C,04/03/2015,Kempton,Welsh Inlet,Each Way,13,Win,FALSE
+2179,345,Tipster C,04/03/2015,Kempton,Compton Prince,Each Way,13,Lose,FALSE
+2180,346,Tipster C,05/03/2015,SouthWell,Cocker,Each Way,15,Lose,FALSE
+2181,347,Tipster C,05/03/2015,Chelmsford,Angelito,Each Way,21,Win,FALSE
+2182,348,Tipster C,06/03/2015,Sandown,Goldie Horn,Each Way,11,Lose,FALSE
+2183,349,Tipster C,06/03/2015,Sandown,Serienschock,Each Way,10,Win,FALSE
+2184,350,Tipster C,06/03/2015,Wolverhampton,Suni Dancer,Each Way,21,Lose,FALSE
+2185,351,Tipster C,07/03/2015,Sandown,Hello George,Each Way,12,Lose,FALSE
+2186,352,Tipster C,07/03/2015,Sandown,Lifeboat Mona,Each Way,11,Win,FALSE
+2187,353,Tipster C,08/03/2015,Market Rasen,Sergeant Pink,Win,3.5,Lose,FALSE
+2188,354,Tipster C,10/03/2015,Cheltenham,Vibrato Valtat,Win,8,Lose,FALSE
+2189,355,Tipster C,10/03/2015,Cheltenham,Faugheen,Win,2.1,Win,FALSE
+2190,356,Tipster C,10/03/2015,Cheltenham,The Pirates Queen,Each Way,26,Lose,FALSE
+2191,357,Tipster C,10/03/2015,Cheltenham,Sego Success,Win,6.5,Lose,FALSE
+2192,358,Tipster C,11/03/2015,Cheltenham,Windsor Park,Win,6,Win,FALSE
+2193,359,Tipster C,11/03/2015,Cheltenham,Southfield Theatre,Win,8.5,Lose,FALSE
+2194,360,Tipster C,11/03/2015,Cheltenham,Mijhaar,Each Way,34,Lose,FALSE
+2195,361,Tipster C,11/03/2015,Cheltenham,Sebastian Beach,Each Way,34,Lose,FALSE
+2196,362,Tipster C,12/03/2015,Cheltenham,Vautour,Win,2.63,Win,FALSE
+2197,363,Tipster C,12/03/2015,Cheltenham,Katkeau,Each Way,34,Lose,FALSE
+2198,364,Tipster C,12/03/2015,Cheltenham,Ma Filleule,Win,6.5,Lose,FALSE
+2199,365,Tipster C,12/03/2015,Cheltenham,Lieutenant Colonel,Each Way,10,Lose,FALSE
+2200,366,Tipster C,12/03/2015,Cheltenham,Benbens,Each Way,21,Lose,FALSE
+2201,367,Tipster C,13/03/2015,Cheltenham,Top Notch,Each Way,8.5,Win,FALSE
+2202,368,Tipster C,13/03/2015,Cheltenham,Ballyglasheen,Each Way,81,Lose,FALSE
+2203,369,Tipster C,13/03/2015,Cheltenham,Definitly Red,Each Way,26,Lose,FALSE
+2204,370,Tipster C,13/03/2015,Cheltenham,Road To Riches,Each Way,13,Win,FALSE
+2205,371,Tipster C,13/03/2015,Cheltenham,Grumeti,Each Way,17,Lose,FALSE
+2206,372,Tipster C,14/03/2015,Kempton,Thundering Home,Each Way,34,Lose,FALSE
+2207,373,Tipster C,14/03/2015,Uttoxeter,Goonyella,Each Way,10,Win,FALSE
+2208,374,Tipster C,16/03/2015,SouthWell,Oscar Oscar,Win,7,Lose,FALSE
+2209,375,Tipster C,16/03/2015,SouthWell,Rosie Revenue,Each Way,17,Lose,FALSE
+2210,376,Tipster C,17/03/2015,SouthWell,Imjin River,Each Way,13,Lose,FALSE
+2211,377,Tipster C,17/03/2015,Exeter,Flying Light,Each Way,17,Win,FALSE
+2212,378,Tipster C,17/03/2015,Wetherby,Westend Theatre,Each Way,11,Lose,FALSE
+2213,379,Tipster C,17/03/2015,Wetherby,Back By Midnight,Each Way,9,Lose,FALSE
+2214,380,Tipster C,17/03/2015,SouthWell,Archie Stevens,Each Way,19,Lose,FALSE
+2215,381,Tipster C,18/03/2015,Warwick,Mr Mcgregor,Each Way,11,Win,FALSE
+2216,382,Tipster C,18/03/2015,Chelmsford,Myboyalfie,Each Way,13,Lose,FALSE
+2217,383,Tipster C,18/03/2015,Kempton,Jackpot,Each Way,34,Lose,FALSE
+2218,384,Tipster C,18/03/2015,Kempton,Drive On,Each Way,9,Lose,FALSE
+2219,385,Tipster C,18/03/2015,Kempton,Catalinas Diamond,Each Way,10,Lose,FALSE
+2220,386,Tipster C,19/03/2015,Wolverhampton,Noverre To Go,Each Way,29,Win,FALSE
+2221,387,Tipster C,19/03/2015,Wolverhampton,Cloak And Degas,Each Way,17,Win,FALSE
+2222,388,Tipster C,19/03/2015,Hamilton,Champagne Ransom,Each Way,21,Lose,FALSE
+2223,389,Tipster C,19/03/2015,Ludlow,Desertmore Hill,Each Way,15,Win,FALSE
+2224,390,Tipster C,20/03/2015,Sedgefield,Great Demeanor,Each Way,15,Lose,FALSE
+2225,391,Tipster C,20/03/2015,Newbury,Rendezvous Peak,Each Way,21,Lose,FALSE
+2226,392,Tipster C,20/03/2015,Newbury,Bold Adventure,Each Way,26,Lose,FALSE
+2227,393,Tipster C,20/03/2015,Newbury,Tony Star,Each Way,26,Lose,FALSE
+2228,394,Tipster C,20/03/2015,Newbury,Royal Guardsman,Each Way,10,Lose,FALSE
+2229,395,Tipster C,23/03/2015,Wolverhampton,Studfarmer,Each Way,34,Win,FALSE
+2230,396,Tipster C,23/03/2015,Wolverhampton,Olney Lass,Each Way,17,Lose,FALSE
+2231,397,Tipster C,23/03/2015,Towcester,Crouching Harry,Each Way,15,Win,FALSE
+2232,398,Tipster C,23/03/2015,Wolverhampton,Tight Lipped,Each Way,9,Lose,FALSE
+2233,399,Tipster C,23/03/2015,Taunton,Barista,Each Way,13,Lose,FALSE
+2234,400,Tipster C,24/03/2015,Wolverhampton,Emily Davison,Each Way,17,Win,FALSE
+2235,401,Tipster C,24/03/2015,SouthWell,Dance For Livvy,Each Way,11,Lose,FALSE
+2236,402,Tipster C,24/03/2015,SouthWell,Calin Du Brizais,Each Way,11,Lose,FALSE
+2237,403,Tipster C,25/03/2015,SouthWell,Patriotic,Each Way,15,Win,FALSE
+2238,404,Tipster C,25/03/2015,SouthWell,Well Shake Hands,Each Way,13,Lose,FALSE
+2239,405,Tipster C,25/03/2015,Lingfield,Swift Blade,Each Way,28,Win,FALSE
+2240,406,Tipster C,25/03/2015,Newton Abbot,Sweet Boy Vic,Each Way,12,Win,FALSE
+2241,407,Tipster C,25/03/2015,Lingfield,Teen Ager,Each Way,17,Win,FALSE
+2242,408,Tipster C,26/03/2015,Newbury,Flying Eagle,Each Way,21,Lose,FALSE
+2243,409,Tipster C,26/03/2015,Newbury,Remiluc,Win,2.88,Lose,FALSE
+2244,410,Tipster C,26/03/2015,Cork,Clara More,Each Way,13,Lose,FALSE
+2245,411,Tipster C,26/03/2015,Chelmsford,Hierarch,Win,4.5,Lose,FALSE
+2246,412,Tipster C,30/03/2015,Warwick,Foundation Man,Each Way,17,Lose,FALSE
+2247,413,Tipster C,30/03/2015,Kempton,Kings Request,Each Way,13,Lose,FALSE
+2248,414,Tipster C,30/03/2015,Warwick,The Gipper,Each Way,9,Win,FALSE
+2249,415,Tipster C,30/03/2015,Kempton,Popping Along,Each Way,23,Win,FALSE
+2250,416,Tipster C,31/03/2015,Huntingdon,Letter Exit,Each Way,34,Lose,FALSE
+2251,417,Tipster C,31/03/2015,Exeter,Party Palace,Each Way,13,Win,FALSE
+2252,418,Tipster C,31/03/2015,SouthWell,Alpha Tauri,Each Way,11,Lose,FALSE
+2253,419,Tipster C,31/03/2015,SouthWell,Conserve,Each Way,10,Lose,FALSE
+2254,420,Tipster C,31/03/2015,Exeter,Mac Bertie,Each Way,13,Lose,FALSE
+2255,421,Tipster C,01/04/2015,Wincanton,Kellys Brow,Each Way,22,Lose,FALSE
+2256,422,Tipster C,01/04/2015,Wincanton,Ladies Dancing,Each Way,13,Lose,FALSE
+2257,423,Tipster C,01/04/2015,Wincanton,Blue April,Each Way,34,Lose,FALSE
+2258,424,Tipster C,01/04/2015,Wincanton,Hill Forts Gypse,Each Way,41,Lose,FALSE
+2259,425,Tipster C,01/04/2015,Kempton,Graffiti Art,Each Way,21,Win,FALSE
+2260,426,Tipster C,03/04/2015,Musselburgh,Esteaming,Each Way,13,Win,FALSE
+2261,427,Tipster C,03/04/2015,Musselburgh,Tom Hark,Each Way,10,Lose,FALSE
+2262,428,Tipster C,03/04/2015,Lingfield,Grendisar,Each Way,6,Win,FALSE
+2263,429,Tipster C,03/04/2015,Lingfield,Blue Aegean,Each Way,8,Win,FALSE
+2264,430,Tipster C,04/04/2015,Kempton,Tea Blossom,Each Way,17,Lose,FALSE
+2265,431,Tipster C,04/04/2015,Kempton,Realize,Each Way,15,Win,FALSE
+2266,432,Tipster C,04/04/2015,Haydock,Tenor Nivernais,Each Way,11,Lose,FALSE
+2267,433,Tipster C,05/04/2015,Cork,Clara More,Each Way,21,Lose,FALSE
+2268,434,Tipster C,05/04/2015,Sedgefield,Brunello,Each Way,11,Lose,FALSE
+2269,435,Tipster C,05/04/2015,Fairyhouse,Carrigmoorna Rock,Each Way,13,Lose,FALSE
+2270,436,Tipster C,05/04/2015,Cork,Mrs Mac Veale,Each Way,15,Win,FALSE
