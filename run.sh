@@ -1,0 +1,1 @@
+FLASk_APP=SportsbettingAPP/app.py flask run
