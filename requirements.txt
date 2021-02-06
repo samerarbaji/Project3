@@ -6,11 +6,11 @@ Flask==1.1.2
 Flask-PyMongo==2.3.0
 Flask-SQLAlchemy==2.4.4
 gunicorn==20.0.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
+pandas==0.24.1
 psycopg2==2.8.6
 plotly==4.14.3
 pymongo==3.11.2
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-scipy @ file:///C:/ci/scipy_1592916963468/work
+requests==2.21.0
+scipy==1.2.1
 splinter==0.14.0
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445271541/work
+SQLAlchemy==1.2.18
