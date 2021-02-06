@@ -1,4 +1,4 @@
-UID,ID,Tipster,Date,Track,Horse,Bet Type,Odds,Result,TipsterActive
+UID,ID,Tipster,Date,Track,Horse,BetType,Odds,Result,TipsterActive
 1,1,Tipster A,24/07/2015,Ascot,Fredricka,Win,8,Lose,TRUE
 2,2,Tipster A,24/07/2015,Thirsk,Spend A Penny,Win,4.5,Lose,TRUE
 3,3,Tipster A,24/07/2015,York,Straightothepoint,Win,7,Lose,TRUE
