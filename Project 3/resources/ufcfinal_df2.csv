@@ -1,4 +1,4 @@
-Fight_ID,Red_Corner_Fighter,Blue_Corner_Fighter,Red_Fighter_odds,Blue_Fighter_odds,Winner,Red_Corner_Fighter,Blue_Corner_Fighter,Red_Fighter_odds,Blue_Fighter_odds,Winner,Red_profit_on_a_100_credit_winnin_bet,Blue_profit_on_a_100_credit_winnin_bet
+Fight_ID,Red_Corner_Fighter1,Blue_Corner_Fighter1,Red_Fighter_odds1,Blue_Fighter_odds1,Winner1,Red_Corner_Fighter2,Blue_Corner_Fighter2,Red_Fighter_odds2,Blue_Fighter_odds2,Winner2,Red_profit_on_a_100_credit_winnin_bet,Blue_profit_on_a_100_credit_winnin_bet
 0,Kevin Lee,Charles Oliveira,-145,135,Blue,Anthony Smith,Devin Clark,-139,115,Red,71.94244604,115
 1,Demian Maia,Gilbert Burns,160,-170,Blue,Miguel Baeza,Takashi Sato,-175,140,Red,57.14285714,140
 2,Renato Moicano,Damir Hadzovic,-345,315,Red,Josh Parisian,Parker Porter,-200,160,Blue,50,160
@@ -2459,7 +2459,7 @@ Fight_ID,Red_Corner_Fighter,Blue_Corner_Fighter,Red_Fighter_odds,Blue_Fighter_od
 2457,Miesha Tate,Sara McMann,165,-175,Red,Joe Riggs,Ron Stallings,195,-235,Red,195,42.55319149
 2458,Ed Herman,Derek Brunson,540,-660,Blue,Joaquim Silva,Nazareno Malegarie,105,-125,Red,105,80
 2459,Ian McCall,John Lineker,-220,200,Blue,Max Holloway,Charles Oliveira,-255,215,Red,39.21568627,215
-#NAME?,Rafael Natal,Tom Watson,-135,125,Red,Neil Magny,Erick Silva,170,-200,Red,170,50
+2460,Rafael Natal,Tom Watson,-135,125,Red,Neil Magny,Erick Silva,170,-200,Red,170,50
 2461,Richardson Moreira,Ildemar Alcantara,145,-155,Blue,Patrick Cote,Joshua Burkman,150,-170,Red,150,58.82352941
 2462,Thiago Santos,Andy Enz,-175,165,Red,Chad Laprise,Francisco Trinaldo,-460,365,Blue,21.73913043,365
 2463,Alexander Gustafsson,Anthony Johnson,-290,260,Blue,Olivier Aubin-Mercier,Tony Sims,-200,170,Red,50,170
