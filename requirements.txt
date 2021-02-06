@@ -11,6 +11,5 @@ psycopg2==2.8.6
 plotly==4.14.3
 pymongo==3.11.2
 requests==2.21.0
-scipy==1.2.1
 splinter==0.14.0
 SQLAlchemy==1.2.18
