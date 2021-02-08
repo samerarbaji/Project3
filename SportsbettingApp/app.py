@@ -75,7 +75,7 @@ def pals():
 
     return jsonify(pet_data)
 
-@app.route("/api/main/NFLRoute")
+@app.route("/api/NFLRoute")
 #returns data of all odds from a requested team
 def NFLRoute(TeamName):
     #creates a tuple of NFL records of the team name requested
@@ -96,5 +96,47 @@ def NFLRoute(TeamName):
 
     return jsonify(TeamOutput)
 
+@app.route("/api/HorseRoute")
+def HorseRoute():
+    HorseData = db.session.query(tips2).all()
+
+    HorseOutput = []
+
+    for item in HorseData:
+        output ={
+            "Date":item[3],
+            "Track":item[4],
+            "Horse":item[5],
+            "Bet Type":item[6],
+            "Odds":item[7],
+            "Result":item[8]
+        }
+        HorseOutput.append(output)
+     
+    return jsonify(HorseOutput)
+
+@app.route("api/UFCRoute")
+def UFCRoute():
+    UFCData = db.session.query(ufcfinal_df2).all()
+
+    UFCOutput = []
+
+    for item in UFCData:
+        output ={
+            "Red Corner Fighter 1":item[1],
+            "Blue Corner Fighter 1":item[2],
+            "Red Fighter 1 Odds":item[3],
+            "Blue Fighter 1 Odds":item[4],
+            "Winner of Fight 1":item[5],
+            "Red Corner Fighter 2":item[6],
+            "Blue Corner Fighter 2":item[7],
+            "Red Fighter 2 Odds":item[8],
+            "Blue Fighter 2 Odds":item[9],
+            "Winner of Figth 2":item[10]
+        }
+        UFCOutput.append(output)
+     
+    return jsonify(HorseOutput)
+    
 if __name__ == "__main__":
     app.run()
