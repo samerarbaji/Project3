@@ -82,7 +82,7 @@ def NFLRoute(TeamName):
     TeamData = db.session.query(NFL_Opening_Odds2).filter(Home_Team == TeamName or Away_Team == TeamName).all()
     
     TeamOutput = []
-    #loop through values in NFLData and put it in correct format to jsonify
+    #loop through values in NFLData and put it in correct format jsonify
     for item in TeamData:
         output = {
             "Date":item[1],
@@ -92,8 +92,7 @@ def NFLRoute(TeamName):
             "Home Odds":item[5],
             "Away Odds":item[6]
         }
-    
-    TeamOutput.append(TeamData)
+        TeamOutput.append(output)
 
     return jsonify(TeamOutput)
 
