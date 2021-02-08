@@ -75,6 +75,27 @@ def pals():
 
     return jsonify(pet_data)
 
+@app.route("/api/main/NFLRoute")
+#returns data of all odds from a requested team
+def NFLRoute(TeamName):
+    #creates a tuple of NFL records of the team name requested
+    TeamData = db.session.query(NFL_Opening_Odds2).filter(Home_Team == TeamName or Away_Team == TeamName).all()
+    
+    TeamOutput = []
+    #loop through values in NFLData and put it in correct format to jsonify
+    for item in TeamData:
+        output = {
+            "Date":item[1],
+            "Home Team":item[2],
+            "Away Team":item[3],
+            "Home Win?":item[4],
+            "Home Odds":item[5],
+            "Away Odds":item[6]
+        }
+    
+    TeamOutput.append(TeamData)
+
+    return jsonify(TeamOutput)
 
 if __name__ == "__main__":
     app.run()
