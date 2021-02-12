@@ -51,23 +51,29 @@ class NFLRoute(db.Model):
 
 @app.route("/api/NFLRoute")
 #returns data of all odds from a requested team jsonified
-def NFLRoute(TeamName):
-    #creates a tuple of NFL records of the team name requested
-    TeamData = db.session.query(NFL_Opening_Odds2).filter(Home_Team == TeamName or Away_Team == TeamName).all()
+def NFLRoute2():
+    results1 = db.session.query(
+    NFLRoute.Home_Win, 
+    NFLRoute.Home_Team, 
+    NFLRoute.Away_Team, 
+    NFLRoute.Home_Odds, 
+    NFLRoute.Away_odds).all()
     
-    TeamOutput = []
-    #loop through values in NFLData and put it in correct format jsonify
-    for item in TeamData:
-        output = {
-            "Home Team":item[2],
-            "Away Team":item[3],
-            "Home Win":item[4],
-            "Home Odds":item[5],
-            "Away Odds":item[6]
+    result_list1 = []
+    
+    for result in results1:
+        NFLdata = {
+            "Home Team":item[1],
+            "Away Team":item[2],
+            "Home Win":item[3],
+            "Home Odds":item[4],
+            "Away Odds":item[5]
         }
-        TeamOutput.append(output)
 
-    return jsonify(TeamOutput)
+        result_list1.append(NFLdata)
+
+    return jsonify(result_list1)
+
 
 class HorseRoute(db.Model):
     __tablename__ = 'Horse betting'
@@ -83,22 +89,28 @@ class HorseRoute(db.Model):
 
 @app.route("/api/HorseRoute")
 #returns horse betting jsonified data
-def HorseRoute():
-    HorseData = db.session.query(tips2).all()
-
-    HorseOutput = []
-
-    for item in HorseData:
-        output ={
-            "Track":item[4],
-            "Horse":item[5],
-            "Bet Type":item[6],
-            "Odds":item[7],
-            "Result":item[8]
+def NFLRoute():
+    results1 = db.session.query(
+    HorseRoute.Result, 
+    HorseRoute.Horse, 
+    HorseRoute.BetType, 
+    HorseRoute.Track, 
+    HorseRoute.Odds).all()
+    
+    result_list1 = []
+    
+    for result in results1:
+        Horsedata = {
+            "Track":item[1],
+            "Horse":item[2],
+            "Bet Type":item[3],
+            "Odds":item[4],
+            "Result":item[5]
         }
-        HorseOutput.append(output)
-     
-    return jsonify(HorseOutput)
+
+        result_list1.append(Horsedata)
+
+    return jsonify(result_list1)
 
 class UFCRoute(db.Model):
     __tablename__ = 'UFC betting'
@@ -119,13 +131,23 @@ class UFCRoute(db.Model):
 
 @app.route("/api/UFCRoute")
 #returns UFC fight data jsonified
-def UFCRoute():
-    UFCData = db.session.query(ufcfinal_df2).all()
-
-    UFCOutput = []
-
-    for item in UFCData:
-        output ={
+def UFCRoute2():
+    results1 = db.session.query(
+    NFLRoute.Winner1, 
+    UFCRoute.Winner2, 
+    UFCRoute.Red_Corner_Fighter1, 
+    UFCRoute.Blue_Corner_Fighter1, 
+    UFCRoute.Red_Fighter_odds1,
+    UFCRoute.Blue_Fighter_odds1,
+    UFCRoute.Red_Corner_Fighter2, 
+    UFCRoute.Blue_Corner_Fighter2, 
+    UFCRoute.Red_Fighter_odds2,
+    UFCRoute.Blue_Fighter_odds2).all()
+    
+    result_list1 = []
+    
+    for result in results1:
+        UFCdata = {
             "Red Corner Fighter 1":item[1],
             "Blue Corner Fighter 1":item[2],
             "Red Fighter 1 Odds":item[3],
@@ -137,9 +159,10 @@ def UFCRoute():
             "Blue Fighter 2 Odds":item[9],
             "Winner of Fight 2":item[10]
         }
-        UFCOutput.append(output)
-     
-    return jsonify(UFCOutput)
+
+        result_list1.append(UFCdata)
+
+    return jsonify(result_list1)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
