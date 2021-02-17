@@ -23,7 +23,7 @@ app = Flask(__name__)
 #################################################
 
 
-app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///sportsbetting.db"
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgres:samer123@localhost:5432/project2_db"
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
