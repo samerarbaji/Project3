@@ -14,7 +14,6 @@ from sqlalchemy import create_engine, engine
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-import psycopg2
 
 
 
@@ -32,12 +31,21 @@ app = Flask(__name__)
 
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import func
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql+psycopg2://postgres:postgres@localhost:5432/project3"
+#app.config['SQLALCHEMY_DATABASE_URI'] = "postgres:postgres@localhost:5432/project3"
 # Remove tracking modifications
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+from sqlalchemy import create_engine
+engine = create_engine("postgres://bwxormoq:eKtYIkVXGTjFJYwGePZHd1aSVOFZtjkP@ziggy.db.elephantsql.com:5432/bwxormoq")
 
-db = SQLAlchemy(app)
+Base = automap_base()
+Base.prepare(engine, reflect=True)
+#app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
+#db = SQLAlchemy(app)
+
+#Tables for queries
+#NFLRoute = public.NFL
+#HorseRoute = public.Horseracing
+#UFCRoute = public.UFC1
 
 # create route that renders index.html template
 @app.route("/")
@@ -49,7 +57,7 @@ def home():
     
    
 
-@app.route("/api/NFLRoute")
+@app.route("/api/NFL")
 #returns data of all odds from a requested team jsonified
 def NFLRoute():
     session = Session(engine)
@@ -59,19 +67,21 @@ def NFLRoute():
     NFLRoute.Winner_Home, 
     NFLRoute.Odds_Home, 
     NFLRoute.Odds_Away).all()
-    
+
+    session.close()
+
     result_list1 = []
     
-    for result1 in results1:
-        NFLdata = {
-            "Home_Team": result1[1],
-            "Away_Team": result1[2],
-            "Winner_Home": result1[3],
-            "Odds_Home": result1[4],
-            "Odds_Away": result1[5]
-        }
+    for Home_Team, Away_Team, Winner_Home, Odds_Home, Odds_Away in results1:
+        NFL = {}
+        NFL["Home_Team"] = Home_Team
+        NFL["Away_Team"] = Away_Team
+        NFL["Winner_Home"] = Winner_Home
+        NFL["Odds_Home"] = Odds_Home
+        NFL["Odds_Away"] = Odds_Away
+        
 
-        result_list1.append(NFLdata)
+        result_list1.append(NFL)
 
     return jsonify(result_list1)
 
@@ -80,7 +90,7 @@ def NFLRoute():
     
     
 
-@app.route("/api/HorseRoute")
+@app.route("/api/Horseracing")
 #returns horse betting jsonified data
 def HorseRoute():
     session = Session(engine)
@@ -90,19 +100,21 @@ def HorseRoute():
     HorseRoute.BetType, 
     HorseRoute.Odds, 
     HorseRoute.Winner).all()
+
+    session.close()
     
     result_list2 = []
     
-    for result2 in results2:
-        Horsedata = {
-            "Track": result2[1],
-            "Horse": result2[2],
-            "BetType": result2[3],
-            "Odds": result2[4],
-            "Winner": result2[5]
-        }
+    for Track, Horse, BetType, Odds, Winner in results2:
+        Horseracing = {}
+        Horseracing["Track"] = Track
+        Horseracing["Horse"] = Horse
+        Horseracing["BetType"] = BetType
+        Horseracing["Odds"] = Odds
+        Horseracing["Winner"] = Winner
+        
 
-        result_list2.append(Horsedata)
+        result_list2.append(Horseracing)
 
     return jsonify(result_list2)
 
@@ -110,7 +122,7 @@ def HorseRoute():
     
     
 
-@app.route("/api/UFCRoute")
+@app.route("/api/UFC1")
 #returns UFC fight data jsonified
 def UFCRoute():
     session = Session(engine)
@@ -120,19 +132,21 @@ def UFCRoute():
     UFCRoute.Odds_Red_Fighter,
     UFCRoute.Odds_Blue_Fighter,
     UFCRoute.Winner).all()
+
+    session.close()
     
     result_list3 = []
     
-    for result3 in results3:
-        UFCdata = {
-            "Red_Corner_Fighter ": result3[1],
-            "Blue_Corner_Fighter ": result3[2],
-            "Odds_Red_Fighter": result3[3],
-            "Odds_Blue_Fighter": result3[4],
-            "Winner": result3[5]
-        }
+    for Red_Corner_Fighter, Blue_Corner_Fighter, Odds_Red_Fighter, Odds_Blue_Fighter, Winner in results3:
+        UFC1 = {}
+        UFC1["Red_Corner_Fighter"] = Red_Corner_Fighter
+        UFC1["Blue_Corner_Fighter"] = Blue_Corner_Fighter
+        UFC1["Odds_Red_Fighter"] = Odds_Red_Fighter
+        UFC1["Odds_Blue_Fighter"] = Odds_Blue_Fighter
+        UFC1["Winner"] = Winner
+        
 
-        result_list3.append(UFCdata)
+        result_list3.append(UFC1)
 
     return jsonify(result_list3)
 
