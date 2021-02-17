@@ -14,6 +14,7 @@ from sqlalchemy import create_engine, engine
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
+import psycopg2
 
 
 
@@ -31,7 +32,7 @@ app = Flask(__name__)
 
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import func
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgres:postgres@localhost:5432/project3"
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql+psycopg2://postgres:postgres@localhost:5432/project3"
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
