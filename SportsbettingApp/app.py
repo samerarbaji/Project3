@@ -30,7 +30,7 @@ from sqlalchemy import func
 #app.config['SQLALCHEMY_DATABASE_URI'] = "postgres:postgres@localhost:5432/project3"
 # Remove tracking modifications
 from sqlalchemy import create_engine
-engine = create_engine("postgres://bwxormoq:eKtYIkVXGTjFJYwGePZHd1aSVOFZtjkP@ziggy.db.elephantsql.com:5432/bwxormoq")
+engine = create_engine('postgres://bwxormoq:eKtYIkVXGTjFJYwGePZHd1aSVOFZtjkP@ziggy.db.elephantsql.com:5432/bwxormoq')
 
 Base = automap_base()
 Base.prepare(engine, reflect=True)
@@ -38,6 +38,9 @@ Base.prepare(engine, reflect=True)
 
 #db = SQLAlchemy(app)
 
+NFL_Route=Base.classes.NFL
+Horse_Route=Base.classes.Horseracing
+UFC_Route=Base.classes.UFC1
 
 # create route that renders index.html template
 @app.route("/")
@@ -50,11 +53,11 @@ def home():
 def NFLRoute():
     session = Session(engine)
     results1 = session.query( 
-    NFLRoute.Home_Team, 
-    NFLRoute.Away_Team,
-    NFLRoute.Winner_Home, 
-    NFLRoute.Odds_Home, 
-    NFLRoute.Odds_Away).all()
+    NFL_Route.Home_Team, 
+    NFL_Route.Away_Team,
+    NFL_Route.Winner_Home, 
+    NFL_Route.Odds_Home, 
+    NFL_Route.Odds_Away).all()
 
     session.close()
 
@@ -77,11 +80,11 @@ def NFLRoute():
 def HorseRoute():
     session = Session(engine)
     results2 = session.query(
-    HorseRoute.Track, 
-    HorseRoute.Horse, 
-    HorseRoute.BetType, 
-    HorseRoute.Odds, 
-    HorseRoute.Winner).all()
+    Horse_Route.Track, 
+    Horse_Route.Horse, 
+    Horse_Route.BetType, 
+    Horse_Route.Odds, 
+    Horse_Route.Winner).all()
 
     session.close()
     
@@ -104,11 +107,11 @@ def HorseRoute():
 def UFCRoute():
     session = Session(engine)
     results3 = session.query( 
-    UFCRoute.Red_Corner_Fighter, 
-    UFCRoute.Blue_Corner_Fighter, 
-    UFCRoute.Odds_Red_Fighter,
-    UFCRoute.Odds_Blue_Fighter,
-    UFCRoute.Winner).all()
+    UFC_Route.Red_Corner_Fighter, 
+    UFC_Route.Blue_Corner_Fighter, 
+    UFC_Route.Odds_Red_Fighter,
+    UFC_Route.Odds_Blue_Fighter,
+    UFC_Route.Winner).all()
 
     session.close()
     
