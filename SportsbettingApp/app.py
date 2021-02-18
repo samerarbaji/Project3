@@ -16,10 +16,6 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 
 
-
-
-
-
 #################################################
 # Flask Setup
 #################################################
@@ -42,20 +38,12 @@ Base.prepare(engine, reflect=True)
 
 #db = SQLAlchemy(app)
 
-#Tables for queries
-#NFLRoute = public.NFL
-#HorseRoute = public.Horseracing
-#UFCRoute = public.UFC1
 
 # create route that renders index.html template
 @app.route("/")
 def home():
     return render_template("index.html")
 
-
-
-    
-   
 
 @app.route("/api/NFL")
 #returns data of all odds from a requested team jsonified
@@ -79,16 +67,10 @@ def NFLRoute():
         NFL["Winner_Home"] = Winner_Home
         NFL["Odds_Home"] = Odds_Home
         NFL["Odds_Away"] = Odds_Away
-        
-
         result_list1.append(NFL)
 
     return jsonify(result_list1)
 
-
-
-    
-    
 
 @app.route("/api/Horseracing")
 #returns horse betting jsonified data
@@ -112,15 +94,10 @@ def HorseRoute():
         Horseracing["BetType"] = BetType
         Horseracing["Odds"] = Odds
         Horseracing["Winner"] = Winner
-        
-
         result_list2.append(Horseracing)
 
     return jsonify(result_list2)
 
-
-    
-    
 
 @app.route("/api/UFC1")
 #returns UFC fight data jsonified
@@ -144,11 +121,10 @@ def UFCRoute():
         UFC1["Odds_Red_Fighter"] = Odds_Red_Fighter
         UFC1["Odds_Blue_Fighter"] = Odds_Blue_Fighter
         UFC1["Winner"] = Winner
-        
-
         result_list3.append(UFC1)
 
     return jsonify(result_list3)
+
 
 if __name__ == "__main__":
     app.run(debug=True)
