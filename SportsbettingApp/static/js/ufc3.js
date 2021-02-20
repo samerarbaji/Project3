@@ -84,7 +84,7 @@ function ufcresponse() {
       .attr("cy", d => yScale(d.Odds_Blue_Fighter))
       .attr("r", "12")
       .attr("fill", "Purple")
-      .attr("opacity", ".5");
+      .attr("opacity", "0.5");
   
   
   
@@ -164,9 +164,9 @@ function ufcresponse() {
         });
   
     })
-    // .catch(function(error) {
-    //   console.log(error);
-    // }); 
+     .catch(function(error) {
+       console.log(error);
+    }); 
   
   
   };
