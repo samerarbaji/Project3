@@ -47,6 +47,9 @@ UFC_Route=Base.classes.UFC1
 def home():
     return render_template("index.html")
 
+@app.route("/ufc.html")
+def ufc():
+    return render_template("ufc.html")
 
 @app.route("/api/NFL")
 #returns data of all odds from a requested team jsonified
