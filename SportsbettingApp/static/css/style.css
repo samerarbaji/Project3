@@ -31,7 +31,7 @@
     animation-delay: 1.2s;
   }
 
-  {
+  .hero d{
     box-sizing: border-box;
     font-family: Ubuntu, sans-serif;
   }
