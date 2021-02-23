@@ -56,6 +56,7 @@ def ufc():
 def NFLRoute():
     session = Session(engine)
     results1 = session.query( 
+    NFL_Route.Index,
     NFL_Route.Home_Team, 
     NFL_Route.Away_Team,
     NFL_Route.Winner_Home, 
@@ -66,8 +67,9 @@ def NFLRoute():
 
     result_list1 = []
     
-    for Home_Team, Away_Team, Winner_Home, Odds_Home, Odds_Away in results1:
+    for Index, Home_Team, Away_Team, Winner_Home, Odds_Home, Odds_Away in results1:
         NFL = {}
+        NFL["index"] = Index
         NFL["Home_Team"] = Home_Team
         NFL["Away_Team"] = Away_Team
         NFL["Winner_Home"] = Winner_Home
