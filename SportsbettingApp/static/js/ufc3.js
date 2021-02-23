@@ -149,7 +149,7 @@ function ufcresponse() {
         .html(function(d) {
           //console.log(d.)
           //console.log(d.)
-        return (`<strong>Red Fighter:${d.Red_Corner_Fighter}<br>Blue Fighter:${d.Blue_Corner_Fighter}<br>Red Fighter Odds:${d.Odds_Red_Fighter}%<br>Blue Fighter Odds:${d.Odds_Blue_Fighter}%<br>Winner:${d.Winner}<strong>`);
+        return (`<strong>Red Fighter:${d.Red_Corner_Fighter}<strong><br>Blue Fighter:${d.Blue_Corner_Fighter}<br>Red Fighter Odds:${d.Odds_Red_Fighter}%<br>Blue Fighter Odds:${d.Odds_Blue_Fighter}%<br>Winner:${d.Winner}`);
         });
       // Step 2: Create the tooltip in chartGroup.
       chartGroup.call(toolTip);
