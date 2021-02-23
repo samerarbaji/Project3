@@ -111,7 +111,8 @@ def HorseRoute():
 #returns UFC fight data jsonified
 def UFCRoute():
     session = Session(engine)
-    results3 = session.query(     
+    results3 = session.query(  
+    UFC_Route.index,
     UFC_Route.Red_Corner_Fighter, 
     UFC_Route.Blue_Corner_Fighter, 
     UFC_Route.Odds_Red_Fighter,
@@ -123,7 +124,7 @@ def UFCRoute():
     
     result_list3 = []
     
-    for Red_Corner_Fighter, Blue_Corner_Fighter, Odds_Red_Fighter, Odds_Blue_Fighter, Winner, index in results3:
+    for index, Red_Corner_Fighter, Blue_Corner_Fighter, Odds_Red_Fighter, Odds_Blue_Fighter, Winner, index in results3:
         UFC1 = {}
         UFC1["index"] = index
         UFC1["Red_Corner_Fighter"] = Red_Corner_Fighter
